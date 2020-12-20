@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1575182814 source:c:\users\larissa\felipe(pessoal)\coberturavacinal(cdblocks)\vacinacdblocks\avl.c
+	"avl.h"
+	"listaord.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1575182467 c:\users\larissa\felipe(pessoal)\coberturavacinal(cdblocks)\vacinacdblocks\avl.h
+	"hashmap.h"
+	"listaord.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1575184780 c:\users\larissa\felipe(pessoal)\coberturavacinal(cdblocks)\vacinacdblocks\hashmap.h
+	<stdbool.h>
+
+1575210812 c:\users\larissa\felipe(pessoal)\coberturavacinal(cdblocks)\vacinacdblocks\listaord.h
+	<stdbool.h>
+	"hashmap.h"
+
+1575185736 source:c:\users\larissa\felipe(pessoal)\coberturavacinal(cdblocks)\vacinacdblocks\hashmap.c
+	"hashmap.h"
+	"listaord.h"
+	"avl.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1575210961 source:c:\users\larissa\felipe(pessoal)\coberturavacinal(cdblocks)\vacinacdblocks\listaord.c
+	"listaord.h"
+	"avl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"math.h"
+
+1575209547 source:c:\users\larissa\felipe(pessoal)\coberturavacinal(cdblocks)\vacinacdblocks\main.c
+	"hashmap.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<stdbool.h>
+	"avl.h"
+	"listaord.h"
+
+1608219597 source:c:\github\coberturavacinal(cdblocks)\vacinacdblocks\main.c
+	"menu.h"
+
+1607537197 c:\github\coberturavacinal(cdblocks)\vacinacdblocks\hashmap.h
+	<stdbool.h>
+
+1608221768 c:\github\coberturavacinal(cdblocks)\vacinacdblocks\avl.h
+	"hashmap.h"
+	"listaord.h"
+	<stdio.h>
+
+1575210814 c:\github\coberturavacinal(cdblocks)\vacinacdblocks\listaord.h
+	<stdbool.h>
+	"hashmap.h"
+
+1608219758 source:c:\github\coberturavacinal(cdblocks)\vacinacdblocks\hashmap.c
+	"hashmap.h"
+	"listaord.h"
+	"avl.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1608220124 source:c:\github\coberturavacinal(cdblocks)\vacinacdblocks\listaord.c
+	"listaord.h"
+	"avl.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"math.h"
+	"hashmap.h"
+
+1608221768 source:c:\github\coberturavacinal(cdblocks)\vacinacdblocks\avl.c
+	"avl.h"
+	"listaord.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1608221170 c:\github\coberturavacinal(cdblocks)\vacinacdblocks\menu.h
+
+1608221460 source:c:\github\coberturavacinal(cdblocks)\vacinacdblocks\menu.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"avl.h"
+	"listaord.h"
+	"hashmap.h"
+	"menu.h"
+
+1608227555 source:c:\github\coberturavacinal\projetocoberturavacinal\avl.c
+	"avl.h"
+	"listaord.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1608228884 c:\github\coberturavacinal\projetocoberturavacinal\avl.h
+	"hashmap.h"
+	"listaord.h"
+	<stdio.h>
+
+1608228611 c:\github\coberturavacinal\projetocoberturavacinal\hashmap.h
+	<stdbool.h>
+
+1575210814 c:\github\coberturavacinal\projetocoberturavacinal\listaord.h
+	<stdbool.h>
+	"hashmap.h"
+
+1608228259 source:c:\github\coberturavacinal\projetocoberturavacinal\hashmap.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"hashmap.h"
+	"listaord.h"
+	"avl.h"
+
+1608219597 source:c:\github\coberturavacinal\projetocoberturavacinal\main.c
+	"menu.h"
+
+1608228876 c:\github\coberturavacinal\projetocoberturavacinal\menu.h
+
+1608227208 source:c:\github\coberturavacinal\projetocoberturavacinal\menu.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"avl.h"
+	"listaord.h"
+	"hashmap.h"
+	"menu.h"
+
+1608230000 source:c:\github\coberturavacinal\projetocoberturavacinal\listaord.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"math.h"
+	"hashmap.h"
+	"listaord.h"
+	"avl.h"
+

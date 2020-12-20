@@ -1,0 +1,5570 @@
+110001;Alta Floresta D'Oeste;61.760
+110037;Alto Alegre dos Parecis;62.110
+110040;Alto Paraíso;57.700
+110034;Alvorada D'Oeste;39.520
+110002;Ariquemes;56.160
+110045;Buritis;49.860
+110003;Cabixi;98.130
+110060;Cacaulândia;51.710
+110004;Cacoal;59.260
+110070;Campo Novo de Rondônia;50.700
+110080;Candeias do Jamari;34.700
+110090;Castanheiras;89.540
+110005;Cerejeiras;69.850
+110092;Chupinguaia;45.130
+110006;Colorado do Oeste;46.320
+110007;Corumbiara;80.470
+110008;Costa Marques;44.750
+110094;Cujubim;57.710
+110009;Espigão D'Oeste;52.210
+110100;Governador Jorge Teixeira;67.140
+110010;Guajará-Mirim;48.220
+110110;Itapuã do Oeste;51.900
+110011;Jaru;62.300
+110012;Ji-Paraná;48.830
+110013;Machadinho D'Oeste;53.200
+110120;Ministro Andreazza;61.800
+110130;Mirante da Serra;25.640
+110140;Monte Negro;69.250
+110014;Nova Brasilândia D'Oeste;71.130
+110033;Nova Mamoré;38.540
+110143;Nova União;14.710
+110050;Novo Horizonte do Oeste;60.320
+110015;Ouro Preto do Oeste;56.460
+110145;Parecis;67.780
+110018;Pimenta Bueno;61.900
+110146;Pimenteiras do Oeste;58.240
+110020;Porto Velho;44.340
+110025;Presidente Médici;58.720
+110147;Primavera de Rondônia;51.820
+110026;Rio Crespo;68.860
+110028;Rolim de Moura;47.540
+110029;Santa Luzia D'Oeste;63.280
+110148;São Felipe D'Oeste;58.600
+110149;São Francisco do Guaporé;53.740
+110032;São Miguel do Guaporé;68.980
+110150;Seringueiras;53.360
+110155;Teixeirópolis;68.360
+110160;Theobroma;25.700
+110170;Urupá;42.880
+110175;Vale do Anari;69.680
+110180;Vale do Paraíso;61.190
+110030;Vilhena;65.280
+120001;Acrelândia;25.410
+120005;Assis Brasil;32.890
+120010;Brasiléia;49.950
+120013;Bujari;7.730
+120017;Capixaba;38.430
+120020;Cruzeiro do Sul;54.990
+120025;Epitaciolândia;42.240
+120030;Feijó;37.350
+120032;Jordão;57.190
+120033;Mâncio Lima;42.470
+120034;Manoel Urbano;20.510
+120035;Marechal Thaumaturgo;45.260
+120038;Plácido de Castro;43.220
+120080;Porto Acre;33.490
+120039;Porto Walter;30.290
+120040;Rio Branco;48.960
+120042;Rodrigues Alves;29.300
+120043;Santa Rosa do Purus;37.420
+120050;Sena Madureira;62.410
+120045;Senador Guiomard;44.720
+120060;Tarauacá;38.470
+120070;Xapuri;48.970
+130002;Alvarães;47.950
+130006;Amaturá;66.870
+130008;Anamã;71.700
+130010;Anori;56.860
+130014;Apuí;72.860
+130020;Atalaia do Norte;36.950
+130030;Autazes;59.860
+130040;Barcelos;28.580
+130050;Barreirinha;21.800
+130060;Benjamin Constant;62.200
+130063;Beruri;44.260
+130068;Boa Vista do Ramos;50.650
+130070;Boca do Acre;31.690
+130080;Borba;48.890
+130083;Caapiranga;37.610
+130090;Canutama;53.430
+130100;Carauari;35.950
+130110;Careiro;53.201
+130115;Careiro da Várzea;67.910
+130120;Coari;43.680
+130130;Codajás;59.120
+130140;Eirunepé;37.190
+130150;Envira;45.600
+130160;Fonte Boa;41.470
+130165;Guajará;33.690
+130170;Humaitá;57.900
+130180;Ipixuna;35.310
+130185;Iranduba;58.550
+130190;Itacoatiara;54.300
+130195;Itamarati;47.340
+130200;Itapiranga;65.980
+130210;Japurá;52.930
+130220;Juruá;31.110
+130230;Jutaí;28.880
+130240;Lábrea;53.550
+130250;Manacapuru;40.150
+130255;Manaquiri;53.800
+130260;Manaus;52.580
+130270;Manicoré;43.750
+130280;Maraã;53.600
+130290;Maués;32.430
+130300;Nhamundá;51.950
+130310;Nova Olinda do Norte;46.190
+130320;Novo Airão;33.800
+130330;Novo Aripuanã;44.330
+130340;Parintins;34.660
+130350;Pauini;31.650
+130353;Presidente Figueiredo;62.690
+130356;Rio Preto da Eva;47.580
+130360;Santa Isabel do Rio Negro;43.930
+130370;Santo Antônio do Içá;51.360
+130380;São Gabriel da Cachoeira;66.780
+130390;São Paulo de Olivença;53.290
+130395;São Sebastião do Uatumã;38.110
+130400;Silves;53.320
+130406;Tabatinga;52.540
+130410;Tapauá;52.931
+130420;Tefé;62.700
+130423;Tonantins;42.600
+130426;Uarini;38.310
+130430;Urucará;61.780
+130440;Urucurituba;55.510
+140005;Alto Alegre;32.100
+140002;Amajari;28.700
+140010;Boa Vista;53.720
+140015;Bonfim;27.300
+140017;Cantá;18.470
+140020;Caracaraí;40.200
+140023;Caroebe;42.390
+140028;Iracema;48.690
+140030;Mucajaí;39.230
+140040;Normandia;26.660
+140045;Pacaraima;125.500
+140047;Rorainópolis;27.240
+140050;São João da Baliza;35.590
+140060;São Luiz;21.550
+140070;Uiramutã;34.980
+150010;Abaetetuba;25.290
+150013;Abel Figueiredo;49.560
+150020;Acará;27.840
+150030;Afuá;32.400
+150034;Água Azul do Norte;6.600
+150040;Alenquer;31.660
+150050;Almeirim;38.980
+150060;Altamira;49.940
+150070;Anajás;49.800
+150080;Ananindeua;25.740
+150085;Anapu;56.750
+150090;Augusto Corrêa;30.270
+150095;Aurora do Pará;50.110
+150100;Aveiro;53.940
+150110;Bagre;37.640
+150120;Baião;46.410
+150125;Bannach;56.310
+150130;Barcarena;48.170
+150140;Belém;33.900
+150145;Belterra;25.170
+150150;Benevides;23.870
+150157;Bom Jesus do Tocantins;62.701
+150160;Bonito;49.930
+150170;Bragança;42.960
+150172;Brasil Novo;53.480
+150175;Brejo Grande do Araguaia;67.740
+150178;Breu Branco;20.710
+150180;Breves;21.210
+150190;Bujaru;42.480
+150200;Cachoeira do Arari;43.780
+150195;Cachoeira do Piriá;8.200
+150210;Cametá;37.560
+150215;Canaã dos Carajás;50.940
+150220;Capanema;39.850
+150230;Capitão Poço;45.800
+150240;Castanhal;53.330
+150250;Chaves;30.530
+150260;Colares;47.890
+150270;Conceição do Araguaia;24.100
+150275;Concórdia do Pará;56.930
+150276;Cumaru do Norte;19.880
+150277;Curionópolis;67.880
+150280;Curralinho;42.590
+150285;Curuá;69.450
+150290;Curuçá;26.230
+150293;Dom Eliseu;54.710
+150295;Eldorado do Carajás;21.980
+150300;Faro;38.130
+150304;Floresta do Araguaia;50.710
+150307;Garrafão do Norte;23.140
+150309;Goianésia do Pará;33.170
+150310;Gurupá;37.840
+150320;Igarapé-Açu;54.900
+150330;Igarapé-Miri;38.200
+150340;Inhangapi;30.271
+150345;Ipixuna do Pará;34.400
+150350;Irituia;43.500
+150360;Itaituba;30.670
+150370;Itupiranga;19.160
+150375;Jacareacanga;10.920
+150380;Jacundá;48.540
+150390;Juruti;54.840
+150400;Limoeiro do Ajuru;44.900
+150405;Mãe do Rio;53.260
+150410;Magalhães Barata;43.860
+150420;Marabá;43.550
+150430;Maracanã;9.180
+150440;Marapanim;24.630
+150442;Marituba;33.570
+150445;Medicilândia;51.500
+150450;Melgaço;34.800
+150460;Mocajuba;33.230
+150470;Moju;15.650
+150475;Mojuí dos Campos;17.100
+150480;Monte Alegre;41.460
+150490;Muaná;34.410
+150495;Nova Esperança do Piriá;37.810
+150497;Nova Ipixuna;48.520
+150500;Nova Timboteua;13.400
+150503;Novo Progresso;63.300
+150506;Novo Repartimento;30.970
+150510;Óbidos;43.940
+150520;Oeiras do Pará;36.570
+150530;Oriximiná;41.640
+150540;Ourém;50.780
+150543;Ourilândia do Norte;43.880
+150548;Pacajá;45.880
+150549;Palestina do Pará;55.940
+150550;Paragominas;45.790
+150553;Parauapebas;45.890
+150555;Pau D'Arco;46.390
+150560;Peixe-Boi;27.760
+150563;Piçarra;63.490
+150565;Placas;44.170
+150570;Ponta de Pedras;56.931
+150580;Portel;23.990
+150590;Porto de Moz;51.540
+150600;Prainha;29.820
+150610;Primavera;37.620
+150611;Quatipuru;46.250
+150613;Redenção;28.490
+150616;Rio Maria;48.730
+150618;Rondon do Pará;42.330
+150619;Rurópolis;57.330
+150620;Salinópolis;46.980
+150630;Salvaterra;40.950
+150635;Santa Bárbara do Pará;49.360
+150640;Santa Cruz do Arari;36.820
+150650;Santa Izabel do Pará;37.940
+150655;Santa Luzia do Pará;35.720
+150658;Santa Maria das Barreiras;59.340
+150660;Santa Maria do Pará;36.140
+150670;Santana do Araguaia;48.971
+150680;Santarém;31.840
+150690;Santarém Novo;37.470
+150700;Santo Antônio do Tauá;48.260
+150710;São Caetano de Odivelas;33.710
+150715;São Domingos do Araguaia;54.650
+150720;São Domingos do Capim;50.490
+150730;São Félix do Xingu;38.550
+150740;São Francisco do Pará;57.590
+150745;São Geraldo do Araguaia;29.750
+150746;São João da Ponta;34.990
+150747;São João de Pirabas;38.800
+150750;São João do Araguaia;16.750
+150760;São Miguel do Guamá;42.270
+150770;São Sebastião da Boa Vista;64.170
+150775;Sapucaia;74.760
+150780;Senador José Porfírio;33.780
+150790;Soure;24.360
+150795;Tailândia;49.250
+150796;Terra Alta;21.840
+150797;Terra Santa;56.240
+150800;Tomé-Açu;42.300
+150803;Tracuateua;25.150
+150805;Trairão;78.580
+150808;Tucumã;43.160
+150810;Tucuruí;39.160
+150812;Ulianópolis;41.220
+150815;Uruará;47.930
+150820;Vigia;43.480
+150830;Viseu;27.890
+150835;Vitória do Xingu;41.000
+150840;Xinguara;55.390
+160010;Amapá;72.790
+160020;Calçoene;59.210
+160021;Cutias;48.680
+160023;Ferreira Gomes;42.340
+160025;Itaubal;39.960
+160027;Laranjal do Jari;47.970
+160030;Macapá;45.801
+160040;Mazagão;19.750
+160050;Oiapoque;39.590
+160015;Pedra Branca do Amapari;52.000
+160053;Porto Grande;47.500
+160055;Pracuúba;54.190
+160060;Santana;35.860
+160005;Serra do Navio;83.940
+160070;Tartarugalzinho;56.590
+160080;Vitória do Jari;48.370
+170025;Abreulândia;84.100
+170030;Aguiarnópolis;66.220
+170035;Aliança do Tocantins;62.420
+170040;Almas;61.590
+170070;Alvorada;108.370
+170100;Ananás;48.560
+170105;Angico;61.990
+170110;Aparecida do Rio Negro;68.880
+170130;Aragominas;77.400
+170190;Araguacema;47.280
+170200;Araguaçu;69.670
+170210;Araguaína;54.550
+170215;Araguanã;57.901
+170220;Araguatins;45.520
+170230;Arapoema;55.460
+170240;Arraias;60.490
+170255;Augustinópolis;63.750
+170270;Aurora do Tocantins;74.660
+170290;Axixá do Tocantins;67.200
+170300;Babaçulândia;56.710
+170305;Bandeirantes do Tocantins;75.200
+170307;Barra do Ouro;40.110
+170310;Barrolândia;85.880
+170320;Bernardo Sayão;87.760
+170330;Bom Jesus do Tocantins;53.321
+170360;Brasilândia do Tocantins;82.340
+170370;Brejinho de Nazaré;58.510
+170380;Buriti do Tocantins;71.100
+170382;Cachoeirinha;45.420
+170384;Campos Lindos;83.290
+170386;Cariri do Tocantins;97.190
+170388;Carmolândia;67.900
+170389;Carrasco Bonito;64.130
+170390;Caseara;65.760
+170410;Centenário;96.800
+170510;Chapada da Natividade;55.210
+170460;Chapada de Areia;85.470
+170550;Colinas do Tocantins;41.290
+171670;Colméia;71.480
+170555;Combinado;64.640
+170560;Conceição do Tocantins;87.960
+170600;Couto Magalhães;41.990
+170610;Cristalândia;62.380
+170625;Crixás do Tocantins;57.570
+170650;Darcinópolis;32.190
+170700;Dianópolis;70.260
+170710;Divinópolis do Tocantins;66.520
+170720;Dois Irmãos do Tocantins;69.290
+170730;Dueré;67.380
+170740;Esperantina;56.440
+170755;Fátima;56.980
+170765;Figueirópolis;27.241
+170770;Filadélfia;66.781
+170820;Formoso do Araguaia;16.730
+170825;Fortaleza do Tabocão;83.900
+170830;Goianorte;86.100
+170900;Goiatins;70.300
+170930;Guaraí;60.750
+170950;Gurupi;54.800
+170980;Ipueiras;79.860
+171050;Itacajá;54.390
+171070;Itaguatins;48.500
+171090;Itapiratins;78.110
+171110;Itaporã do Tocantins;67.670
+171150;Jaú do Tocantins;80.220
+171180;Juarina;60.000
+171190;Lagoa da Confusão;59.690
+171195;Lagoa do Tocantins;102.600
+171200;Lajeado;65.610
+171215;Lavandeira;48.250
+171240;Lizarda;39.940
+171245;Luzinópolis;87.400
+171250;Marianópolis do Tocantins;59.140
+171270;Mateiros;69.880
+171280;Maurilândia do Tocantins;73.340
+171320;Miracema do Tocantins;68.520
+171330;Miranorte;52.650
+171360;Monte do Carmo;52.620
+171370;Monte Santo do Tocantins;61.830
+171395;Muricilândia;72.320
+171420;Natividade;71.540
+171430;Nazaré;56.790
+171488;Nova Olinda;59.110
+171500;Nova Rosalândia;69.630
+171510;Novo Acordo;51.480
+171515;Novo Alegre;75.400
+171525;Novo Jardim;50.980
+171550;Oliveira de Fátima;58.400
+172100;Palmas;49.960
+171570;Palmeirante;43.861
+171380;Palmeiras do Tocantins;65.770
+171575;Palmeirópolis;99.800
+171610;Paraíso do Tocantins;61.410
+171620;Paranã;61.790
+171630;Pau D'Arco;68.550
+171650;Pedro Afonso;63.670
+171660;Peixe;80.970
+171665;Pequizeiro;76.200
+171700;Pindorama do Tocantins;72.780
+171720;Piraquê;68.970
+171750;Pium;46.411
+171780;Ponte Alta do Bom Jesus;81.120
+171790;Ponte Alta do Tocantins;59.350
+171800;Porto Alegre do Tocantins;87.280
+171820;Porto Nacional;58.470
+171830;Praia Norte;60.690
+171840;Presidente Kennedy;80.690
+171845;Pugmil;78.340
+171850;Recursolândia;60.160
+171855;Riachinho;73.400
+171865;Rio da Conceição;71.300
+171870;Rio dos Bois;68.850
+171875;Rio Sono;63.240
+171880;Sampaio;81.640
+171884;Sandolândia;87.180
+171886;Santa Fé do Araguaia;76.230
+171888;Santa Maria do Tocantins;67.660
+171889;Santa Rita do Tocantins;110.180
+171890;Santa Rosa do Tocantins;58.580
+171900;Santa Tereza do Tocantins;44.380
+172000;Santa Terezinha do Tocantins;42.320
+172010;São Bento do Tocantins;57.660
+172015;São Félix do Tocantins;74.290
+172020;São Miguel do Tocantins;68.570
+172025;São Salvador do Tocantins;63.120
+172030;São Sebastião do Tocantins;85.460
+172049;São Valério;82.240
+172065;Silvanópolis;52.590
+172080;Sítio Novo do Tocantins;83.470
+172085;Sucupira;86.240
+172090;Taguatinga;59.970
+172093;Taipas do Tocantins;93.550
+172097;Talismã;65.970
+172110;Tocantínia;56.390
+172120;Tocantinópolis;59.600
+172125;Tupirama;62.400
+172130;Tupiratins;66.100
+172208;Wanderlândia;60.590
+172210;Xambioá;59.510
+210005;Açailândia;59.000
+210010;Afonso Cunha;49.650
+210015;Água Doce do Maranhão;56.110
+210020;Alcântara;43.240
+210030;Aldeias Altas;43.640
+210040;Altamira do Maranhão;59.310
+210043;Alto Alegre do Maranhão;59.440
+210047;Alto Alegre do Pindaré;54.901
+210050;Alto Parnaíba;36.200
+210055;Amapá do Maranhão;46.500
+210060;Amarante do Maranhão;43.450
+210070;Anajatuba;48.390
+210080;Anapurus;28.130
+210083;Apicum-Açu;51.430
+210087;Araguanã;39.740
+210090;Araioses;37.500
+210095;Arame;26.970
+210100;Arari;53.590
+210110;Axixá;36.000
+210120;Bacabal;30.690
+210125;Bacabeira;36.001
+210130;Bacuri;48.100
+210135;Bacurituba;50.500
+210140;Balsas;41.700
+210150;Barão de Grajaú;70.370
+210160;Barra do Corda;35.861
+210170;Barreirinhas;53.830
+210177;Bela Vista do Maranhão;61.350
+210173;Belágua;54.120
+210180;Benedito Leite;53.570
+210190;Bequimão;19.110
+210193;Bernardo do Mearim;77.620
+210197;Boa Vista do Gurupi;53.860
+210200;Bom Jardim;40.890
+210203;Bom Jesus das Selvas;50.280
+210207;Bom Lugar;33.880
+210210;Brejo;17.530
+210215;Brejo de Areia;59.760
+210220;Buriti;58.440
+210230;Buriti Bravo;46.650
+210232;Buriticupu;43.180
+210235;Buritirana;47.660
+210237;Cachoeira Grande;50.281
+210240;Cajapió;51.100
+210250;Cajari;63.810
+210255;Campestre do Maranhão;52.900
+210260;Cândido Mendes;40.910
+210270;Cantanhede;32.401
+210275;Capinzal do Norte;54.902
+210280;Carolina;73.710
+210290;Carutapera;39.350
+210300;Caxias;43.931
+210310;Cedral;60.220
+210312;Central do Maranhão;62.710
+210315;Centro do Guilherme;57.260
+210317;Centro Novo do Maranhão;62.480
+210320;Chapadinha;19.420
+210325;Cidelândia;54.870
+210330;Codó;35.510
+210340;Coelho Neto;61.230
+210350;Colinas;43.150
+210355;Conceição do Lago-Açu;45.390
+210360;Coroatá;44.370
+210370;Cururupu;53.280
+210375;Davinópolis;56.270
+210380;Dom Pedro;32.520
+210390;Duque Bacelar;66.460
+210400;Esperantinópolis;65.510
+210405;Estreito;49.230
+210407;Feira Nova do Maranhão;56.861
+210408;Fernando Falcão;53.450
+210409;Formosa da Serra Negra;53.710
+210410;Fortaleza dos Nogueiras;51.310
+210420;Fortuna;47.891
+210430;Godofredo Viana;41.800
+210440;Gonçalves Dias;41.730
+210450;Governador Archer;54.950
+210455;Governador Edison Lobão;75.110
+210460;Governador Eugênio Barros;38.960
+210462;Governador Luiz Rocha;69.100
+210465;Governador Newton Bello;67.930
+210467;Governador Nunes Freire;54.690
+210470;Graça Aranha;117.660
+210480;Grajaú;50.400
+210490;Guimarães;65.210
+210500;Humberto de Campos;37.280
+210510;Icatu;45.320
+210515;Igarapé do Meio;36.620
+210520;Igarapé Grande;57.560
+210530;Imperatriz;41.260
+210535;Itaipava do Grajaú;49.350
+210540;Itapecuru Mirim;50.310
+210542;Itinga do Maranhão;57.591
+210545;Jatobá;34.850
+210547;Jenipapo dos Vieiras;9.310
+210550;João Lisboa;38.100
+210560;Joselândia;51.970
+210565;Junco do Maranhão;43.590
+210570;Lago da Pedra;41.310
+210580;Lago do Junco;30.770
+210594;Lago dos Rodrigues;53.440
+210590;Lago Verde;33.140
+210592;Lagoa do Mato;71.460
+210596;Lagoa Grande do Maranhão;51.870
+210598;Lajeado Novo;48.770
+210600;Lima Campos;59.300
+210610;Loreto;48.891
+210620;Luís Domingues;38.330
+210630;Magalhães de Almeida;25.200
+210632;Maracaçumé;49.120
+210635;Marajá do Sena;69.990
+210637;Maranhãozinho;45.400
+210640;Mata Roma;26.640
+210650;Matinha;45.640
+210660;Matões;56.180
+210663;Matões do Norte;30.410
+210667;Milagres do Maranhão;18.810
+210670;Mirador;49.251
+210675;Miranda do Norte;38.331
+210680;Mirinzal;60.900
+210690;Monção;15.580
+210700;Montes Altos;51.590
+210710;Morros;34.200
+210720;Nina Rodrigues;54.890
+210725;Nova Colinas;42.650
+210730;Nova Iorque;151.120
+210735;Nova Olinda do Maranhão;49.210
+210740;Olho d'Água das Cunhãs;28.590
+210745;Olinda Nova do Maranhão;59.330
+210750;Paço do Lumiar;23.620
+210760;Palmeirândia;28.410
+210770;Paraibano;57.500
+210780;Parnarama;58.900
+210790;Passagem Franca;47.900
+210800;Pastos Bons;50.920
+210805;Paulino Neves;31.850
+210810;Paulo Ramos;41.280
+210820;Pedreiras;54.580
+210825;Pedro do Rosário;52.670
+210830;Penalva;41.650
+210840;Peri Mirim;26.890
+210845;Peritoró;41.450
+210850;Pindaré-Mirim;37.520
+210860;Pinheiro;32.860
+210870;Pio XII;46.360
+210880;Pirapemas;52.460
+210890;Poção de Pedras;37.550
+210900;Porto Franco;54.600
+210905;Porto Rico do Maranhão;58.790
+210910;Presidente Dutra;33.160
+210920;Presidente Juscelino;63.580
+210923;Presidente Médici;56.410
+210927;Presidente Sarney;43.620
+210930;Presidente Vargas;48.420
+210940;Primeira Cruz;5.510
+210945;Raposa;43.790
+210950;Riachão;44.310
+210955;Ribamar Fiquene;62.711
+210960;Rosário;47.610
+210970;Sambaíba;71.570
+210975;Santa Filomena do Maranhão;41.250
+210980;Santa Helena;27.650
+210990;Santa Inês;51.670
+211000;Santa Luzia;40.340
+211003;Santa Luzia do Paruá;20.150
+211010;Santa Quitéria do Maranhão;12.440
+211020;Santa Rita;48.120
+211023;Santana do Maranhão;38.380
+211027;Santo Amaro do Maranhão;41.570
+211030;Santo Antônio dos Lopes;51.720
+211040;São Benedito do Rio Preto;53.100
+211050;São Bento;33.470
+211060;São Bernardo;25.660
+211065;São Domingos do Azeitão;61.200
+211070;São Domingos do Maranhão;31.880
+211080;São Félix de Balsas;59.900
+211085;São Francisco do Brejão;57.650
+211090;São Francisco do Maranhão;50.660
+211100;São João Batista;54.920
+211102;São João do Carú;57.790
+211105;São João do Paraíso;42.241
+211107;São João do Soter;69.870
+211110;São João dos Patos;58.100
+211120;São José de Ribamar;16.800
+211125;São José dos Basílios;54.000
+211130;São Luís;27.920
+211140;São Luís Gonzaga do Maranhão;15.430
+211150;São Mateus do Maranhão;41.750
+211153;São Pedro da Água Branca;64.940
+211157;São Pedro dos Crentes;53.281
+211160;São Raimundo das Mangabeiras;45.510
+211163;São Raimundo do Doca Bezerra;56.862
+211167;São Roberto;53.960
+211170;São Vicente Ferrer;37.551
+211172;Satubinha;23.300
+211174;Senador Alexandre Costa;36.900
+211176;Senador La Rocque;52.901
+211178;Serrano do Maranhão;37.740
+211180;Sítio Novo;57.300
+211190;Sucupira do Norte;67.550
+211195;Sucupira do Riachão;57.701
+211200;Tasso Fragoso;56.690
+211210;Timbiras;40.840
+211220;Timon;42.700
+211223;Trizidela do Vale;50.480
+211227;Tufilândia;28.930
+211230;Tuntum;38.450
+211240;Turiaçu;33.390
+211245;Turilândia;30.320
+211250;Tutóia;45.791
+211260;Urbano Santos;30.321
+211270;Vargem Grande;24.480
+211280;Viana;46.820
+211285;Vila Nova dos Martírios;62.460
+211290;Vitória do Mearim;47.901
+211300;Vitorino Freire;37.920
+211400;Zé Doca;40.600
+220005;Acauã;50.481
+220010;Agricolândia;61.130
+220020;Água Branca;45.850
+220025;Alagoinha do Piauí;63.480
+220027;Alegrete do Piauí;53.820
+220030;Alto Longá;49.600
+220040;Altos;47.600
+220045;Alvorada do Gurguéia;36.680
+220050;Amarante;46.501
+220060;Angical do Piauí;70.980
+220070;Anísio de Abreu;49.460
+220080;Antônio Almeida;69.970
+220090;Aroazes;69.540
+220095;Aroeiras do Itaim;45.220
+220100;Arraial;42.800
+220105;Assunção do Piauí;67.661
+220110;Avelino Lopes;53.441
+220115;Baixa Grande do Ribeiro;56.810
+220117;Barra D'Alcântara;73.950
+220120;Barras;50.270
+220130;Barreiras do Piauí;40.120
+220140;Barro Duro;71.680
+220150;Batalha;33.510
+220155;Bela Vista do Piauí;80.120
+220157;Belém do Piauí;44.770
+220160;Beneditinos;70.540
+220170;Bertolínia;46.821
+220173;Betânia do Piauí;72.330
+220177;Boa Hora;79.880
+220180;Bocaina;61.411
+220190;Bom Jesus;74.200
+220191;Bom Princípio do Piauí;45.200
+220192;Bonfim do Piauí;47.190
+220194;Boqueirão do Piauí;45.570
+220196;Brasileira;58.200
+220198;Brejo do Piauí;46.910
+220200;Buriti dos Lopes;40.130
+220202;Buriti dos Montes;25.741
+220205;Cabeceiras do Piauí;51.750
+220207;Cajazeiras do Piauí;65.220
+220208;Cajueiro da Praia;22.910
+220209;Caldeirão Grande do Piauí;63.241
+220210;Campinas do Piauí;5.240
+220211;Campo Alegre do Fidalgo;61.310
+220213;Campo Grande do Piauí;67.770
+220217;Campo Largo do Piauí;52.940
+220220;Campo Maior;51.120
+220225;Canavieira;41.430
+220230;Canto do Buriti;39.930
+220240;Capitão de Campos;34.500
+220245;Capitão Gervásio Oliveira;61.580
+220250;Caracol;48.371
+220253;Caraúbas do Piauí;67.240
+220255;Caridade do Piauí;50.501
+220260;Castelo do Piauí;49.310
+220265;Caxingó;53.400
+220270;Cocal;44.760
+220271;Cocal de Telha;51.210
+220272;Cocal dos Alves;96.730
+220273;Coivaras;93.130
+220275;Colônia do Gurguéia;55.710
+220277;Colônia do Piauí;3.490
+220280;Conceição do Canindé;17.490
+220285;Coronel José Dias;38.451
+220290;Corrente;49.580
+220300;Cristalândia do Piauí;34.690
+220310;Cristino Castro;51.130
+220320;Curimatá;34.860
+220323;Currais;20.690
+220327;Curral Novo do Piauí;62.230
+220325;Curralinhos;74.960
+220330;Demerval Lobão;44.500
+220335;Dirceu Arcoverde;17.820
+220340;Dom Expedito Lopes;70.360
+220345;Dom Inocêncio;90.250
+220342;Domingos Mourão;21.390
+220350;Elesbão Veloso;57.530
+220360;Eliseu Martins;55.290
+220370;Esperantina;42.730
+220375;Fartura do Piauí;23.100
+220380;Flores do Piauí;60.321
+220385;Floresta do Piauí;11.310
+220390;Floriano;39.110
+220400;Francinópolis;57.450
+220410;Francisco Ayres;58.800
+220415;Francisco Macedo;48.691
+220420;Francisco Santos;55.520
+220430;Fronteiras;54.940
+220435;Geminiano;39.161
+220440;Gilbués;33.380
+220450;Guadalupe;33.310
+220455;Guaribas;5.230
+220460;Hugo Napoleão;87.600
+220465;Ilha Grande;23.590
+220470;Inhuma;52.170
+220480;Ipiranga do Piauí;26.470
+220490;Isaías Coelho;43.650
+220500;Itainópolis;64.850
+220510;Itaueira;54.430
+220515;Jacobina do Piauí;66.470
+220520;Jaicós;46.730
+220525;Jardim do Mulato;55.160
+220527;Jatobá do Piauí;63.510
+220530;Jerumenha;14.920
+220535;João Costa;63.671
+220540;Joaquim Pires;47.820
+220545;Joca Marques;45.480
+220550;José de Freitas;60.820
+220551;Juazeiro do Piauí;64.590
+220552;Júlio Borges;34.801
+220553;Jurema;23.600
+220555;Lagoa Alegre;59.360
+220557;Lagoa de São Francisco;55.770
+220556;Lagoa do Barro do Piauí;81.500
+220558;Lagoa do Piauí;62.940
+220559;Lagoa do Sítio;58.560
+220554;Lagoinha do Piauí;63.170
+220560;Landri Sales;61.180
+220570;Luís Correia;1.440
+220580;Luzilândia;20.800
+220585;Madeiro;45.481
+220590;Manoel Emídio;48.731
+220595;Marcolândia;75.330
+220600;Marcos Parente;60.240
+220605;Massapê do Piauí;81.550
+220610;Matias Olímpio;34.120
+220620;Miguel Alves;44.960
+220630;Miguel Leão;62.750
+220635;Milton Brandão;46.530
+220640;Monsenhor Gil;64.100
+220650;Monsenhor Hipólito;68.400
+220660;Monte Alegre do Piauí;43.310
+220665;Morro Cabeça no Tempo;53.640
+220667;Morro do Chapéu do Piauí;41.200
+220669;Murici dos Portelas;34.340
+220670;Nazaré do Piauí;52.980
+220672;Nazária;24.990
+220675;Nossa Senhora de Nazaré;62.830
+220680;Nossa Senhora dos Remédios;39.810
+220795;Nova Santa Rita;63.680
+220690;Novo Oriente do Piauí;51.361
+220695;Novo Santo Antônio;41.920
+220700;Oeiras;56.650
+220710;Olho D'Água do Piauí;48.820
+220720;Padre Marcos;61.901
+220730;Paes Landim;56.680
+220735;Pajeú do Piauí;54.140
+220740;Palmeira do Piauí;56.830
+220750;Palmeirais;28.870
+220755;Paquetá;38.680
+220760;Parnaguá;21.700
+220770;Parnaíba;31.220
+220775;Passagem Franca do Piauí;50.150
+220777;Patos do Piauí;59.170
+220779;Pau D'Arco do Piauí;95.300
+220780;Paulistana;36.430
+220785;Pavussu;61.450
+220790;Pedro II;50.790
+220793;Pedro Laurentino;79.430
+220800;Picos;37.100
+220810;Pimenteiras;31.210
+220820;Pio IX;49.160
+220830;Piracuruca;49.311
+220840;Piripiri;53.941
+220850;Porto;32.101
+220855;Porto Alegre do Piauí;71.400
+220860;Prata do Piauí;34.130
+220865;Queimada Nova;62.670
+220870;Redenção do Gurguéia;63.620
+220880;Regeneração;51.101
+220885;Riacho Frio;37.250
+220887;Ribeira do Piauí;42.970
+220890;Ribeiro Gonçalves;72.861
+220900;Rio Grande do Piauí;21.841
+220910;Santa Cruz do Piauí;79.490
+220915;Santa Cruz dos Milagres;27.400
+220920;Santa Filomena;42.190
+220930;Santa Luz;68.460
+220937;Santa Rosa do Piauí;44.540
+220935;Santana do Piauí;44.290
+220940;Santo Antônio de Lisboa;54.760
+220945;Santo Antônio dos Milagres;36.750
+220950;Santo Inácio do Piauí;56.970
+220955;São Braz do Piauí;42.890
+220960;São Félix do Piauí;69.580
+220965;São Francisco de Assis do Piauí;81.720
+220970;São Francisco do Piauí;35.990
+220975;São Gonçalo do Gurguéia;61.430
+220980;São Gonçalo do Piauí;60.910
+220985;São João da Canabrava;62.720
+220987;São João da Fronteira;59.800
+220990;São João da Serra;6.250
+220995;São João da Varjota;47.800
+220997;São João do Arraial;50.450
+221000;São João do Piauí;43.451
+221005;São José do Divino;67.310
+221010;São José do Peixe;18.100
+221020;São José do Piauí;67.420
+221030;São Julião;46.651
+221035;São Lourenço do Piauí;23.490
+221037;São Luis do Piauí;65.520
+221038;São Miguel da Baixa Grande;55.771
+221039;São Miguel do Fidalgo;48.961
+221040;São Miguel do Tapuio;54.180
+221050;São Pedro do Piauí;45.860
+221060;São Raimundo Nonato;50.220
+221062;Sebastião Barros;3.540
+221063;Sebastião Leal;27.550
+221065;Sigefredo Pacheco;42.000
+221070;Simões;49.510
+221080;Simplício Mendes;36.590
+221090;Socorro do Piauí;54.810
+221093;Sussuapara;75.780
+221095;Tamboril do Piauí;55.450
+221097;Tanque do Piauí;57.210
+221100;Teresina;42.801
+221110;União;44.870
+221120;Uruçuí;50.661
+221130;Valença do Piauí;59.400
+221135;Várzea Branca;43.690
+221140;Várzea Grande;49.540
+221150;Vera Mendes;75.150
+221160;Vila Nova do Piauí;54.970
+221170;Wall Ferraz;32.630
+230010;Abaiara;40.850
+230015;Acarape;47.570
+230020;Acaraú;54.200
+230030;Acopiara;50.360
+230040;Aiuaba;49.740
+230050;Alcântaras;54.160
+230060;Altaneira;73.870
+230070;Alto Santo;51.450
+230075;Amontada;48.150
+230080;Antonina do Norte;53.340
+230090;Apuiarés;60.830
+230100;Aquiraz;43.221
+230110;Aracati;37.440
+230120;Aracoiaba;33.471
+230125;Ararendá;64.230
+230130;Araripe;48.800
+230140;Aratuba;49.200
+230150;Arneiroz;63.790
+230160;Assaré;47.560
+230170;Aurora;94.130
+230180;Baixio;43.820
+230185;Banabuiú;56.490
+230190;Barbalha;57.230
+230195;Barreira;24.900
+230200;Barro;41.870
+230205;Barroquinha;48.980
+230210;Baturité;46.740
+230220;Beberibe;51.211
+230230;Bela Cruz;76.580
+230240;Boa Viagem;25.560
+230250;Brejo Santo;46.630
+230260;Camocim;45.110
+230270;Campos Sales;50.550
+230280;Canindé;55.250
+230290;Capistrano;52.902
+230300;Caridade;36.400
+230310;Cariré;68.950
+230320;Caririaçu;47.880
+230330;Cariús;57.870
+230340;Carnaubal;56.840
+230350;Cascavel;37.450
+230360;Catarina;58.710
+230365;Catunda;58.561
+230370;Caucaia;35.800
+230380;Cedro;30.710
+230390;Chaval;48.400
+230393;Choró;62.210
+230395;Chorozinho;60.460
+230400;Coreaú;62.702
+230410;Crateús;35.390
+230420;Crato;41.380
+230423;Croatá;37.800
+230425;Cruz;72.630
+230426;Deputado Irapuan Pinheiro;81.230
+230427;Ererê;206.800
+230428;Eusébio;49.400
+230430;Farias Brito;75.410
+230435;Forquilha;65.950
+230440;Fortaleza;49.401
+230445;Fortim;46.480
+230450;Frecheirinha;40.601
+230460;General Sampaio;44.440
+230465;Graça;38.000
+230470;Granja;48.230
+230480;Granjeiro;29.100
+230490;Groaíras;32.830
+230495;Guaiúba;30.272
+230500;Guaraciaba do Norte;51.290
+230510;Guaramiranga;67.360
+230520;Hidrolândia;69.200
+230523;Horizonte;46.100
+230526;Ibaretama;32.380
+230530;Ibiapina;26.000
+230533;Ibicuitinga;65.340
+230535;Icapuí;51.671
+230540;Icó;24.590
+230550;Iguatu;46.150
+230560;Independência;38.981
+230565;Ipaporanga;58.201
+230570;Ipaumirim;60.780
+230580;Ipu;28.310
+230590;Ipueiras;41.210
+230600;Iracema;66.970
+230610;Irauçuba;12.380
+230620;Itaiçaba;82.900
+230625;Itaitinga;32.610
+230630;Itapagé;43.130
+230640;Itapipoca;47.210
+230650;Itapiúna;38.970
+230655;Itarema;53.202
+230660;Itatira;67.270
+230670;Jaguaretama;72.710
+230680;Jaguaribara;63.500
+230690;Jaguaribe;46.340
+230700;Jaguaruana;51.901
+230710;Jardim;39.111
+230720;Jati;37.400
+230725;Jijoca de Jericoacoara;84.270
+230730;Juazeiro do Norte;47.240
+230740;Jucás;7.860
+230750;Lavras da Mangabeira;56.720
+230760;Limoeiro do Norte;54.980
+230763;Madalena;35.200
+230765;Maracanaú;40.500
+230770;Maranguape;34.840
+230780;Marco;70.740
+230790;Martinópole;52.800
+230800;Massapê;50.970
+230810;Mauriti;52.700
+230820;Meruoca;51.610
+230830;Milagres;50.880
+230835;Milhã;49.511
+230837;Miraíma;59.270
+230840;Missão Velha;49.330
+230850;Mombaça;41.500
+230860;Monsenhor Tabosa;65.120
+230870;Morada Nova;53.460
+230880;Moraújo;35.201
+230890;Morrinhos;58.670
+230900;Mucambo;44.000
+230910;Mulungu;11.250
+230920;Nova Olinda;32.470
+230930;Nova Russas;60.870
+230940;Novo Oriente;55.620
+230945;Ocara;61.750
+230950;Orós;52.461
+230960;Pacajus;34.230
+230970;Pacatuba;45.230
+230980;Pacoti;65.580
+230990;Pacujá;49.150
+231000;Palhano;64.540
+231010;Palmácia;40.160
+231020;Paracuru;37.281
+231025;Paraipaba;60.700
+231030;Parambu;32.500
+231040;Paramoti;71.401
+231050;Pedra Branca;36.270
+231060;Penaforte;68.650
+231070;Pentecoste;41.701
+231080;Pereiro;63.800
+231085;Pindoretama;43.140
+231090;Piquet Carneiro;62.920
+231095;Pires Ferreira;77.840
+231100;Poranga;69.500
+231110;Porteiras;56.890
+231120;Potengi;64.780
+231123;Potiretama;41.140
+231126;Quiterianópolis;49.801
+231130;Quixadá;42.760
+231135;Quixelô;50.290
+231140;Quixeramobim;55.251
+231150;Quixeré;57.702
+231160;Redenção;47.220
+231170;Reriutaba;30.600
+231180;Russas;53.821
+231190;Saboeiro;50.900
+231195;Salitre;60.161
+231220;Santa Quitéria;23.591
+231200;Santana do Acaraú;47.000
+231210;Santana do Cariri;72.940
+231230;São Benedito;53.961
+231240;São Gonçalo do Amarante;45.440
+231250;São João do Jaguaribe;40.680
+231260;São Luís do Curu;12.190
+231270;Senador Pompeu;42.130
+231280;Senador Sá;39.430
+231290;Sobral;53.380
+231300;Solonópole;43.170
+231310;Tabuleiro do Norte;47.700
+231320;Tamboril;73.450
+231325;Tarrafas;45.111
+231330;Tauá;57.160
+231335;Tejuçuoca;49.480
+231340;Tianguá;44.840
+231350;Trairi;55.621
+231355;Tururu;48.480
+231360;Ubajara;54.540
+231370;Umari;44.410
+231375;Umirim;38.240
+231380;Uruburetama;59.200
+231390;Uruoca;20.320
+231395;Varjota;57.170
+231400;Várzea Alegre;59.211
+231410;Viçosa do Ceará;65.830
+240010;Acari;58.290
+240020;Açu;39.900
+240030;Afonso Bezerra;24.220
+240040;Água Nova;88.870
+240050;Alexandria;38.801
+240060;Almino Afonso;72.470
+240070;Alto do Rodrigues;46.400
+240080;Angicos;53.741
+240090;Antônio Martins;63.190
+240100;Apodi;34.701
+240110;Areia Branca;38.880
+240120;Arês;49.910
+240130;Augusto Severo;45.540
+240140;Baía Formosa;7.220
+240145;Baraúna;44.751
+240150;Barcelona;44.190
+240160;Bento Fernandes;26.420
+240165;Bodó;90.630
+240170;Bom Jesus;15.150
+240180;Brejinho;60.890
+240185;Caiçara do Norte;30.800
+240190;Caiçara do Rio do Vento;64.110
+240200;Caicó;41.461
+240210;Campo Redondo;50.410
+240220;Canguaretama;40.170
+240230;Caraúbas;51.311
+240240;Carnaúba dos Dantas;13.600
+240250;Carnaubais;27.360
+240260;Ceará-Mirim;27.921
+240270;Cerro Corá;60.380
+240280;Coronel Ezequiel;33.610
+240290;Coronel João Pessoa;70.270
+240300;Cruzeta;37.401
+240310;Currais Novos;38.510
+240320;Doutor Severiano;54.750
+240330;Encanto;52.570
+240340;Equador;81.730
+240350;Espírito Santo;44.360
+240360;Extremoz;40.560
+240370;Felipe Guerra;51.971
+240375;Fernando Pedroza;67.950
+240380;Florânia;57.290
+240390;Francisco Dantas;59.610
+240400;Frutuoso Gomes;72.200
+240410;Galinhos;72.280
+240420;Goianinha;47.241
+240430;Governador Dix-Sept Rosado;59.830
+240440;Grossos;25.500
+240450;Guamaré;46.600
+240460;Ielmo Marinho;31.800
+240470;Ipanguaçu;40.100
+240480;Ipueira;74.580
+240485;Itajá;52.200
+240490;Itaú;47.490
+240500;Jaçanã;40.960
+240510;Jandaíra;50.870
+240520;Janduís;74.280
+240530;Januário Cicco;25.710
+240540;Japi;50.200
+240550;Jardim de Angicos;44.690
+240560;Jardim de Piranhas;62.201
+240570;Jardim do Seridó;76.770
+240580;João Câmara;45.620
+240590;João Dias;67.160
+240600;José da Penha;86.370
+240610;Jucurutu;55.630
+240615;Jundiá;138.350
+240620;Lagoa d'Anta;52.310
+240630;Lagoa de Pedras;44.430
+240640;Lagoa de Velhos;38.440
+240650;Lagoa Nova;49.890
+240660;Lagoa Salgada;6.120
+240670;Lajes;41.960
+240680;Lajes Pintadas;26.130
+240690;Lucrécia;105.800
+240700;Luís Gomes;50.100
+240710;Macaíba;23.950
+240720;Macau;19.730
+240725;Major Sales;55.900
+240730;Marcelino Vieira;44.871
+240740;Martins;62.301
+240750;Maxaranguape;34.290
+240760;Messias Targino;60.300
+240770;Montanhas;50.401
+240780;Monte Alegre;32.102
+240790;Monte das Gameleiras;62.211
+240800;Mossoró;23.130
+240810;Natal;39.220
+240820;Nísia Floresta;31.310
+240830;Nova Cruz;19.980
+240840;Olho-d'Água do Borges;69.610
+240850;Ouro Branco;55.670
+240860;Paraná;47.550
+240870;Paraú;49.900
+240880;Parazinho;53.500
+240890;Parelhas;32.770
+240325;Parnamirim;34.770
+240910;Passa e Fica;52.600
+240920;Passagem;45.370
+240930;Patu;44.630
+240940;Pau dos Ferros;49.951
+240950;Pedra Grande;61.191
+240960;Pedra Preta;26.600
+240970;Pedro Avelino;46.660
+240980;Pedro Velho;13.601
+240990;Pendências;50.311
+241000;Pilões;81.121
+241010;Poço Branco;49.651
+241020;Portalegre;54.290
+241025;Porto do Mangue;54.201
+241040;Pureza;46.822
+241050;Rafael Fernandes;54.260
+241060;Rafael Godeiro;55.280
+241070;Riacho da Cruz;114.750
+241080;Riacho de Santana;30.480
+241090;Riachuelo;51.481
+240895;Rio do Fogo;23.450
+241100;Rodolfo Fernandes;43.570
+241110;Ruy Barbosa;60.500
+241120;Santa Cruz;60.970
+240933;Santa Maria;46.823
+241140;Santana do Matos;68.530
+241142;Santana do Seridó;98.430
+241150;Santo Antônio;38.400
+241160;São Bento do Norte;87.590
+241170;São Bento do Trairí;29.821
+241180;São Fernando;71.960
+241190;São Francisco do Oeste;46.930
+241200;São Gonçalo do Amarante;20.790
+241210;São João do Sabugi;57.250
+241220;São José de Mipibu;34.920
+241230;São José do Campestre;35.970
+241240;São José do Seridó;72.930
+241250;São Miguel;38.500
+241255;São Miguel do Gostoso;56.730
+241260;São Paulo do Potengi;53.730
+241270;São Pedro;38.802
+241280;São Rafael;68.800
+241290;São Tomé;42.840
+241300;São Vicente;71.571
+241310;Senador Elói de Souza;59.660
+241320;Senador Georgino Avelino;16.801
+241030;Serra Caiada;46.130
+241330;Serra de São Bento;70.650
+241335;Serra do Mel;61.250
+241340;Serra Negra do Norte;49.201
+241350;Serrinha;51.880
+241355;Serrinha dos Pintos;85.190
+241360;Severiano Melo;57.490
+241370;Sítio Novo;51.711
+241380;Taboleiro Grande;65.521
+241390;Taipu;20.260
+241400;Tangará;33.840
+241410;Tenente Ananias;59.540
+241415;Tenente Laurentino Cruz;42.520
+241105;Tibau;57.171
+241420;Tibau do Sul;35.280
+241430;Timbaúba dos Batistas;68.140
+241440;Touros;34.981
+241445;Triunfo Potiguar;52.941
+241450;Umarizal;45.970
+241460;Upanema;41.211
+241470;Várzea;72.660
+241475;Venha-Ver;59.230
+241480;Vera Cruz;27.860
+241490;Viçosa;64.591
+241500;Vila Flor;44.390
+250010;Água Branca;71.320
+250020;Aguiar;58.820
+250030;Alagoa Grande;51.121
+250040;Alagoa Nova;57.600
+250050;Alagoinha;37.590
+250053;Alcantil;36.220
+250057;Algodão de Jandaíra;70.200
+250060;Alhandra;45.210
+250073;Amparo;50.730
+250077;Aparecida;69.451
+250080;Araçagi;52.730
+250090;Arara;74.210
+250100;Araruna;25.460
+250110;Areia;52.630
+250115;Areia de Baraúnas;51.240
+250120;Areial;54.301
+250130;Aroeiras;41.170
+250135;Assunção;66.350
+250140;Baía da Traição;27.200
+250150;Bananeiras;52.290
+250153;Baraúna;44.140
+250160;Barra de Santa Rosa;59.640
+250157;Barra de Santana;64.930
+250170;Barra de São Miguel;70.110
+250180;Bayeux;35.820
+250190;Belém;67.901
+250200;Belém do Brejo do Cruz;22.100
+250205;Bernardino Batista;61.810
+250210;Boa Ventura;68.280
+250215;Boa Vista;64.150
+250220;Bom Jesus;55.391
+250230;Bom Sucesso;54.880
+250240;Bonito de Santa Fé;48.600
+250250;Boqueirão;71.590
+250270;Borborema;52.201
+250280;Brejo do Cruz;69.581
+250290;Brejo dos Santos;31.380
+250300;Caaporã;16.140
+250310;Cabaceiras;64.510
+250320;Cabedelo;38.401
+250330;Cachoeira dos Índios;41.900
+250340;Cacimba de Areia;60.360
+250350;Cacimba de Dentro;51.102
+250355;Cacimbas;48.330
+250360;Caiçara;59.331
+250370;Cajazeiras;53.850
+250375;Cajazeirinhas;55.392
+250380;Caldas Brandão;62.751
+250390;Camalaú;48.190
+250400;Campina Grande;12.780
+250403;Capim;53.700
+250407;Caraúbas;62.100
+250410;Carrapateira;48.401
+250415;Casserengue;53.742
+250420;Catingueira;40.690
+250430;Catolé do Rocha;58.270
+250435;Caturité;89.510
+250440;Conceição;68.620
+250450;Condado;60.461
+250460;Conde;42.580
+250470;Congo;45.211
+250480;Coremas;52.462
+250485;Coxixola;62.721
+250490;Cruz do Espírito Santo;44.560
+250500;Cubati;68.300
+250510;Cuité;52.100
+250523;Cuité de Mamanguape;50.921
+250520;Cuitegi;35.930
+250527;Curral de Cima;82.110
+250530;Curral Velho;48.221
+250535;Damião;44.510
+250540;Desterro;58.750
+250560;Diamante;78.190
+250570;Dona Inês;46.330
+250580;Duas Estradas;53.731
+250590;Emas;92.960
+250600;Esperança;51.960
+250610;Fagundes;56.700
+250620;Frei Martinho;86.400
+250625;Gado Bravo;44.761
+250630;Guarabira;59.680
+250640;Gurinhém;42.290
+250650;Gurjão;56.290
+250660;Ibiara;55.140
+250260;Igaracy;74.720
+250670;Imaculada;51.650
+250680;Ingá;41.871
+250690;Itabaiana;51.651
+250700;Itaporanga;57.661
+250710;Itapororoca;53.322
+250720;Itatuba;46.990
+250730;Jacaraú;53.220
+250740;Jericó;78.300
+250750;João Pessoa;45.212
+251365;Joca Claudino;77.520
+250760;Juarez Távora;44.600
+250770;Juazeirinho;30.310
+250780;Junco do Seridó;57.960
+250790;Juripiranga;30.790
+250800;Juru;66.210
+250810;Lagoa;66.521
+250820;Lagoa de Dentro;50.981
+250830;Lagoa Seca;51.871
+250840;Lastro;37.290
+250850;Livramento;64.880
+250855;Logradouro;66.140
+250860;Lucena;53.461
+250870;Mãe d'Água;54.560
+250880;Malta;56.380
+250890;Mamanguape;36.180
+250900;Manaíra;50.530
+250905;Marcação;33.860
+250910;Mari;39.680
+250915;Marizópolis;32.960
+250920;Massaranduba;49.700
+250930;Mataraca;34.501
+250933;Matinhas;39.380
+250937;Mato Grosso;62.202
+250939;Maturéia;58.500
+250940;Mogeiro;50.850
+250950;Montadas;50.791
+250960;Monte Horebe;19.150
+250970;Monteiro;66.820
+250980;Mulungu;25.490
+250990;Natuba;69.530
+251000;Nazarezinho;46.101
+251010;Nova Floresta;39.470
+251020;Nova Olinda;60.940
+251030;Nova Palmeira;65.480
+251040;Olho d'Água;49.901
+251050;Olivedos;69.201
+251060;Ouro Velho;54.871
+251065;Parari;48.360
+251070;Passagem;74.291
+251080;Patos;31.350
+251090;Paulista;62.120
+251100;Pedra Branca;66.670
+251110;Pedra Lavrada;75.500
+251120;Pedras de Fogo;44.640
+251272;Pedro Régis;81.190
+251130;Piancó;58.210
+251140;Picuí;49.961
+251150;Pilar;54.660
+251160;Pilões;44.441
+251170;Pilõezinhos;60.480
+251180;Pirpirituba;49.780
+251190;Pitimbu;31.140
+251200;Pocinhos;47.320
+251203;Poço Dantas;59.420
+251207;Poço de José de Moura;51.872
+251210;Pombal;50.361
+251220;Prata;44.721
+251230;Princesa Isabel;46.870
+251240;Puxinanã;80.940
+251250;Queimadas;55.720
+251260;Quixabá;42.940
+251270;Remígio;48.320
+251274;Riachão;60.840
+251275;Riachão do Bacamarte;44.110
+251276;Riachão do Poço;47.801
+251278;Riacho de Santo Antônio;69.490
+251280;Riacho dos Cavalos;67.640
+251290;Rio Tinto;49.520
+251300;Salgadinho;34.390
+251310;Salgado de São Félix;42.481
+251315;Santa Cecília;64.111
+251320;Santa Cruz;71.240
+251330;Santa Helena;52.920
+251335;Santa Inês;53.150
+251340;Santa Luzia;54.261
+251370;Santa Rita;37.110
+251380;Santa Teresinha;68.270
+251350;Santana de Mangueira;62.810
+251360;Santana dos Garrotes;60.971
+251385;Santo André;94.370
+251392;São Bentinho;72.711
+251390;São Bento;59.470
+251396;São Domingos;34.970
+251394;São Domingos do Cariri;92.200
+251398;São Francisco;47.640
+251400;São João do Cariri;59.160
+250070;São João do Rio do Peixe;56.820
+251410;São João do Tigre;69.000
+251420;São José da Lagoa Tapada;55.300
+251430;São José de Caiana;62.111
+251440;São José de Espinharas;60.001
+251450;São José de Piranhas;39.961
+251455;São José de Princesa;66.430
+251460;São José do Bonfim;43.980
+251465;São José do Brejo do Cruz;52.750
+251470;São José do Sabugi;47.221
+251480;São José dos Cordeiros;24.530
+251445;São José dos Ramos;56.660
+251490;São Mamede;58.880
+251500;São Miguel de Taipu;41.201
+251510;São Sebastião de Lagoa de Roça;59.580
+251520;São Sebastião do Umbuzeiro;71.140
+251540;São Vicente do Seridó;67.311
+251530;Sapé;56.711
+251550;Serra Branca;53.390
+251560;Serra da Raiz;84.930
+251570;Serra Grande;72.150
+251580;Serra Redonda;37.460
+251590;Serraria;35.210
+251593;Sertãozinho;38.410
+251597;Sobrado;37.300
+251600;Solânea;50.390
+251610;Soledade;48.870
+251615;Sossêgo;71.840
+251620;Sousa;47.590
+251630;Sumé;54.541
+251640;Tacima;60.410
+251650;Taperoá;45.450
+251660;Tavares;46.510
+251670;Teixeira;39.150
+251675;Tenório;48.130
+251680;Triunfo;53.261
+251690;Uiraúna;60.760
+251700;Umbuzeiro;83.650
+251710;Várzea;76.740
+251720;Vieirópolis;45.650
+250550;Vista Serrana;55.920
+251740;Zabelê;94.380
+260005;Abreu e Lima;24.730
+260010;Afogados da Ingazeira;75.300
+260020;Afrânio;58.420
+260030;Agrestina;58.260
+260040;Água Preta;42.701
+260050;Águas Belas;51.110
+260060;Alagoinha;53.620
+260070;Aliança;45.261
+260080;Altinho;41.731
+260090;Amaraji;75.130
+260100;Angelim;56.910
+260105;Araçoiaba;48.481
+260110;Araripina;49.240
+260120;Arcoverde;62.703
+260130;Barra de Guabiraba;54.380
+260140;Barreiros;62.930
+260150;Belém de Maria;48.900
+260160;Belém do São Francisco;54.100
+260170;Belo Jardim;46.341
+260180;Betânia;46.700
+260190;Bezerros;36.460
+260200;Bodocó;50.922
+260210;Bom Conselho;38.610
+260220;Bom Jardim;54.240
+260230;Bonito;29.400
+260240;Brejão;50.640
+260250;Brejinho;74.220
+260260;Brejo da Madre de Deus;65.730
+260270;Buenos Aires;55.521
+260280;Buíque;56.200
+260290;Cabo de Santo Agostinho;44.220
+260300;Cabrobó;37.510
+260310;Cachoeirinha;25.760
+260320;Caetés;49.541
+260330;Calçado;50.923
+260340;Calumbi;47.300
+260345;Camaragibe;10.840
+260350;Camocim de São Félix;51.560
+260360;Camutanga;66.910
+260370;Canhotinho;41.872
+260380;Capoeiras;51.451
+260390;Carnaíba;32.440
+260392;Carnaubeira da Penha;47.260
+260400;Carpina;53.401
+260410;Caruaru;53.120
+260415;Casinhas;65.690
+260420;Catende;55.622
+260430;Cedro;70.800
+260440;Chã de Alegria;43.171
+260450;Chã Grande;59.541
+260460;Condado;53.900
+260470;Correntes;32.300
+260480;Cortês;4.390
+260490;Cumaru;59.980
+260500;Cupira;54.400
+260510;Custódia;67.470
+260515;Dormentes;52.631
+260520;Escada;53.540
+260530;Exu;53.870
+260540;Feira Nova;49.820
+260545;Fernando de Noronha;102.360
+260550;Ferreiros;41.230
+260560;Flores;39.190
+260570;Floresta;54.440
+260580;Frei Miguelinho;39.420
+260590;Gameleira;67.830
+260600;Garanhuns;49.601
+260610;Glória do Goitá;34.560
+260620;Goiana;40.341
+260630;Granito;54.801
+260640;Gravatá;42.750
+260650;Iati;57.860
+260660;Ibimirim;53.871
+260670;Ibirajuba;63.200
+260680;Igarassu;55.530
+260690;Iguaracy;43.610
+260760;Ilha de Itamaracá;42.100
+260700;Inajá;40.330
+260710;Ingazeira;63.640
+260720;Ipojuca;50.482
+260730;Ipubi;41.880
+260740;Itacuruba;51.751
+260750;Itaíba;45.861
+260765;Itambé;54.401
+260770;Itapetim;58.501
+260775;Itapissuma;47.971
+260780;Itaquitinga;50.750
+260790;Jaboatão dos Guararapes;35.211
+260795;Jaqueira;50.300
+260800;Jataúba;44.200
+260805;Jatobá;56.470
+260810;João Alfredo;50.460
+260820;Joaquim Nabuco;51.452
+260825;Jucati;48.871
+260830;Jupi;62.290
+260840;Jurema;46.151
+260850;Lagoa de Itaenga;46.481
+260845;Lagoa do Carro;51.400
+260860;Lagoa do Ouro;56.701
+260870;Lagoa dos Gatos;59.250
+260875;Lagoa Grande;56.940
+260880;Lajedo;35.470
+260890;Limoeiro;48.310
+260900;Macaparana;50.411
+260910;Machados;48.372
+260915;Manari;52.360
+260920;Maraial;39.570
+260930;Mirandiba;47.400
+261430;Moreilândia;36.681
+260940;Moreno;28.720
+260950;Nazaré da Mata;57.980
+260960;Olinda;35.440
+260970;Orobó;49.880
+260980;Orocó;52.180
+260990;Ouricuri;51.300
+261000;Palmares;38.170
+261010;Palmeirina;16.790
+261020;Panelas;35.490
+261030;Paranatama;52.160
+261040;Parnamirim;63.560
+261050;Passira;43.910
+261060;Paudalho;46.690
+261070;Paulista;36.960
+261080;Pedra;37.451
+261090;Pesqueira;46.140
+261100;Petrolândia;54.930
+261110;Petrolina;39.431
+261120;Poção;37.370
+261130;Pombos;59.560
+261140;Primavera;46.601
+261150;Quipapá;64.730
+261153;Quixaba;56.201
+261160;Recife;41.281
+261170;Riacho das Almas;52.300
+261180;Ribeirão;55.610
+261190;Rio Formoso;64.541
+261200;Sairé;50.982
+261210;Salgadinho;68.401
+261220;Salgueiro;58.401
+261230;Saloá;47.222
+261240;Sanharó;43.691
+261245;Santa Cruz;33.220
+261247;Santa Cruz da Baixa Verde;17.710
+261250;Santa Cruz do Capibaribe;64.550
+261255;Santa Filomena;42.280
+261260;Santa Maria da Boa Vista;50.461
+261270;Santa Maria do Cambucá;31.700
+261280;Santa Terezinha;50.910
+261290;São Benedito do Sul;33.280
+261300;São Bento do Una;45.451
+261310;São Caitano;42.850
+261320;São João;48.910
+261330;São Joaquim do Monte;53.262
+261340;São José da Coroa Grande;68.240
+261350;São José do Belmonte;60.491
+261360;São José do Egito;50.551
+261370;São Lourenço da Mata;48.410
+261380;São Vicente Ferrer;52.830
+261390;Serra Talhada;54.802
+261400;Serrita;55.941
+261410;Sertânia;51.630
+261420;Sirinhaém;73.580
+261440;Solidão;54.790
+261450;Surubim;51.000
+261460;Tabira;39.910
+261470;Tacaimbó;56.932
+261480;Tacaratu;64.490
+261485;Tamandaré;56.960
+261500;Taquaritinga do Norte;52.921
+261510;Terezinha;54.360
+261520;Terra Nova;60.340
+261530;Timbaúba;45.380
+261540;Toritama;58.581
+261550;Tracunhaém;63.672
+261560;Trindade;21.740
+261570;Triunfo;41.440
+261580;Tupanatinga;54.291
+261590;Tuparetama;42.651
+261600;Venturosa;64.511
+261610;Verdejante;77.570
+261618;Vertente do Lério;54.581
+261620;Vertentes;17.350
+261630;Vicência;58.680
+261640;Vitória de Santo Antão;38.990
+261650;Xexéu;53.180
+270010;Água Branca;43.821
+270020;Anadia;56.170
+270030;Arapiraca;48.251
+270040;Atalaia;54.761
+270050;Barra de Santo Antônio;48.550
+270060;Barra de São Miguel;36.470
+270070;Batalha;45.571
+270080;Belém;41.441
+270090;Belo Monte;51.890
+270100;Boca da Mata;37.310
+270110;Branquinha;24.670
+270120;Cacimbinhas;33.650
+270130;Cajueiro;48.280
+270135;Campestre;58.471
+270140;Campo Alegre;37.750
+270150;Campo Grande;53.810
+270160;Canapi;36.271
+270170;Capela;51.470
+270180;Carneiros;44.150
+270190;Chã Preta;24.450
+270200;Coité do Nóia;61.791
+270210;Colônia Leopoldina;28.210
+270220;Coqueiro Seco;60.600
+270230;Coruripe;42.690
+270235;Craíbas;52.340
+270240;Delmiro Gouveia;48.561
+270250;Dois Riachos;62.411
+270255;Estrela de Alagoas;55.360
+270260;Feira Grande;54.830
+270270;Feliz Deserto;53.350
+270280;Flexeiras;47.561
+270290;Girau do Ponciano;31.280
+270300;Ibateguara;55.301
+270310;Igaci;57.571
+270320;Igreja Nova;38.541
+270330;Inhapi;49.680
+270340;Jacaré dos Homens;64.190
+270350;Jacuípe;78.650
+270360;Japaratinga;53.230
+270370;Jaramataia;62.600
+270375;Jequiá da Praia;64.710
+270380;Joaquim Gomes;26.740
+270390;Jundiá;41.600
+270400;Junqueiro;58.901
+270410;Lagoa da Canoa;33.810
+270420;Limoeiro de Anadia;45.201
+270430;Maceió;39.962
+270440;Major Isidoro;42.101
+270490;Mar Vermelho;46.502
+270450;Maragogi;42.971
+270460;Maravilha;39.860
+270470;Marechal Deodoro;39.851
+270480;Maribondo;45.391
+270500;Mata Grande;39.920
+270510;Matriz de Camaragibe;53.410
+270520;Messias;53.551
+270530;Minador do Negrão;48.402
+270540;Monteirópolis;62.203
+270550;Murici;44.710
+270560;Novo Lino;39.560
+270570;Olho d'Água das Flores;47.501
+270580;Olho d'Água do Casado;47.902
+270590;Olho d'Água Grande;36.360
+270600;Olivença;46.750
+270610;Ouro Branco;57.791
+270620;Palestina;33.171
+270630;Palmeira dos Índios;45.500
+270640;Pão de Açúcar;54.831
+270642;Pariconha;48.403
+270644;Paripueira;44.722
+270650;Passo de Camaragibe;43.222
+270660;Paulo Jacinto;50.701
+270670;Penedo;49.701
+270680;Piaçabuçu;47.750
+270690;Pilar;43.380
+270700;Pindoba;80.490
+270710;Piranhas;41.580
+270720;Poço das Trincheiras;44.151
+270730;Porto Calvo;47.830
+270740;Porto de Pedras;48.840
+270750;Porto Real do Colégio;58.110
+270760;Quebrangulo;54.762
+270770;Rio Largo;49.802
+270780;Roteiro;40.602
+270790;Santa Luzia do Norte;52.640
+270800;Santana do Ipanema;54.891
+270810;Santana do Mundaú;53.811
+270820;São Brás;38.820
+270830;São José da Laje;49.750
+270840;São José da Tapera;42.860
+270850;São Luís do Quitunde;53.411
+270860;São Miguel dos Campos;39.580
+270870;São Miguel dos Milagres;36.740
+270880;São Sebastião;50.570
+270890;Satuba;20.720
+270895;Senador Rui Palmeira;54.370
+270900;Tanque d'Arca;44.711
+270910;Taquarana;52.211
+270915;Teotônio Vilela;52.380
+270920;Traipu;26.550
+270930;União dos Palmares;36.510
+270940;Viçosa;38.850
+280010;Amparo de São Francisco;51.150
+280020;Aquidabã;44.111
+280030;Aracaju;44.631
+280040;Arauá;59.650
+280050;Areia Branca;57.430
+280060;Barra dos Coqueiros;53.520
+280067;Boquim;53.721
+280070;Brejo Grande;62.630
+280100;Campo do Brito;52.690
+280110;Canhoba;55.700
+280120;Canindé de São Francisco;23.592
+280130;Capela;53.510
+280140;Carira;50.120
+280150;Carmópolis;54.490
+280160;Cedro de São João;66.900
+280170;Cristinápolis;42.102
+280190;Cumbe;57.200
+280200;Divina Pastora;51.541
+280210;Estância;40.730
+280220;Feira Nova;60.650
+280230;Frei Paulo;53.920
+280240;Gararu;61.181
+280250;General Maynard;64.740
+280260;Gracho Cardoso;61.880
+280270;Ilha das Flores;61.320
+280280;Indiaroba;42.841
+280290;Itabaiana;46.900
+280300;Itabaianinha;57.180
+280310;Itabi;68.260
+280320;Itaporanga d'Ajuda;52.500
+280330;Japaratuba;31.990
+280340;Japoatã;44.691
+280350;Lagarto;49.481
+280360;Laranjeiras;34.100
+280370;Macambira;81.520
+280380;Malhada dos Bois;92.800
+280390;Malhador;54.811
+280400;Maruim;47.401
+280410;Moita Bonita;72.290
+280420;Monte Alegre de Sergipe;64.900
+280430;Muribeca;62.860
+280440;Neópolis;43.641
+280445;Nossa Senhora Aparecida;50.000
+280450;Nossa Senhora da Glória;50.130
+280460;Nossa Senhora das Dores;56.210
+280470;Nossa Senhora de Lourdes;51.103
+280480;Nossa Senhora do Socorro;38.101
+280490;Pacatuba;67.170
+280500;Pedra Mole;54.141
+280510;Pedrinhas;52.220
+280520;Pinhão;57.301
+280530;Pirambu;46.102
+280540;Poço Redondo;44.641
+280550;Poço Verde;54.361
+280560;Porto da Folha;44.940
+280570;Propriá;38.600
+280580;Riachão do Dantas;54.620
+280590;Riachuelo;49.902
+280600;Ribeirópolis;61.270
+280610;Rosário do Catete;41.160
+280620;Salgado;45.960
+280630;Santa Luzia do Itanhy;52.801
+280650;Santa Rosa de Lima;52.780
+280640;Santana do São Francisco;49.280
+280660;Santo Amaro das Brotas;43.420
+280670;São Cristóvão;38.250
+280680;São Domingos;52.490
+280690;São Francisco;52.280
+280700;São Miguel do Aleixo;49.870
+280710;Simão Dias;57.910
+280720;Siriri;50.131
+280730;Telha;28.211
+280740;Tobias Barreto;42.950
+280750;Tomar do Geru;60.400
+280760;Umbaúba;49.751
+290010;Abaíra;72.420
+290020;Abaré;54.320
+290030;Acajutiba;24.101
+290035;Adustina;59.421
+290040;Água Fria;22.900
+290060;Aiquara;33.480
+290070;Alagoinhas;15.660
+290080;Alcobaça;46.911
+290090;Almadina;57.181
+290100;Amargosa;33.000
+290110;Amélia Rodrigues;35.511
+290115;América Dourada;52.510
+290120;Anagé;19.310
+290130;Andaraí;52.101
+290135;Andorinha;28.920
+290140;Angical;46.180
+290150;Anguera;47.780
+290160;Antas;78.820
+290170;Antônio Cardoso;41.702
+290180;Antônio Gonçalves;37.210
+290190;Aporá;34.921
+290195;Apuarema;62.461
+290205;Araças;64.760
+290200;Aracatu;59.641
+290210;Araci;31.520
+290220;Aramari;38.681
+290225;Arataca;19.610
+290230;Aratuípe;45.392
+290240;Aurelino Leal;18.500
+290250;Baianópolis;53.370
+290260;Baixa Grande;42.630
+290265;Banzaê;49.000
+290270;Barra;50.571
+290280;Barra da Estiva;61.150
+290290;Barra do Choça;28.311
+290300;Barra do Mendes;50.552
+290310;Barra do Rocha;55.942
+290320;Barreiras;52.190
+290323;Barro Alto;48.740
+290330;Barro Preto;45.460
+290327;Barrocas;55.960
+290340;Belmonte;30.400
+290350;Belo Campo;59.401
+290360;Biritinga;60.150
+290370;Boa Nova;44.442
+290380;Boa Vista do Tupim;18.330
+290390;Bom Jesus da Lapa;38.190
+290395;Bom Jesus da Serra;46.342
+290400;Boninal;48.440
+290405;Bonito;27.530
+290410;Boquira;56.640
+290420;Botuporã;64.901
+290430;Brejões;35.420
+290440;Brejolândia;53.660
+290450;Brotas de Macaúbas;73.350
+290460;Brumado;61.811
+290470;Buerarema;40.860
+290475;Buritirama;72.500
+290480;Caatiba;44.431
+290485;Cabaceiras do Paraguaçu;20.300
+290490;Cachoeira;42.780
+290500;Caculé;68.801
+290510;Caém;32.260
+290515;Caetanos;44.432
+290520;Caetité;22.580
+290530;Cafarnaum;58.970
+290540;Cairu;30.650
+290550;Caldeirão Grande;67.400
+290560;Camacan;44.371
+290570;Camaçari;36.760
+290580;Camamu;33.571
+290590;Campo Alegre de Lourdes;52.511
+290600;Campo Formoso;44.771
+290610;Canápolis;57.431
+290620;Canarana;47.701
+290630;Canavieiras;46.880
+290640;Candeal;56.491
+290650;Candeias;33.120
+290660;Candiba;58.111
+290670;Cândido Sales;39.990
+290680;Cansanção;34.610
+290682;Canudos;36.830
+290685;Capela do Alto Alegre;48.972
+290687;Capim Grosso;54.350
+290689;Caraíbas;31.440
+290690;Caravelas;64.650
+290700;Cardeal da Silva;30.620
+290710;Carinhanha;62.811
+290720;Casa Nova;19.100
+290730;Castro Alves;6.680
+290740;Catolândia;15.530
+290750;Catu;54.892
+290755;Caturama;59.390
+290760;Central;43.110
+290770;Chorrochó;21.850
+290780;Cícero Dantas;43.111
+290790;Cipó;35.880
+290800;Coaraci;36.201
+290810;Cocos;33.381
+290820;Conceição da Feira;40.121
+290830;Conceição do Almeida;39.400
+290840;Conceição do Coité;30.660
+290850;Conceição do Jacuípe;53.610
+290860;Conde;39.410
+290870;Condeúba;65.300
+290880;Contendas do Sincorá;68.630
+290890;Coração de Maria;22.680
+290900;Cordeiros;54.820
+290910;Coribe;56.760
+290920;Coronel João Sá;8.360
+290930;Correntina;61.431
+290940;Cotegipe;71.150
+290950;Cravolândia;17.110
+290960;Crisópolis;30.110
+290970;Cristópolis;39.162
+290980;Cruz das Almas;49.300
+290990;Curaçá;56.140
+291000;Dário Meira;42.180
+291005;Dias d'Ávila;30.300
+291010;Dom Basílio;60.100
+291020;Dom Macedo Costa;26.720
+291030;Elísio Medrado;51.190
+291040;Encruzilhada;63.270
+291050;Entre Rios;46.000
+290050;Érico Cardoso;50.230
+291060;Esplanada;47.931
+291070;Euclides da Cunha;47.910
+291072;Eunápolis;53.000
+291075;Fátima;48.940
+291077;Feira da Mata;110.820
+291080;Feira de Santana;33.611
+291085;Filadélfia;50.662
+291090;Firmino Alves;40.501
+291100;Floresta Azul;54.460
+291110;Formosa do Rio Preto;43.481
+291120;Gandu;32.210
+291125;Gavião;70.201
+291130;Gentio do Ouro;49.370
+291140;Glória;20.691
+291150;Gongogi;46.300
+291160;Governador Mangabeira;46.391
+291165;Guajeru;65.890
+291170;Guanambi;59.261
+291180;Guaratinga;19.190
+291185;Heliópolis;41.320
+291190;Iaçu;54.371
+291200;Ibiassucê;72.712
+291210;Ibicaraí;40.731
+291220;Ibicoara;67.290
+291230;Ibicuí;52.530
+291240;Ibipeba;45.710
+291250;Ibipitanga;46.200
+291260;Ibiquera;42.920
+291270;Ibirapitanga;38.140
+291280;Ibirapuã;19.620
+291290;Ibirataia;34.231
+291300;Ibitiara;36.250
+291310;Ibititá;47.720
+291320;Ibotirama;59.391
+291330;Ichu;93.870
+291340;Igaporã;12.480
+291345;Igrapiúna;38.210
+291350;Iguaí;25.501
+291360;Ilhéus;10.470
+291370;Inhambupe;47.903
+291380;Ipecaetá;51.390
+291390;Ipiaú;24.370
+291400;Ipirá;34.280
+291410;Ipupiara;81.480
+291420;Irajuba;21.100
+291430;Iramaia;33.530
+291440;Iraquara;49.320
+291450;Irará;53.831
+291460;Irecê;36.390
+291465;Itabela;44.320
+291470;Itaberaba;36.670
+291480;Itabuna;42.702
+291490;Itacaré;34.730
+291500;Itaeté;10.700
+291510;Itagi;55.240
+291520;Itagibá;34.670
+291530;Itagimirim;54.542
+291535;Itaguaçu da Bahia;41.581
+291540;Itaju do Colônia;15.620
+291550;Itajuípe;25.400
+291560;Itamaraju;42.961
+291570;Itamari;16.640
+291580;Itambé;28.300
+291590;Itanagra;54.292
+291600;Itanhém;29.590
+291610;Itaparica;8.540
+291620;Itapé;48.101
+291630;Itapebi;8.100
+291640;Itapetinga;23.530
+291650;Itapicuru;49.312
+291660;Itapitanga;46.661
+291670;Itaquara;17.360
+291680;Itarantim;49.331
+291685;Itatim;68.500
+291690;Itiruçu;47.140
+291700;Itiúba;40.820
+291710;Itororó;67.381
+291720;Ituaçu;44.501
+291730;Ituberá;45.340
+291733;Iuiú;81.130
+291735;Jaborandi;68.501
+291740;Jacaraci;42.830
+291750;Jacobina;32.800
+291760;Jaguaquara;28.180
+291770;Jaguarari;54.210
+291780;Jaguaripe;42.620
+291790;Jandaíra;31.430
+291800;Jequié;47.710
+291810;Jeremoabo;33.590
+291820;Jiquiriçá;53.840
+291830;Jitaúna;3.450
+291835;João Dourado;44.950
+291840;Juazeiro;7.570
+291845;Jucuruçu;65.900
+291850;Jussara;49.100
+291855;Jussari;43.311
+291860;Jussiape;56.681
+291870;Lafaiete Coutinho;69.590
+291875;Lagoa Real;41.660
+291880;Laje;23.410
+291890;Lajedão;60.110
+291900;Lajedinho;61.151
+291905;Lajedo do Tabocal;20.820
+291910;Lamarão;35.000
+291915;Lapão;46.412
+291920;Lauro de Freitas;21.430
+291930;Lençóis;51.530
+291940;Licínio de Almeida;55.540
+291950;Livramento de Nossa Senhora;61.660
+291955;Luís Eduardo Magalhães;55.860
+291960;Macajuba;33.400
+291970;Macarani;6.800
+291980;Macaúbas;44.171
+291990;Macururé;26.661
+291992;Madre de Deus;23.350
+291995;Maetinga;69.631
+292000;Maiquinique;20.500
+292010;Mairi;64.480
+292020;Malhada;55.600
+292030;Malhada de Pedras;57.440
+292040;Manoel Vitorino;45.430
+292045;Mansidão;75.230
+292050;Maracás;56.950
+292060;Maragogipe;22.390
+292070;Maraú;57.100
+292080;Marcionílio Souza;30.730
+292090;Mascote;35.110
+292100;Mata de São João;51.370
+292105;Matina;63.760
+292110;Medeiros Neto;52.440
+292120;Miguel Calmon;47.301
+292130;Milagres;64.270
+292140;Mirangaba;27.810
+292145;Mirante;75.501
+292150;Monte Santo;33.830
+292160;Morpará;34.170
+292170;Morro do Chapéu;40.400
+292180;Mortugaba;58.502
+292190;Mucugê;47.892
+292200;Mucuri;29.610
+292205;Mulungu do Morro;28.530
+292210;Mundo Novo;36.160
+292220;Muniz Ferreira;43.280
+292225;Muquém de São Francisco;85.560
+292230;Muritiba;44.141
+292240;Mutuípe;42.220
+292250;Nazaré;41.901
+292260;Nilo Peçanha;27.180
+292265;Nordestina;29.810
+292270;Nova Canaã;48.510
+292273;Nova Fátima;51.490
+292275;Nova Ibiá;75.850
+292280;Nova Itarana;57.930
+292285;Nova Redenção;72.740
+292290;Nova Soure;53.391
+292300;Nova Viçosa;3.610
+292303;Novo Horizonte;47.450
+292305;Novo Triunfo;28.170
+292310;Olindina;32.570
+292320;Oliveira dos Brejinhos;58.170
+292330;Ouriçangas;54.590
+292335;Ourolândia;38.611
+292340;Palmas de Monte Alto;59.490
+292350;Palmeiras;40.990
+292360;Paramirim;54.181
+292370;Paratinga;68.600
+292380;Paripiranga;58.870
+292390;Pau Brasil;47.100
+292400;Paulo Afonso;46.160
+292405;Pé de Serra;50.502
+292410;Pedrão;25.620
+292420;Pedro Alexandre;32.270
+292430;Piatã;49.962
+292440;Pilão Arcado;38.690
+292450;Pindaí;62.270
+292460;Pindobaçu;49.690
+292465;Pintadas;63.481
+292467;Piraí do Norte;12.720
+292470;Piripá;46.120
+292480;Piritiba;34.300
+292490;Planaltino;36.910
+292500;Planalto;32.290
+292510;Poções;55.570
+292520;Pojuca;55.531
+292525;Ponto Novo;34.710
+292530;Porto Seguro;48.920
+292540;Potiraguá;32.850
+292550;Prado;16.970
+292560;Presidente Dutra;47.601
+292570;Presidente Jânio Quadros;62.712
+292575;Presidente Tancredo Neves;46.570
+292580;Queimadas;55.740
+292590;Quijingue;51.561
+292593;Quixabeira;67.401
+292595;Rafael Jambeiro;55.320
+292600;Remanso;15.700
+292610;Retirolândia;47.904
+292620;Riachão das Neves;32.200
+292630;Riachão do Jacuípe;41.970
+292640;Riacho de Santana;5.890
+292650;Ribeira do Amparo;43.630
+292660;Ribeira do Pombal;46.430
+292665;Ribeirão do Largo;24.580
+292670;Rio de Contas;47.581
+292680;Rio do Antônio;49.202
+292690;Rio do Pires;47.702
+292700;Rio Real;33.901
+292710;Rodelas;27.430
+292720;Ruy Barbosa;30.440
+292730;Salinas da Margarida;15.390
+292740;Salvador;36.700
+292750;Santa Bárbara;59.850
+292760;Santa Brígida;50.930
+292770;Santa Cruz Cabrália;31.960
+292780;Santa Cruz da Vitória;60.770
+292790;Santa Inês;35.360
+292805;Santa Luzia;38.982
+292810;Santa Maria da Vitória;57.231
+292840;Santa Rita de Cássia;65.110
+292850;Santa Teresinha;58.530
+292800;Santaluz;48.930
+292820;Santana;62.580
+292830;Santanópolis;59.100
+292860;Santo Amaro;13.350
+292870;Santo Antônio de Jesus;19.770
+292880;Santo Estêvão;48.252
+292890;São Desidério;55.550
+292895;São Domingos;38.501
+292910;São Felipe;22.650
+292900;São Félix;41.431
+292905;São Félix do Coribe;52.301
+292920;São Francisco do Conde;42.680
+292925;São Gabriel;29.720
+292930;São Gonçalo dos Campos;31.190
+292935;São José da Vitória;37.770
+292937;São José do Jacuípe;69.730
+292940;São Miguel das Matas;55.601
+292950;São Sebastião do Passé;59.491
+292960;Sapeaçu;48.373
+292970;Sátiro Dias;32.240
+292975;Saubara;7.110
+292980;Saúde;58.601
+292990;Seabra;52.221
+293000;Sebastião Laranjeiras;96.410
+293010;Senhor do Bonfim;34.310
+293020;Sento Sé;49.602
+293015;Serra do Ramalho;66.351
+293030;Serra Dourada;50.170
+293040;Serra Preta;48.850
+293050;Serrinha;40.380
+293060;Serrolândia;34.150
+293070;Simões Filho;28.301
+293075;Sítio do Mato;62.250
+293076;Sítio do Quinto;28.450
+293077;Sobradinho;56.702
+293080;Souto Soares;38.402
+293090;Tabocas do Brejo Velho;62.490
+293100;Tanhaçu;50.781
+293105;Tanque Novo;32.851
+293110;Tanquinho;66.821
+293120;Taperoá;43.270
+293130;Tapiramutá;71.450
+293135;Teixeira de Freitas;38.971
+293140;Teodoro Sampaio;86.250
+293150;Teofilândia;53.501
+293160;Teolândia;68.890
+293170;Terra Nova;72.700
+293180;Tremedal;57.130
+293190;Tucano;45.610
+293200;Uauá;57.630
+293210;Ubaíra;41.732
+293220;Ubaitaba;42.131
+293230;Ubatã;42.460
+293240;Uibaí;57.760
+293245;Umburanas;35.400
+293250;Una;45.330
+293260;Urandi;51.104
+293270;Uruçuca;24.160
+293280;Utinga;53.481
+293290;Valença;20.970
+293300;Valente;60.771
+293305;Várzea da Roça;34.380
+293310;Várzea do Poço;62.101
+293315;Várzea Nova;54.700
+293317;Varzedo;35.600
+293320;Vera Cruz;34.890
+293325;Vereda;77.900
+293330;Vitória da Conquista;20.280
+293340;Wagner;51.280
+293345;Wanderley;40.760
+293350;Wenceslau Guimarães;49.140
+293360;Xique-Xique;52.001
+310010;Abadia dos Dourados;105.600
+310020;Abaeté;61.510
+310030;Abre Campo;72.900
+310040;Acaiaca;84.980
+310050;Açucena;64.191
+310060;Água Boa;68.440
+310070;Água Comprida;118.200
+310080;Aguanil;74.130
+310090;Águas Formosas;46.540
+310100;Águas Vermelhas;71.360
+310110;Aimorés;58.700
+310120;Aiuruoca;54.791
+310130;Alagoa;128.370
+310140;Albertina;85.570
+310150;Além Paraíba;56.850
+310160;Alfenas;52.641
+310163;Alfredo Vasconcelos;72.201
+310170;Almenara;40.603
+310180;Alpercata;53.490
+310190;Alpinópolis;67.710
+310200;Alterosa;61.170
+310205;Alto Caparaó;78.310
+315350;Alto Jequitibá;70.500
+310210;Alto Rio Doce;70.400
+310220;Alvarenga;79.230
+310230;Alvinópolis;58.130
+310240;Alvorada de Minas;49.702
+310250;Amparo do Serra;57.201
+310260;Andradas;58.190
+310280;Andrelândia;66.920
+310285;Angelândia;63.801
+310290;Antônio Carlos;51.562
+310300;Antônio Dias;66.740
+310310;Antônio Prado de Minas;87.430
+310320;Araçaí;60.162
+310330;Aracitaba;113.440
+310340;Araçuaí;48.541
+310350;Araguari;55.680
+310360;Arantina;21.860
+310370;Araponga;65.550
+310375;Araporã;65.330
+310380;Arapuá;85.191
+310390;Araújos;66.610
+310400;Araxá;53.291
+310410;Arceburgo;86.600
+310420;Arcos;59.262
+310430;Areado;67.480
+310440;Argirita;60.850
+310445;Aricanduva;56.370
+310450;Arinos;44.810
+310460;Astolfo Dutra;77.330
+310470;Ataléia;48.530
+310480;Augusto de Lima;79.900
+310490;Baependi;84.300
+310500;Baldim;64.400
+310510;Bambuí;53.402
+310520;Bandeira;88.850
+310530;Bandeira do Sul;73.670
+310540;Barão de Cocais;52.302
+310550;Barão de Monte Alto;88.480
+310560;Barbacena;55.310
+310570;Barra Longa;60.701
+310590;Barroso;49.241
+310600;Bela Vista de Minas;47.451
+310610;Belmiro Braga;71.790
+310620;Belo Horizonte;50.990
+310630;Belo Oriente;67.402
+310640;Belo Vale;40.970
+310650;Berilo;44.601
+310665;Berizal;59.920
+310660;Bertópolis;32.330
+310670;Betim;49.290
+310680;Bias Fortes;85.210
+310690;Bicas;64.200
+310700;Biquinhas;71.390
+310710;Boa Esperança;62.204
+310720;Bocaina de Minas;49.941
+310730;Bocaiúva;41.141
+310740;Bom Despacho;51.770
+310750;Bom Jardim de Minas;65.670
+310760;Bom Jesus da Penha;92.160
+310770;Bom Jesus do Amparo;59.332
+310780;Bom Jesus do Galho;55.660
+310790;Bom Repouso;78.470
+310800;Bom Sucesso;56.492
+310810;Bonfim;85.370
+310820;Bonfinópolis de Minas;40.290
+310825;Bonito de Minas;68.690
+310830;Borda da Mata;52.102
+310840;Botelhos;74.950
+310850;Botumirim;89.350
+310870;Brás Pires;77.960
+310855;Brasilândia de Minas;36.110
+310860;Brasília de Minas;61.700
+310880;Braúnas;108.300
+310890;Brazópolis;63.830
+310900;Brumadinho;25.401
+310910;Bueno Brandão;78.560
+310920;Buenópolis;66.170
+310925;Bugre;79.500
+310930;Buritis;45.521
+310940;Buritizeiro;51.230
+310945;Cabeceira Grande;64.610
+310950;Cabo Verde;57.961
+310960;Cachoeira da Prata;77.750
+310970;Cachoeira de Minas;67.161
+310270;Cachoeira de Pajeú;76.330
+310980;Cachoeira Dourada;59.271
+310990;Caetanópolis;80.000
+311000;Caeté;53.521
+311010;Caiana;62.540
+311020;Cajuri;85.540
+311030;Caldas;72.281
+311040;Camacho;81.430
+311050;Camanducaia;57.261
+311060;Cambuí;53.822
+311070;Cambuquira;54.461
+311080;Campanário;72.480
+311090;Campanha;60.851
+311100;Campestre;65.630
+311110;Campina Verde;60.601
+311115;Campo Azul;65.360
+311120;Campo Belo;52.581
+311130;Campo do Meio;62.770
+311140;Campo Florido;67.911
+311150;Campos Altos;64.620
+311160;Campos Gerais;50.901
+311190;Cana Verde;62.500
+311170;Canaã;89.380
+311180;Canápolis;62.831
+311200;Candeias;79.231
+311205;Cantagalo;60.510
+311210;Caparaó;68.560
+311220;Capela Nova;61.360
+311230;Capelinha;57.902
+311240;Capetinga;77.521
+311250;Capim Branco;70.741
+311260;Capinópolis;58.890
+311265;Capitão Andrade;48.300
+311270;Capitão Enéas;77.751
+311280;Capitólio;65.100
+311290;Caputira;57.280
+311300;Caraí;52.202
+311310;Caranaíba;53.250
+311320;Carandaí;62.970
+311330;Carangola;59.840
+311340;Caratinga;51.291
+311350;Carbonita;62.990
+311360;Careaçu;81.330
+311370;Carlos Chagas;68.680
+311380;Carmésia;73.700
+311390;Carmo da Cachoeira;83.210
+311400;Carmo da Mata;52.880
+311410;Carmo de Minas;66.600
+311420;Carmo do Cajuru;49.891
+311430;Carmo do Paranaíba;55.281
+311440;Carmo do Rio Claro;64.300
+311450;Carmópolis de Minas;68.910
+311455;Carneirinho;77.940
+311460;Carrancas;55.623
+311470;Carvalhópolis;94.890
+311480;Carvalhos;54.372
+311490;Casa Grande;67.500
+311500;Cascalho Rico;84.620
+311510;Cássia;67.501
+311530;Cataguases;55.970
+311535;Catas Altas;75.630
+311540;Catas Altas da Noruega;73.581
+311545;Catuji;72.631
+311547;Catuti;54.220
+311550;Caxambu;54.270
+311560;Cedro do Abaeté;111.190
+311570;Central de Minas;78.690
+311580;Centralina;55.901
+311590;Chácara;39.450
+311600;Chalé;80.600
+311610;Chapada do Norte;59.171
+311615;Chapada Gaúcha;75.170
+311620;Chiador;48.551
+311630;Cipotânea;75.490
+311640;Claraval;131.950
+311650;Claro dos Poções;65.640
+311660;Cláudio;61.390
+311670;Coimbra;61.950
+311680;Coluna;58.430
+311690;Comendador Gomes;70.610
+311700;Comercinho;66.360
+311710;Conceição da Aparecida;78.920
+311520;Conceição da Barra de Minas;104.370
+311730;Conceição das Alagoas;47.460
+311720;Conceição das Pedras;81.240
+311740;Conceição de Ipanema;115.420
+311750;Conceição do Mato Dentro;52.560
+311760;Conceição do Pará;58.503
+311770;Conceição do Rio Verde;67.881
+311780;Conceição dos Ouros;72.941
+311783;Cônego Marinho;75.700
+311787;Confins;65.290
+311790;Congonhal;64.700
+311800;Congonhas;56.591
+311810;Congonhas do Norte;57.232
+311820;Conquista;78.980
+311830;Conselheiro Lafaiete;54.981
+311840;Conselheiro Pena;57.631
+311850;Consolação;63.910
+311860;Contagem;47.491
+311870;Coqueiral;78.311
+311880;Coração de Jesus;58.902
+311890;Cordisburgo;80.300
+311900;Cordislândia;60.200
+311910;Corinto;54.302
+311920;Coroaci;83.180
+311930;Coromandel;55.321
+311940;Coronel Fabriciano;48.171
+311950;Coronel Murta;59.201
+311960;Coronel Pacheco;57.903
+311970;Coronel Xavier Chaves;52.450
+311980;Córrego Danta;96.710
+311990;Córrego do Bom Jesus;61.160
+311995;Córrego Fundo;83.200
+312000;Córrego Novo;71.961
+312010;Couto de Magalhães de Minas;49.781
+312015;Crisólita;57.270
+312020;Cristais;75.000
+312030;Cristália;43.571
+312040;Cristiano Otoni;77.250
+312050;Cristina;68.100
+312060;Crucilândia;57.880
+312070;Cruzeiro da Fortaleza;70.970
+312080;Cruzília;56.450
+312083;Cuparaque;69.350
+312087;Curral de Dentro;100.450
+312090;Curvelo;58.101
+312100;Datas;58.602
+312110;Delfim Moreira;60.401
+312120;Delfinópolis;77.970
+312125;Delta;66.680
+312130;Descoberto;86.180
+312140;Desterro de Entre Rios;81.470
+312150;Desterro do Melo;61.902
+312160;Diamantina;28.200
+312170;Diogo de Vasconcelos;48.841
+312180;Dionísio;78.500
+312190;Divinésia;104.790
+312200;Divino;56.430
+312210;Divino das Laranjeiras;61.391
+312220;Divinolândia de Minas;57.370
+312230;Divinópolis;55.631
+312235;Divisa Alegre;51.440
+312240;Divisa Nova;76.600
+312245;Divisópolis;64.350
+312247;Dom Bosco;95.240
+312250;Dom Cavati;65.260
+312260;Dom Joaquim;79.360
+312270;Dom Silvério;62.800
+312280;Dom Viçoso;92.900
+312290;Dona Eusébia;64.660
+312300;Dores de Campos;59.430
+312310;Dores de Guanhães;58.450
+312320;Dores do Indaiá;54.182
+312330;Dores do Turvo;69.632
+312340;Doresópolis;62.160
+312350;Douradoquara;171.140
+312352;Durandé;59.380
+312360;Elói Mendes;54.303
+312370;Engenheiro Caldas;63.850
+312380;Engenheiro Navarro;63.681
+312385;Entre Folhas;72.770
+312390;Entre Rios de Minas;54.271
+312400;Ervália;55.760
+312410;Esmeraldas;58.950
+312420;Espera Feliz;75.970
+312430;Espinosa;51.830
+312440;Espírito Santo do Dourado;83.780
+312450;Estiva;82.990
+312460;Estrela Dalva;52.903
+312470;Estrela do Indaiá;58.451
+312480;Estrela do Sul;67.141
+312490;Eugenópolis;53.823
+312500;Ewbank da Câmara;71.280
+312510;Extrema;57.740
+312520;Fama;41.601
+312530;Faria Lemos;47.920
+312540;Felício dos Santos;46.131
+312560;Felisburgo;59.930
+312570;Felixlândia;60.602
+312580;Fernandes Tourinho;75.470
+312590;Ferros;57.820
+312595;Fervedouro;71.730
+312600;Florestal;97.440
+312610;Formiga;56.990
+312620;Formoso;65.710
+312630;Fortaleza de Minas;92.260
+312640;Fortuna de Minas;95.720
+312650;Francisco Badaró;64.370
+312660;Francisco Dumont;62.900
+312670;Francisco Sá;67.171
+312675;Franciscópolis;61.451
+312680;Frei Gaspar;61.460
+312690;Frei Inocêncio;29.550
+312695;Frei Lagonegro;86.840
+312700;Fronteira;59.351
+312705;Fronteira dos Vales;62.205
+312707;Fruta de Leite;85.840
+312710;Frutal;51.200
+312720;Funilândia;73.720
+312730;Galiléia;73.270
+312733;Gameleiras;62.971
+312735;Glaucilândia;82.200
+312737;Goiabeira;59.202
+312738;Goianá;71.451
+312740;Gonçalves;106.390
+312750;Gonzaga;61.340
+312760;Gouveia;54.711
+312770;Governador Valadares;54.304
+312780;Grão Mogol;52.790
+312790;Grupiara;109.900
+312800;Guanhães;59.611
+312810;Guapé;80.390
+312820;Guaraciaba;72.670
+312825;Guaraciama;63.130
+312830;Guaranésia;77.140
+312840;Guarani;67.300
+312850;Guarará;75.201
+312860;Guarda-Mor;41.881
+312870;Guaxupé;53.381
+312880;Guidoval;69.260
+312890;Guimarânia;70.920
+312900;Guiricema;66.590
+312910;Gurinhatã;85.430
+312920;Heliodora;58.211
+312930;Iapu;68.760
+312940;Ibertioga;53.420
+312950;Ibiá;54.402
+312960;Ibiaí;59.511
+312965;Ibiracatu;58.551
+312970;Ibiraci;65.101
+312980;Ibirité;57.561
+312990;Ibitiúra de Minas;48.931
+313000;Ibituruna;81.580
+313005;Icaraí de Minas;66.270
+313010;Igarapé;58.903
+313020;Igaratinga;41.321
+313030;Iguatama;70.921
+313040;Ijaci;67.370
+313050;Ilicínea;73.271
+313055;Imbé de Minas;61.210
+313060;Inconfidentes;79.420
+313065;Indaiabira;55.850
+313070;Indianópolis;81.170
+313080;Ingaí;60.520
+313090;Inhapim;58.261
+313100;Inhaúma;57.810
+313110;Inimutaba;76.560
+313115;Ipaba;64.401
+313120;Ipanema;56.451
+313130;Ipatinga;64.301
+313140;Ipiaçu;89.900
+313150;Ipuiúna;68.930
+313160;Iraí de Minas;71.791
+313170;Itabira;55.322
+313180;Itabirinha;54.630
+313190;Itabirito;58.810
+313200;Itacambira;58.740
+313210;Itacarambi;56.230
+313220;Itaguara;29.822
+313230;Itaipé;75.120
+313240;Itajubá;59.790
+313250;Itamarandiba;57.302
+313260;Itamarati de Minas;86.500
+313270;Itambacuri;20.390
+313280;Itambé do Mato Dentro;50.132
+313290;Itamogi;73.610
+313300;Itamonte;60.350
+313310;Itanhandu;56.920
+313320;Itanhomi;56.161
+313330;Itaobim;56.480
+313340;Itapagipe;64.910
+313350;Itapecerica;49.490
+313360;Itapeva;68.540
+313370;Itatiaiuçu;58.390
+313375;Itaú de Minas;67.502
+313380;Itaúna;44.261
+313390;Itaverava;81.790
+313400;Itinga;63.600
+313410;Itueta;53.110
+313420;Ituiutaba;53.451
+313430;Itumirim;60.821
+313440;Iturama;65.800
+313450;Itutinga;75.950
+313460;Jaboticatubas;78.260
+313470;Jacinto;60.390
+313480;Jacuí;73.920
+313490;Jacutinga;62.631
+313500;Jaguaraçu;67.570
+313505;Jaíba;51.840
+313507;Jampruca;63.330
+313510;Janaúba;51.131
+313520;Januária;30.340
+313530;Japaraíba;80.900
+313535;Japonvar;69.611
+313540;Jeceaba;59.990
+313545;Jenipapo de Minas;53.630
+313550;Jequeri;69.900
+313560;Jequitaí;43.510
+313570;Jequitibá;92.560
+313580;Jequitinhonha;42.962
+313590;Jesuânia;62.220
+313600;Joaíma;71.281
+313610;Joanésia;90.490
+313620;João Monlevade;57.480
+313630;João Pinheiro;40.700
+313640;Joaquim Felício;34.270
+313650;Jordânia;67.172
+313652;José Gonçalves de Minas;49.530
+313655;José Raydan;71.470
+313657;Josenópolis;49.892
+313665;Juatuba;58.620
+313670;Juiz de Fora;21.960
+313680;Juramento;61.870
+313690;Juruaia;55.311
+313695;Juvenília;71.880
+313700;Ladainha;76.980
+313710;Lagamar;67.110
+313720;Lagoa da Prata;58.180
+313730;Lagoa dos Patos;73.480
+313740;Lagoa Dourada;63.641
+313750;Lagoa Formosa;58.821
+313753;Lagoa Grande;61.351
+313760;Lagoa Santa;48.601
+313770;Lajinha;56.900
+313780;Lambari;68.271
+313790;Lamim;68.601
+313800;Laranjal;54.431
+313810;Lassance;75.720
+313820;Lavras;46.511
+313830;Leandro Ferreira;106.980
+313835;Leme do Prado;69.541
+313840;Leopoldina;50.731
+313850;Liberdade;77.700
+313860;Lima Duarte;57.291
+313862;Limeira do Oeste;58.360
+313865;Lontra;50.740
+313867;Luisburgo;73.451
+313868;Luislândia;46.520
+313870;Luminárias;62.470
+313880;Luz;70.560
+313890;Machacalis;62.121
+313900;Machado;63.710
+313910;Madre de Deus de Minas;65.420
+313920;Malacacheta;60.810
+313925;Mamonas;66.800
+313930;Manga;56.620
+313940;Manhuaçu;57.931
+313950;Manhumirim;65.331
+313960;Mantena;57.400
+313980;Mar de Espanha;62.206
+313970;Maravilhas;87.800
+313990;Maria da Fé;79.200
+314000;Mariana;57.233
+314010;Marilac;70.350
+314015;Mário Campos;74.250
+314020;Maripá de Minas;53.251
+314030;Marliéria;67.690
+314040;Marmelópolis;74.460
+314050;Martinho Campos;66.911
+314053;Martins Soares;78.000
+314055;Mata Verde;54.480
+314060;Materlândia;53.140
+314070;Mateus Leme;57.940
+317150;Mathias Lobato;67.280
+314080;Matias Barbosa;59.460
+314085;Matias Cardoso;69.110
+314090;Matipó;45.711
+314100;Mato Verde;51.580
+314110;Matozinhos;51.902
+314120;Matutina;54.202
+314130;Medeiros;80.340
+314140;Medina;57.303
+314150;Mendes Pimentel;61.201
+314160;Mercês;61.570
+314170;Mesquita;74.630
+314180;Minas Novas;42.271
+314190;Minduri;75.870
+314200;Mirabela;56.911
+314210;Miradouro;88.900
+314220;Miraí;69.230
+314225;Miravânia;61.871
+314230;Moeda;100.000
+314240;Moema;64.530
+314250;Monjolos;63.650
+314260;Monsenhor Paulo;82.750
+314270;Montalvânia;58.120
+314280;Monte Alegre de Minas;55.461
+314290;Monte Azul;65.500
+314300;Monte Belo;69.501
+314310;Monte Carmelo;56.211
+314315;Monte Formoso;86.850
+314320;Monte Santo de Minas;78.740
+314340;Monte Sião;51.301
+314330;Montes Claros;46.991
+314345;Montezuma;54.763
+314350;Morada Nova de Minas;77.210
+314360;Morro da Garça;87.300
+314370;Morro do Pilar;26.100
+314380;Munhoz;75.480
+314390;Muriaé;47.380
+314400;Mutum;49.911
+314410;Muzambinho;70.240
+314420;Nacip Raydan;66.120
+314430;Nanuque;48.842
+314435;Naque;76.390
+314437;Natalândia;66.461
+314440;Natércia;77.401
+314450;Nazareno;63.000
+314460;Nepomuceno;63.191
+314465;Ninheira;59.960
+314467;Nova Belém;72.730
+314470;Nova Era;53.282
+314480;Nova Lima;49.110
+314490;Nova Módica;79.400
+314500;Nova Ponte;89.630
+314505;Nova Porteirinha;60.470
+314510;Nova Resende;66.160
+314520;Nova Serrana;62.112
+313660;Nova União;53.601
+314530;Novo Cruzeiro;54.262
+314535;Novo Oriente de Minas;69.860
+314537;Novorizonte;52.950
+314540;Olaria;66.890
+314545;Olhos-d'Água;59.121
+314550;Olímpio Noronha;66.462
+314560;Oliveira;63.550
+314570;Oliveira Fortes;93.750
+314580;Onça de Pitangui;66.671
+314585;Oratórios;89.680
+314587;Orizânia;59.612
+314590;Ouro Branco;51.640
+314600;Ouro Fino;48.760
+314610;Ouro Preto;48.720
+314620;Ouro Verde de Minas;67.912
+314625;Padre Carvalho;47.960
+314630;Padre Paraíso;67.600
+314655;Pai Pedro;68.631
+314640;Paineiras;103.600
+314650;Pains;56.800
+314660;Paiva;50.860
+314670;Palma;46.920
+314675;Palmópolis;71.550
+314690;Papagaios;63.100
+314710;Pará de Minas;47.881
+314700;Paracatu;55.690
+314720;Paraguaçu;65.301
+314730;Paraisópolis;53.901
+314740;Paraopeba;70.501
+314760;Passa Quatro;49.231
+314770;Passa Tempo;57.941
+314780;Passa-Vinte;63.290
+314750;Passabém;71.600
+314790;Passos;53.801
+314795;Patis;56.250
+314800;Patos de Minas;48.640
+314810;Patrocínio;62.650
+314820;Patrocínio do Muriaé;76.870
+314830;Paula Cândido;73.230
+314840;Paulistas;74.640
+314850;Pavão;81.650
+314860;Peçanha;66.630
+314870;Pedra Azul;50.840
+314875;Pedra Bonita;51.972
+314880;Pedra do Anta;71.471
+314890;Pedra do Indaiá;70.430
+314900;Pedra Dourada;32.150
+314910;Pedralva;70.160
+314915;Pedras de Maria da Cruz;65.350
+314920;Pedrinópolis;105.470
+314930;Pedro Leopoldo;57.792
+314940;Pedro Teixeira;240.500
+314950;Pequeri;84.460
+314960;Pequi;68.931
+314970;Perdigão;53.331
+314980;Perdizes;64.280
+314990;Perdões;66.611
+314995;Periquito;58.690
+315000;Pescador;62.302
+315010;Piau;84.970
+315015;Piedade de Caratinga;53.421
+315020;Piedade de Ponte Nova;93.470
+315030;Piedade do Rio Grande;72.202
+315040;Piedade dos Gerais;55.500
+315050;Pimenta;94.830
+315053;Pingo-d'Água;68.810
+315057;Pintópolis;57.662
+315060;Piracema;67.000
+315070;Pirajuba;64.260
+315080;Piranga;48.901
+315090;Piranguçu;74.300
+315100;Piranguinho;61.640
+315110;Pirapetinga;67.810
+315120;Pirapora;51.151
+315130;Piraúba;54.211
+315140;Pitangui;33.500
+315150;Piumhi;51.520
+315160;Planura;56.712
+315170;Poço Fundo;62.632
+315180;Poços de Caldas;46.921
+315190;Pocrane;101.470
+315200;Pompéu;60.210
+315210;Ponte Nova;59.880
+315213;Ponto Chique;81.910
+315217;Ponto dos Volantes;50.402
+315220;Porteirinha;57.580
+315230;Porto Firme;58.230
+315240;Poté;76.640
+315250;Pouso Alegre;53.602
+315260;Pouso Alto;75.220
+315270;Prados;64.481
+315280;Prata;47.470
+315290;Pratápolis;49.681
+315300;Pratinha;56.420
+315310;Presidente Bernardes;70.361
+315320;Presidente Juscelino;66.540
+315330;Presidente Kubitschek;58.671
+315340;Presidente Olegário;57.340
+315360;Prudente de Morais;64.171
+315370;Quartel Geral;77.971
+315380;Queluzito;92.640
+315390;Raposos;26.110
+315400;Raul Soares;61.420
+315410;Recreio;66.400
+315415;Reduto;54.212
+315420;Resende Costa;61.720
+315430;Resplendor;68.120
+315440;Ressaquinha;55.602
+315445;Riachinho;76.601
+315450;Riacho dos Machados;63.250
+315460;Ribeirão das Neves;40.650
+315470;Ribeirão Vermelho;55.522
+315480;Rio Acima;62.291
+315490;Rio Casca;78.370
+315510;Rio do Prado;63.601
+315500;Rio Doce;103.850
+315520;Rio Espera;111.690
+315530;Rio Manso;52.870
+315540;Rio Novo;66.420
+315550;Rio Paranaíba;58.751
+315560;Rio Pardo de Minas;65.731
+315570;Rio Piracicaba;53.283
+315580;Rio Pomba;54.982
+315590;Rio Preto;76.380
+315600;Rio Vermelho;33.190
+315610;Ritápolis;88.180
+315620;Rochedo de Minas;59.352
+315630;Rodeiro;77.710
+315640;Romaria;69.542
+315645;Rosário da Limeira;87.980
+315650;Rubelita;75.221
+315660;Rubim;56.621
+315670;Sabará;42.710
+315680;Sabinópolis;72.750
+315690;Sacramento;59.971
+315700;Salinas;58.540
+315710;Salto da Divisa;25.250
+315720;Santa Bárbara;60.140
+315725;Santa Bárbara do Leste;105.150
+315727;Santa Bárbara do Monte Verde;88.640
+315730;Santa Bárbara do Tugúrio;105.380
+315733;Santa Cruz de Minas;71.180
+315737;Santa Cruz de Salinas;66.930
+315740;Santa Cruz do Escalvado;78.770
+315750;Santa Efigênia de Minas;45.530
+315760;Santa Fé de Minas;66.810
+315765;Santa Helena de Minas;63.960
+315770;Santa Juliana;62.680
+315780;Santa Luzia;36.380
+315790;Santa Margarida;62.303
+315800;Santa Maria de Itabira;59.761
+315810;Santa Maria do Salto;70.720
+315820;Santa Maria do Suaçuí;58.441
+315920;Santa Rita de Caldas;59.500
+315940;Santa Rita de Ibitipoca;74.350
+315930;Santa Rita de Jacutinga;74.292
+315935;Santa Rita de Minas;64.460
+315950;Santa Rita do Itueto;78.900
+315960;Santa Rita do Sapucaí;57.410
+315970;Santa Rosa da Serra;55.302
+315980;Santa Vitória;54.561
+315830;Santana da Vargem;76.140
+315840;Santana de Cataguases;86.780
+315850;Santana de Pirapama;66.620
+315860;Santana do Deserto;74.301
+315870;Santana do Garambéu;78.440
+315880;Santana do Jacaré;44.700
+315890;Santana do Manhuaçu;95.320
+315895;Santana do Paraíso;49.830
+315900;Santana do Riacho;71.650
+315910;Santana dos Montes;69.300
+315990;Santo Antônio do Amparo;68.761
+316000;Santo Antônio do Aventureiro;104.620
+316010;Santo Antônio do Grama;66.522
+316020;Santo Antônio do Itambé;45.120
+316030;Santo Antônio do Jacinto;80.760
+316040;Santo Antônio do Monte;52.922
+316045;Santo Antônio do Retiro;95.870
+316050;Santo Antônio do Rio Abaixo;60.740
+316060;Santo Hipólito;68.330
+316070;Santos Dumont;61.860
+316080;São Bento Abade;69.390
+316090;São Brás do Suaçuí;50.451
+316095;São Domingos das Dores;55.681
+316100;São Domingos do Prata;66.340
+316105;São Félix de Minas;76.440
+316110;São Francisco;60.790
+316120;São Francisco de Paula;58.610
+316130;São Francisco de Sales;57.131
+316140;São Francisco do Glória;57.632
+316150;São Geraldo;70.100
+316160;São Geraldo da Piedade;70.301
+316165;São Geraldo do Baixio;73.320
+316170;São Gonçalo do Abaeté;73.351
+316180;São Gonçalo do Pará;66.601
+316190;São Gonçalo do Rio Abaixo;54.631
+312550;São Gonçalo do Rio Preto;49.491
+316200;São Gonçalo do Sapucaí;57.304
+316210;São Gotardo;54.780
+316220;São João Batista do Glória;62.780
+316225;São João da Lagoa;123.110
+316230;São João da Mata;69.170
+316240;São João da Ponte;57.850
+316245;São João das Missões;61.560
+316250;São João del Rei;51.152
+316255;São João do Manhuaçu;68.590
+316257;São João do Manteninha;63.482
+316260;São João do Oriente;47.905
+316265;São João do Pacuí;76.320
+316270;São João do Paraíso;65.140
+316280;São João Evangelista;46.413
+316290;São João Nepomuceno;65.540
+316292;São Joaquim de Bicas;54.803
+316294;São José da Barra;67.781
+316295;São José da Lapa;43.330
+316300;São José da Safira;47.480
+316310;São José da Varginha;20.281
+316320;São José do Alegre;65.740
+316330;São José do Divino;70.220
+316340;São José do Goiabal;64.360
+316350;São José do Jacuri;76.771
+316360;São José do Mantimento;68.891
+316370;São Lourenço;51.132
+316380;São Miguel do Anta;68.780
+316390;São Pedro da União;55.420
+316410;São Pedro do Suaçuí;50.600
+316400;São Pedro dos Ferros;74.980
+316420;São Romão;63.242
+316430;São Roque de Minas;66.200
+316440;São Sebastião da Bela Vista;59.590
+316443;São Sebastião da Vargem Alegre;114.190
+316447;São Sebastião do Anta;87.110
+316450;São Sebastião do Maranhão;60.570
+316460;São Sebastião do Oeste;74.370
+316470;São Sebastião do Paraíso;63.651
+316480;São Sebastião do Rio Preto;23.790
+316490;São Sebastião do Rio Verde;104.180
+316520;São Thomé das Letras;63.180
+316500;São Tiago;64.800
+316510;São Tomás de Aquino;83.471
+316530;São Vicente de Minas;64.220
+316540;Sapucaí-Mirim;68.580
+316550;Sardoá;50.851
+316553;Sarzedo;58.711
+316556;Sem-Peixe;50.663
+316557;Senador Amaral;64.320
+316560;Senador Cortes;48.552
+316570;Senador Firmino;58.291
+316580;Senador José Bento;59.280
+316590;Senador Modestino Gonçalves;44.890
+316600;Senhora de Oliveira;63.390
+316610;Senhora do Porto;79.710
+316620;Senhora dos Remédios;59.972
+316630;Sericita;86.530
+316640;Seritinga;99.200
+316650;Serra Azul de Minas;11.620
+316660;Serra da Saudade;139.770
+316680;Serra do Salitre;57.942
+316670;Serra dos Aimorés;77.540
+316690;Serrania;77.490
+316695;Serranópolis de Minas;67.111
+316700;Serranos;54.272
+316710;Serro;43.670
+316720;Sete Lagoas;51.420
+316555;Setubinha;42.540
+316730;Silveirânia;61.251
+316740;Silvianópolis;71.701
+316750;Simão Pereira;45.601
+316760;Simonésia;59.601
+316770;Sobrália;62.581
+316780;Soledade de Minas;60.211
+316790;Tabuleiro;90.580
+316800;Taiobeiras;43.400
+316805;Taparuba;70.380
+316810;Tapira;83.810
+316820;Tapiraí;82.201
+316830;Taquaraçu de Minas;46.720
+316840;Tarumirim;49.871
+316850;Teixeiras;63.673
+316860;Teófilo Otoni;41.300
+316870;Timóteo;48.222
+316880;Tiradentes;49.252
+316890;Tiros;78.840
+316900;Tocantins;61.991
+316905;Tocos do Moji;77.270
+316910;Toledo;69.790
+316920;Tombos;52.512
+316930;Três Corações;62.122
+316935;Três Marias;61.202
+316940;Três Pontas;61.452
+316950;Tumiritinga;49.803
+316960;Tupaciguara;60.691
+316970;Turmalina;63.630
+316980;Turvolândia;80.170
+316990;Ubá;55.462
+317000;Ubaí;48.542
+317005;Ubaporanga;63.110
+317010;Uberaba;46.170
+317020;Uberlândia;51.800
+317030;Umburatiba;67.291
+317040;Unaí;46.721
+317043;União de Minas;81.791
+317047;Uruana de Minas;38.740
+317050;Urucânia;66.550
+317052;Urucuia;80.930
+317057;Vargem Alegre;77.880
+317060;Vargem Bonita;43.120
+317065;Vargem Grande do Rio Pardo;56.120
+317070;Varginha;50.121
+317075;Varjão de Minas;76.510
+317080;Várzea da Palma;66.221
+317090;Varzelândia;39.840
+317100;Vazante;51.001
+317103;Verdelândia;35.730
+317107;Veredinha;75.900
+317110;Veríssimo;35.230
+317115;Vermelho Novo;102.200
+317120;Vespasiano;42.910
+317130;Viçosa;53.190
+317140;Vieiras;88.510
+317160;Virgem da Lapa;62.280
+317170;Virgínia;66.431
+317180;Virginópolis;64.580
+317190;Virgolândia;96.200
+317200;Visconde do Rio Branco;53.462
+317210;Volta Grande;64.690
+317220;Wenceslau Braz;79.340
+320010;Afonso Cláudio;72.550
+320016;Água Doce do Norte;60.901
+320013;Águia Branca;62.281
+320020;Alegre;66.130
+320030;Alfredo Chaves;66.950
+320035;Alto Rio Novo;55.800
+320040;Anchieta;70.530
+320050;Apiacá;57.320
+320060;Aracruz;23.200
+320070;Atilio Vivacqua;74.850
+320080;Baixo Guandu;38.141
+320090;Barra de São Francisco;50.610
+320100;Boa Esperança;62.401
+320110;Bom Jesus do Norte;50.572
+320115;Brejetuba;63.930
+320120;Cachoeiro de Itapemirim;50.902
+320130;Cariacica;40.280
+320140;Castelo;68.781
+320150;Colatina;3.640
+320160;Conceição da Barra;40.480
+320170;Conceição do Castelo;54.720
+320180;Divino de São Lourenço;55.190
+320190;Domingos Martins;65.351
+320200;Dores do Rio Preto;102.870
+320210;Ecoporanga;51.680
+320220;Fundão;65.250
+320225;Governador Lindenberg;97.700
+320230;Guaçuí;55.430
+320240;Guarapari;47.721
+320245;Ibatiba;77.390
+320250;Ibiraçu;62.360
+320255;Ibitirama;55.611
+320260;Iconha;62.381
+320265;Irupi;37.830
+320270;Itaguaçu;77.920
+320280;Itapemirim;44.692
+320290;Itarana;91.610
+320300;Iúna;56.471
+320305;Jaguaré;64.151
+320310;Jerônimo Monteiro;81.750
+320313;João Neiva;54.340
+320316;Laranja da Terra;99.470
+320320;Linhares;31.221
+320330;Mantenópolis;62.620
+320332;Marataízes;61.280
+320334;Marechal Floriano;31.890
+320335;Marilândia;75.380
+320340;Mimoso do Sul;58.292
+320350;Montanha;59.901
+320360;Mucurici;64.980
+320370;Muniz Freire;62.350
+320380;Muqui;82.751
+320390;Nova Venécia;62.832
+320400;Pancas;69.400
+320405;Pedro Canário;54.110
+320410;Pinheiros;37.471
+320420;Piúma;44.112
+320425;Ponto Belo;87.200
+320430;Presidente Kennedy;65.820
+320435;Rio Bananal;80.130
+320440;Rio Novo do Sul;65.600
+320450;Santa Leopoldina;50.861
+320455;Santa Maria de Jetibá;44.361
+320460;Santa Teresa;73.730
+320465;São Domingos do Norte;73.800
+320470;São Gabriel da Palha;61.192
+320480;São José do Calçado;59.263
+320490;São Mateus;45.670
+320495;São Roque do Canaã;95.690
+320500;Serra;51.312
+320501;Sooretama;57.101
+320503;Vargem Alta;36.340
+320506;Venda Nova do Imigrante;65.511
+320510;Viana;54.740
+320515;Vila Pavão;71.870
+320517;Vila Valério;59.441
+320520;Vila Velha;47.242
+320530;Vitória;51.510
+330010;Angra dos Reis;36.161
+330015;Aperibé;47.722
+330020;Araruama;44.230
+330022;Areal;62.260
+330023;Armação dos Búzios;27.651
+330025;Arraial do Cabo;23.141
+330030;Barra do Piraí;31.540
+330040;Barra Mansa;29.120
+330045;Belford Roxo;10.870
+330050;Bom Jardim;54.305
+330060;Bom Jesus do Itabapoana;32.620
+330070;Cabo Frio;10.240
+330080;Cachoeiras de Macacu;35.601
+330090;Cambuci;46.992
+330100;Campos dos Goytacazes;32.961
+330110;Cantagalo;36.701
+330093;Carapebus;41.350
+330115;Cardoso Moreira;55.393
+330120;Carmo;42.530
+330130;Casimiro de Abreu;28.820
+330095;Comendador Levy Gasparian;49.291
+330140;Conceição de Macabu;24.102
+330150;Cordeiro;36.720
+330160;Duas Barras;56.421
+330170;Duque de Caxias;5.600
+330180;Engenheiro Paulo de Frontin;61.100
+330185;Guapimirim;42.911
+330187;Iguaba Grande;19.260
+330190;Itaboraí;25.900
+330200;Itaguaí;39.770
+330205;Italva;49.630
+330210;Itaocara;44.311
+330220;Itaperuna;54.910
+330225;Itatiaia;53.332
+330227;Japeri;12.840
+330230;Laje do Muriaé;65.910
+330240;Macaé;24.690
+330245;Macuco;51.491
+330250;Magé;41.801
+330260;Mangaratiba;23.301
+330270;Maricá;16.540
+330280;Mendes;28.600
+330285;Mesquita;42.400
+330290;Miguel Pereira;55.701
+330300;Miracema;37.220
+330310;Natividade;52.103
+330320;Nilópolis;11.800
+330330;Niterói;29.900
+330340;Nova Friburgo;37.380
+330350;Nova Iguaçu;6.450
+330360;Paracambi;36.850
+330370;Paraíba do Sul;39.750
+330380;Paraty;42.900
+330385;Paty do Alferes;31.270
+330390;Petrópolis;48.973
+330395;Pinheiral;47.951
+330400;Piraí;66.421
+330410;Porciúncula;54.111
+330411;Porto Real;63.350
+330412;Quatis;39.730
+330414;Queimados;20.400
+330415;Quissamã;50.301
+330420;Resende;39.790
+330430;Rio Bonito;3.170
+330440;Rio Claro;56.721
+330450;Rio das Flores;60.481
+330452;Rio das Ostras;30.610
+330455;Rio de Janeiro;28.480
+330460;Santa Maria Madalena;32.801
+330470;Santo Antônio de Pádua;40.440
+330480;São Fidélis;31.431
+330475;São Francisco de Itabapoana;35.810
+330490;São Gonçalo;14.921
+330500;São João da Barra;68.621
+330510;São João de Meriti;15.410
+330513;São José de Ubá;45.940
+330515;São José do Vale do Rio Preto;58.181
+330520;São Pedro da Aldeia;14.220
+330530;São Sebastião do Alto;22.690
+330540;Sapucaia;55.501
+330550;Saquarema;19.690
+330555;Seropédica;14.140
+330560;Silva Jardim;43.401
+330570;Sumidouro;56.330
+330575;Tanguá;16.520
+330580;Teresópolis;32.700
+330590;Trajano de Moraes;43.900
+330600;Três Rios;27.970
+330610;Valença;41.961
+330615;Varre-Sai;42.941
+330620;Vassouras;28.540
+330630;Volta Redonda;45.802
+350010;Adamantina;62.170
+350020;Adolfo;99.140
+350030;Aguaí;60.462
+350040;Águas da Prata;70.640
+350050;Águas de Lindóia;52.230
+350055;Águas de Santa Bárbara;58.402
+350060;Águas de São Pedro;53.221
+350070;Agudos;57.110
+350075;Alambari;56.280
+350080;Alfredo Marcondes;92.770
+350090;Altair;70.202
+350100;Altinópolis;70.111
+350110;Alto Alegre;45.240
+350115;Alumínio;43.600
+350120;Álvares Florence;77.200
+350130;Álvares Machado;65.410
+350140;Álvaro de Carvalho;70.280
+350150;Alvinlândia;75.540
+350160;Americana;51.821
+350170;Américo Brasiliense;47.602
+350180;Américo de Campos;105.890
+350190;Amparo;55.370
+350200;Analândia;58.621
+350210;Andradina;58.102
+350220;Angatuba;47.551
+350230;Anhembi;47.110
+350240;Anhumas;56.441
+350250;Aparecida;33.161
+350260;Aparecida d'Oeste;74.981
+350270;Apiaí;33.580
+350275;Araçariguama;52.591
+350280;Araçatuba;48.172
+350290;Araçoiaba da Serra;46.251
+350300;Aramina;44.480
+350310;Arandu;38.452
+350315;Arapeí;96.640
+350320;Araraquara;44.970
+350330;Araras;60.290
+350335;Arco-Íris;81.770
+350340;Arealva;70.830
+350350;Areias;64.950
+350360;Areiópolis;56.181
+350370;Ariranha;87.170
+350380;Artur Nogueira;48.700
+350390;Arujá;39.440
+350395;Aspásia;58.472
+350400;Assis;43.862
+350410;Atibaia;54.481
+350420;Auriflama;44.210
+350430;Avaí;55.170
+350440;Avanhandava;35.801
+350450;Avaré;58.752
+350460;Bady Bassitt;58.570
+350470;Balbinos;70.981
+350480;Bálsamo;84.390
+350490;Bananal;48.210
+350500;Barão de Antonina;58.361
+350510;Barbosa;57.120
+350520;Bariri;55.532
+350530;Barra Bonita;57.140
+350535;Barra do Chapéu;73.810
+350540;Barra do Turvo;55.580
+350550;Barretos;51.105
+350560;Barrinha;46.901
+350570;Barueri;50.190
+350580;Bastos;64.131
+350590;Batatais;22.290
+350600;Bauru;56.570
+350610;Bebedouro;56.821
+350620;Bento de Abreu;71.890
+350630;Bernardino de Campos;68.802
+350635;Bertioga;39.290
+350640;Bilac;52.330
+350650;Birigui;53.552
+350660;Biritiba-Mirim;55.730
+350670;Boa Esperança do Sul;75.401
+350680;Bocaina;52.470
+350690;Bofete;68.402
+350700;Boituva;43.181
+350710;Bom Jesus dos Perdões;58.171
+350715;Bom Sucesso de Itararé;63.851
+350720;Borá;77.350
+350730;Boracéia;49.281
+350740;Borborema;52.740
+350745;Borebi;7.300
+350750;Botucatu;65.880
+350760;Bragança Paulista;60.141
+350770;Braúna;50.430
+350775;Brejo Alegre;65.891
+350780;Brodowski;46.922
+350790;Brotas;59.700
+350800;Buri;69.301
+350810;Buritama;64.931
+350820;Buritizal;9.600
+350830;Cabrália Paulista;60.871
+350840;Cabreúva;54.701
+350850;Caçapava;46.350
+350860;Cachoeira Paulista;51.652
+350870;Caconde;63.171
+350880;Cafelândia;51.270
+350890;Caiabu;74.540
+350900;Caieiras;57.720
+350910;Caiuá;59.130
+350920;Cajamar;24.581
+350925;Cajati;46.380
+350930;Cajobi;55.350
+350940;Cajuru;46.361
+350945;Campina do Monte Alegre;47.250
+350950;Campinas;49.840
+350960;Campo Limpo Paulista;52.341
+350970;Campos do Jordão;56.751
+350980;Campos Novos Paulista;66.672
+350990;Cananéia;27.700
+350995;Canas;47.321
+351000;Cândido Mota;61.370
+351010;Cândido Rodrigues;99.690
+351015;Canitar;63.351
+351020;Capão Bonito;65.732
+351030;Capela do Alto;47.290
+351040;Capivari;50.431
+351050;Caraguatatuba;80.730
+351060;Carapicuíba;29.150
+351070;Cardoso;70.982
+351080;Casa Branca;32.980
+351090;Cássia dos Coqueiros;61.550
+351100;Castilho;80.990
+351110;Catanduva;53.812
+351120;Catiguá;53.902
+351130;Cedral;70.401
+351140;Cerqueira César;62.351
+351150;Cerquilho;112.970
+351160;Cesário Lange;51.860
+351170;Charqueada;50.340
+355720;Chavantes;55.502
+351190;Clementina;43.182
+351200;Colina;63.400
+351210;Colômbia;63.101
+351220;Conchal;57.331
+351230;Conchas;74.710
+351240;Cordeirópolis;55.100
+351250;Coroados;51.191
+351260;Coronel Macedo;66.190
+351270;Corumbataí;58.940
+351280;Cosmópolis;58.403
+351290;Cosmorama;113.100
+351300;Cotia;40.701
+351310;Cravinhos;25.420
+351320;Cristais Paulista;57.271
+351330;Cruzália;52.910
+351340;Cruzeiro;47.630
+351350;Cubatão;43.250
+351360;Cunha;28.400
+351370;Descalvado;45.393
+351380;Diadema;53.950
+351385;Dirce Reis;90.740
+351390;Divinolândia;73.220
+351400;Dobrada;47.402
+351410;Dois Córregos;28.601
+351420;Dolcinópolis;51.482
+351430;Dourado;32.891
+351440;Dracena;68.272
+351450;Duartina;65.981
+351460;Dumont;76.730
+351470;Echaporã;74.970
+351480;Eldorado;36.002
+351490;Elias Fausto;70.351
+351492;Elisiário;74.530
+351495;Embaúba;119.330
+351500;Embu das Artes;29.450
+351510;Embu-Guaçu;33.472
+351512;Emilianópolis;79.540
+351515;Engenheiro Coelho;69.001
+351518;Espírito Santo do Pinhal;75.210
+351519;Espírito Santo do Turvo;77.310
+355730;Estiva Gerbi;58.504
+351520;Estrela d'Oeste;49.402
+351530;Estrela do Norte;56.550
+351535;Euclides da Cunha Paulista;63.961
+351540;Fartura;73.850
+351560;Fernando Prestes;67.440
+351550;Fernandópolis;56.780
+351565;Fernão;115.450
+351570;Ferraz de Vasconcelos;46.800
+351580;Flora Rica;27.330
+351590;Floreal;53.210
+351600;Flórida Paulista;54.520
+351610;Florínia;54.680
+351620;Franca;38.111
+351630;Francisco Morato;48.810
+351640;Franco da Rocha;34.320
+351650;Gabriel Monteiro;85.700
+351660;Gália;76.370
+351670;Garça;63.391
+351680;Gastão Vidigal;60.163
+351685;Gavião Peixoto;62.601
+351690;General Salgado;55.930
+351700;Getulina;47.670
+351710;Glicério;59.442
+351720;Guaiçara;59.890
+351730;Guaimbê;49.220
+351740;Guaíra;65.901
+351750;Guapiaçu;55.410
+351760;Guapiara;59.973
+351770;Guará;53.603
+351780;Guaraçaí;77.000
+351790;Guaraci;62.520
+351800;Guarani d'Oeste;203.900
+351810;Guarantã;57.690
+351820;Guararapes;89.470
+351830;Guararema;60.720
+351840;Guaratinguetá;46.780
+351850;Guareí;66.131
+351860;Guariba;40.502
+351870;Guarujá;32.660
+351880;Guarulhos;52.501
+351885;Guatapará;48.750
+351890;Guzolândia;71.181
+351900;Herculândia;23.750
+351905;Holambra;49.420
+351907;Hortolândia;60.381
+351910;Iacanga;78.790
+351920;Iacri;72.620
+351925;Iaras;70.241
+351930;Ibaté;47.980
+351940;Ibirá;57.793
+351950;Ibirarema;72.300
+351960;Ibitinga;60.670
+351970;Ibiúna;12.700
+351980;Icém;47.350
+351990;Iepê;72.560
+352000;Igaraçu do Tietê;51.531
+352010;Igarapava;46.103
+352020;Igaratá;55.971
+352030;Iguape;25.360
+352042;Ilha Comprida;58.490
+352044;Ilha Solteira;36.741
+352040;Ilhabela;58.300
+352050;Indaiatuba;57.102
+352060;Indiana;60.002
+352070;Indiaporã;75.810
+352080;Inúbia Paulista;79.630
+352090;Ipaussu;42.881
+352100;Iperó;44.411
+352110;Ipeúna;40.410
+352115;Ipiguá;101.300
+352120;Iporanga;41.501
+352130;Ipuã;43.300
+352140;Iracemápolis;69.910
+352150;Irapuã;70.101
+352160;Irapuru;59.602
+352170;Itaberá;78.100
+352180;Itaí;66.602
+352190;Itajobi;68.632
+352200;Itaju;80.480
+352210;Itanhaém;43.482
+352215;Itaóca;64.741
+352220;Itapecerica da Serra;23.190
+352230;Itapetininga;47.911
+352240;Itapeva;58.150
+352250;Itapevi;40.930
+352260;Itapira;50.641
+352265;Itapirapuã Paulista;48.860
+352270;Itápolis;62.812
+352280;Itaporanga;45.900
+352290;Itapuí;72.590
+352300;Itapura;43.901
+352310;Itaquaquecetuba;43.730
+352320;Itararé;61.231
+352330;Itariri;53.611
+352340;Itatiba;56.722
+352350;Itatinga;50.231
+352360;Itirapina;64.132
+352370;Itirapuã;60.270
+352380;Itobi;59.461
+352390;Itu;42.711
+352400;Itupeva;57.220
+352410;Ituverava;26.400
+352420;Jaborandi;56.231
+352430;Jaboticabal;29.970
+352440;Jacareí;61.271
+352450;Jaci;73.690
+352460;Jacupiranga;45.531
+352470;Jaguariúna;59.212
+352480;Jales;52.621
+352490;Jambeiro;44.590
+352500;Jandira;27.610
+352510;Jardinópolis;42.930
+352520;Jarinu;67.960
+352530;Jaú;33.491
+352540;Jeriquara;83.850
+352550;Joanópolis;78.720
+352560;João Ramalho;56.863
+352570;José Bonifácio;61.591
+352580;Júlio Mesquita;50.240
+352585;Jumirim;69.502
+352590;Jundiaí;55.921
+352600;Junqueirópolis;62.590
+352610;Juquiá;41.802
+352620;Juquitiba;55.380
+352630;Lagoinha;77.560
+352640;Laranjal Paulista;47.390
+352650;Lavínia;49.321
+352660;Lavrinhas;43.800
+352670;Leme;48.932
+352680;Lençóis Paulista;55.490
+352690;Limeira;43.990
+352700;Lindóia;33.460
+352710;Lins;52.281
+352720;Lorena;45.950
+352725;Lourdes;125.980
+352730;Louveira;66.310
+352740;Lucélia;70.390
+352750;Lucianópolis;72.350
+352760;Luís Antônio;48.861
+352770;Luiziânia;95.230
+352780;Lupércio;49.710
+352790;Lutécia;64.542
+352800;Macatuba;45.231
+352810;Macaubal;89.620
+352820;Macedônia;123.210
+352830;Magda;69.840
+352840;Mairinque;32.420
+352850;Mairiporã;45.671
+352860;Manduri;66.422
+352870;Marabá Paulista;115.940
+352880;Maracaí;73.280
+352885;Marapoama;89.980
+352890;Mariápolis;79.380
+352900;Marília;49.282
+352910;Marinópolis;71.950
+352920;Martinópolis;66.101
+352930;Matão;45.431
+352940;Mauá;48.950
+352950;Mendonça;85.561
+352960;Meridiano;48.620
+352965;Mesópolis;73.380
+352970;Miguelópolis;53.361
+352980;Mineiros do Tietê;64.651
+353000;Mira Estrela;71.210
+352990;Miracatu;30.470
+353010;Mirandópolis;46.521
+353020;Mirante do Paranapanema;50.950
+353030;Mirassol;53.903
+353040;Mirassolândia;76.750
+353050;Mococa;60.230
+353060;Mogi das Cruzes;54.500
+353070;Mogi Guaçu;57.420
+353080;Mogi Mirim;60.492
+353090;Mombuca;79.450
+353100;Monções;70.450
+353110;Mongaguá;37.561
+353120;Monte Alegre do Sul;34.550
+353130;Monte Alto;46.260
+353140;Monte Aprazível;69.633
+353150;Monte Azul Paulista;63.540
+353160;Monte Castelo;92.190
+353180;Monte Mor;43.580
+353170;Monteiro Lobato;4.130
+353190;Morro Agudo;56.951
+353200;Morungaba;63.201
+353205;Motuca;59.492
+353210;Murutinga do Sul;52.502
+353215;Nantes;54.101
+353220;Narandiba;77.870
+353230;Natividade da Serra;52.331
+353240;Nazaré Paulista;73.120
+353250;Neves Paulista;82.610
+353260;Nhandeara;61.120
+353270;Nipoã;63.251
+353280;Nova Aliança;63.711
+353282;Nova Campina;67.340
+353284;Nova Canaã Paulista;42.740
+353286;Nova Castilho;46.760
+353290;Nova Europa;54.691
+353300;Nova Granada;60.382
+353310;Nova Guataporanga;77.890
+353320;Nova Independência;76.500
+353330;Nova Luzitânia;55.252
+353340;Nova Odessa;39.561
+353325;Novais;45.780
+353350;Novo Horizonte;53.580
+353360;Nuporanga;79.250
+353370;Ocauçu;62.421
+353380;Óleo;46.680
+353390;Olímpia;61.290
+353400;Onda Verde;79.901
+353410;Oriente;81.751
+353420;Orindiúva;83.340
+353430;Orlândia;45.160
+353440;Osasco;42.440
+353450;Oscar Bressane;103.400
+353460;Osvaldo Cruz;69.460
+353470;Ourinhos;53.240
+353480;Ouro Verde;72.440
+353475;Ouroeste;56.851
+353490;Pacaembu;74.302
+353500;Palestina;64.240
+353510;Palmares Paulista;63.920
+353520;Palmeira d'Oeste;69.401
+353530;Palmital;64.470
+353540;Panorama;56.852
+353550;Paraguaçu Paulista;48.974
+353560;Paraibuna;57.182
+353570;Paraíso;61.641
+353580;Paranapanema;50.960
+353590;Paranapuã;48.941
+353600;Parapuã;65.881
+353610;Pardinho;67.490
+353620;Pariquera-Açu;73.530
+353625;Parisi;56.000
+353630;Patrocínio Paulista;61.770
+353640;Paulicéia;76.511
+353650;Paulínia;42.301
+353657;Paulistânia;71.702
+353660;Paulo de Faria;79.350
+353670;Pederneiras;39.820
+353680;Pedra Bela;64.960
+353690;Pedranópolis;188.560
+353700;Pedregulho;57.183
+353710;Pedreira;65.221
+353715;Pedrinhas Paulista;63.501
+353720;Pedro de Toledo;65.780
+353730;Penápolis;53.880
+353740;Pereira Barreto;33.240
+353750;Pereiras;76.190
+353760;Peruíbe;31.200
+353770;Piacatu;67.671
+353780;Piedade;46.301
+353790;Pilar do Sul;58.830
+353800;Pindamonhangaba;44.341
+353810;Pindorama;62.292
+353820;Pinhalzinho;57.251
+353830;Piquerobi;66.850
+353850;Piquete;51.873
+353860;Piracaia;58.220
+353870;Piracicaba;41.360
+353880;Piraju;54.893
+353890;Pirajuí;47.541
+353900;Pirangi;55.291
+353910;Pirapora do Bom Jesus;14.570
+353920;Pirapozinho;58.151
+353930;Pirassununga;53.522
+353940;Piratininga;64.310
+353950;Pitangueiras;56.452
+353960;Planalto;64.731
+353970;Platina;30.850
+353980;Poá;47.940
+353990;Poloni;79.370
+354000;Pompéia;39.170
+354010;Pongaí;87.440
+354020;Pontal;26.670
+354025;Pontalinda;76.100
+354030;Pontes Gestal;70.630
+354040;Populina;54.610
+354050;Porangaba;72.680
+354060;Porto Feliz;36.130
+354070;Porto Ferreira;52.212
+354075;Potim;13.180
+354080;Potirendaba;66.290
+354085;Pracinha;67.460
+354090;Pradópolis;45.621
+354100;Praia Grande;44.723
+354105;Pratânia;63.281
+354110;Presidente Alves;59.710
+354120;Presidente Bernardes;67.361
+354130;Presidente Epitácio;48.340
+354140;Presidente Prudente;52.541
+354150;Presidente Venceslau;49.151
+354160;Promissão;52.390
+354165;Quadra;33.001
+354170;Quatá;74.740
+354180;Queiroz;49.550
+354190;Queluz;34.502
+354200;Quintana;70.190
+354210;Rafard;37.790
+354220;Rancharia;62.491
+354230;Redenção da Serra;48.223
+354240;Regente Feijó;60.501
+354250;Reginópolis;56.121
+354260;Registro;41.311
+354270;Restinga;58.603
+354280;Ribeira;61.781
+354290;Ribeirão Bonito;28.921
+354300;Ribeirão Branco;78.970
+354310;Ribeirão Corrente;71.980
+354320;Ribeirão do Sul;60.560
+354323;Ribeirão dos Índios;60.671
+354325;Ribeirão Grande;81.100
+354330;Ribeirão Pires;29.200
+354340;Ribeirão Preto;33.920
+354360;Rifaina;36.310
+354370;Rincão;50.001
+354380;Rinópolis;64.932
+354390;Rio Claro;55.590
+354400;Rio das Pedras;61.272
+354410;Rio Grande da Serra;21.250
+354420;Riolândia;67.771
+354350;Riversul;86.830
+354425;Rosana;56.453
+354430;Roseira;27.170
+354440;Rubiácea;67.421
+354450;Rubinéia;110.000
+354460;Sabino;58.780
+354470;Sagres;80.330
+354480;Sales;68.581
+354490;Sales Oliveira;54.161
+354500;Salesópolis;55.480
+354510;Salmourão;79.700
+354515;Saltinho;59.730
+354520;Salto;45.720
+354530;Salto de Pirapora;44.930
+354540;Salto Grande;52.480
+354550;Sandovalina;62.390
+354560;Santa Adélia;53.701
+354570;Santa Albertina;64.000
+354580;Santa Bárbara d'Oeste;55.253
+354600;Santa Branca;60.301
+354610;Santa Clara d'Oeste;105.920
+354620;Santa Cruz da Conceição;42.842
+354625;Santa Cruz da Esperança;67.341
+354630;Santa Cruz das Palmeiras;54.403
+354640;Santa Cruz do Rio Pardo;54.293
+354650;Santa Ernestina;85.300
+354660;Santa Fé do Sul;62.591
+354670;Santa Gertrudes;34.291
+354680;Santa Isabel;52.481
+354690;Santa Lúcia;59.603
+354700;Santa Maria da Serra;48.211
+354710;Santa Mercedes;54.872
+354740;Santa Rita d'Oeste;93.770
+354750;Santa Rita do Passa Quatro;56.670
+354760;Santa Rosa de Viterbo;50.903
+354765;Santa Salete;105.540
+354720;Santana da Ponte Pensa;47.770
+354730;Santana de Parnaíba;52.601
+354770;Santo Anastácio;68.602
+354780;Santo André;36.800
+354790;Santo Antônio da Alegria;57.360
+354800;Santo Antônio de Posse;85.860
+354805;Santo Antônio do Aracanguá;65.102
+354810;Santo Antônio do Jardim;57.202
+354820;Santo Antônio do Pinhal;70.490
+354830;Santo Expedito;69.440
+354840;Santópolis do Aguapeí;45.901
+354850;Santos;51.951
+354860;São Bento do Sapucaí;66.580
+354870;São Bernardo do Campo;49.980
+354880;São Caetano do Sul;35.850
+354890;São Carlos;42.972
+354900;São Francisco;66.490
+354910;São João da Boa Vista;14.910
+354920;São João das Duas Pontes;79.550
+354925;São João de Iracema;82.390
+354930;São João do Pau d'Alho;60.800
+354940;São Joaquim da Barra;55.972
+354950;São José da Bela Vista;31.670
+354960;São José do Barreiro;34.131
+354970;São José do Rio Pardo;58.452
+354980;São José do Rio Preto;57.252
+354990;São José dos Campos;30.860
+354995;São Lourenço da Serra;55.503
+355000;São Luís do Paraitinga;55.254
+355010;São Manuel;61.661
+355020;São Miguel Arcanjo;64.820
+355030;São Paulo;40.900
+355040;São Pedro;57.141
+355050;São Pedro do Turvo;70.940
+355060;São Roque;50.462
+355070;São Sebastião;52.720
+355080;São Sebastião da Grama;90.420
+355090;São Simão;57.904
+355100;São Vicente;38.211
+355110;Sarapuí;28.510
+355120;Sarutaiá;53.362
+355130;Sebastianópolis do Sul;102.820
+355140;Serra Azul;46.871
+355160;Serra Negra;52.970
+355150;Serrana;60.502
+355170;Sertãozinho;51.371
+355180;Sete Barras;40.101
+355190;Severínia;76.570
+355200;Silveiras;48.200
+355210;Socorro;66.822
+355220;Sorocaba;29.370
+355230;Sud Mennucci;61.330
+355240;Sumaré;46.201
+355255;Suzanápolis;40.810
+355250;Suzano;60.791
+355260;Tabapuã;69.620
+355270;Tabatinga;51.672
+355280;Taboão da Serra;62.550
+355290;Taciba;56.703
+355300;Taguaí;68.940
+355310;Taiaçu;82.220
+355320;Taiúva;80.610
+355330;Tambaú;71.670
+355340;Tanabi;67.503
+355350;Tapiraí;71.250
+355360;Tapiratiba;65.400
+355365;Taquaral;70.890
+355370;Taquaritinga;51.260
+355380;Taquarituba;88.270
+355385;Taquarivaí;82.140
+355390;Tarabai;84.280
+355395;Tarumã;55.110
+355400;Tatuí;46.741
+355410;Taubaté;53.832
+355420;Tejupá;45.232
+355430;Teodoro Sampaio;62.000
+355440;Terra Roxa;60.402
+355450;Tietê;80.530
+355460;Timburi;83.890
+355465;Torre de Pedra;121.560
+355470;Torrinha;55.980
+355475;Trabiju;60.003
+355480;Tremembé;39.221
+355490;Três Fronteiras;59.381
+355495;Tuiuti;72.310
+355500;Tupã;54.931
+355510;Tupi Paulista;68.403
+355520;Turiúba;134.830
+355530;Turmalina;54.611
+355535;Ubarana;76.501
+355540;Ubatuba;35.821
+355550;Ubirajara;45.360
+355560;Uchoa;80.471
+355570;União Paulista;144.370
+355580;Urânia;66.150
+355590;Uru;118.260
+355600;Urupês;56.761
+355610;Valentim Gentil;64.680
+355620;Valinhos;45.721
+355630;Valparaíso;58.930
+355635;Vargem;60.772
+355640;Vargem Grande do Sul;55.255
+355645;Vargem Grande Paulista;54.873
+355650;Várzea Paulista;52.213
+355660;Vera Cruz;57.172
+355670;Vinhedo;56.371
+355680;Viradouro;61.730
+355690;Vista Alegre do Alto;57.501
+355695;Vitória Brasil;78.120
+355700;Votorantim;51.401
+355710;Votuporanga;70.600
+355715;Zacarias;73.290
+410010;Abatiá;59.720
+410020;Adrianópolis;52.791
+410030;Agudos do Sul;58.391
+410040;Almirante Tamandaré;46.981
+410045;Altamira do Paraná;53.650
+412862;Alto Paraíso;82.510
+410060;Alto Paraná;74.961
+410070;Alto Piquiri;74.990
+410050;Altônia;78.940
+410080;Alvorada do Sul;68.370
+410090;Amaporã;65.551
+410100;Ampére;66.551
+410105;Anahy;91.810
+410110;Andirá;51.673
+410115;Ângulo;74.390
+410120;Antonina;49.640
+410130;Antônio Olinto;66.650
+410140;Apucarana;48.761
+410150;Arapongas;52.420
+410160;Arapoti;59.150
+410165;Arapuã;62.941
+410170;Araruna;59.240
+410180;Araucária;59.701
+410185;Ariranha do Ivaí;64.302
+410190;Assaí;59.561
+410200;Assis Chateaubriand;82.120
+410210;Astorga;66.500
+410220;Atalaia;69.261
+410230;Balsa Nova;52.850
+410240;Bandeirantes;62.781
+410250;Barbosa Ferraz;57.601
+410270;Barra do Jacaré;101.520
+410260;Barracão;71.551
+410275;Bela Vista da Caroba;63.271
+410280;Bela Vista do Paraíso;64.420
+410290;Bituruna;67.471
+410300;Boa Esperança;72.460
+410302;Boa Esperança do Iguaçu;67.700
+410304;Boa Ventura de São Roque;77.380
+410305;Boa Vista da Aparecida;60.302
+410310;Bocaiúva do Sul;52.542
+410315;Bom Jesus do Sul;66.801
+410320;Bom Sucesso;83.120
+410322;Bom Sucesso do Sul;100.400
+410330;Borrazópolis;59.251
+410335;Braganey;81.570
+410337;Brasilândia do Sul;80.160
+410340;Cafeara;170.820
+410345;Cafelândia;59.642
+410347;Cafezal do Sul;72.380
+410350;Califórnia;66.000
+410360;Cambará;67.560
+410370;Cambé;62.730
+410380;Cambira;68.932
+410390;Campina da Lagoa;63.491
+410395;Campina do Simão;66.530
+410400;Campina Grande do Sul;30.890
+410405;Campo Bonito;48.741
+410410;Campo do Tenente;64.250
+410420;Campo Largo;10.200
+410425;Campo Magro;50.911
+410430;Campo Mourão;59.630
+410440;Cândido de Abreu;70.690
+410442;Candói;57.411
+410445;Cantagalo;65.470
+410450;Capanema;66.110
+410460;Capitão Leônidas Marques;65.902
+410465;Carambeí;54.741
+410470;Carlópolis;75.202
+410480;Cascavel;58.801
+410490;Castro;57.000
+410500;Catanduvas;75.510
+410510;Centenário do Sul;58.182
+410520;Cerro Azul;69.871
+410530;Céu Azul;80.640
+410540;Chopinzinho;68.390
+410550;Cianorte;64.981
+410560;Cidade Gaúcha;72.100
+410570;Clevelândia;63.712
+410580;Colombo;48.301
+410590;Colorado;65.111
+410600;Congonhinhas;63.243
+410610;Conselheiro Mairinck;74.251
+410620;Contenda;59.101
+410630;Corbélia;63.392
+410640;Cornélio Procópio;60.322
+410645;Coronel Domingos Soares;69.150
+410650;Coronel Vivida;65.581
+410655;Corumbataí do Sul;82.620
+410680;Cruz Machado;76.840
+410657;Cruzeiro do Iguaçu;70.230
+410660;Cruzeiro do Oeste;48.880
+410670;Cruzeiro do Sul;60.591
+410685;Cruzmaltina;63.700
+410690;Curitiba;58.241
+410700;Curiúva;59.881
+410715;Diamante D'Oeste;56.551
+410710;Diamante do Norte;73.990
+410712;Diamante do Sul;80.200
+410720;Dois Vizinhos;63.470
+410725;Douradina;81.860
+410730;Doutor Camargo;97.830
+412863;Doutor Ulysses;56.182
+410740;Enéas Marques;85.110
+410750;Engenheiro Beltrão;53.363
+410753;Entre Rios do Oeste;73.890
+410752;Esperança Nova;81.700
+410754;Espigão Alto do Iguaçu;62.161
+410755;Farol;53.101
+410760;Faxinal;57.240
+410765;Fazenda Rio Grande;49.130
+410770;Fênix;82.970
+410773;Fernandes Pinheiro;64.810
+410775;Figueira;83.690
+410785;Flor da Serra do Sul;56.500
+410780;Floraí;75.710
+410790;Floresta;54.521
+410800;Florestópolis;61.400
+410810;Flórida;130.760
+410820;Formosa do Oeste;67.441
+410830;Foz do Iguaçu;58.183
+410845;Foz do Jordão;54.874
+410832;Francisco Alves;72.220
+410840;Francisco Beltrão;60.860
+410850;General Carneiro;67.772
+410855;Godoy Moreira;75.701
+410860;Goioerê;57.451
+410865;Goioxim;71.630
+410870;Grandes Rios;63.360
+410880;Guaíra;80.920
+410890;Guairaçá;82.830
+410895;Guamiranga;95.390
+410900;Guapirama;88.370
+410910;Guaporema;99.550
+410920;Guaraci;64.340
+410930;Guaraniaçu;60.201
+410940;Guarapuava;46.302
+410950;Guaraqueçaba;29.780
+410960;Guaratuba;58.701
+410965;Honório Serpa;90.590
+410970;Ibaiti;67.990
+410975;Ibema;82.410
+410980;Ibiporã;58.310
+410990;Icaraíma;102.201
+411000;Iguaraçu;67.100
+411005;Iguatu;63.900
+411007;Imbaú;52.802
+411010;Imbituva;62.382
+411020;Inácio Martins;50.961
+411030;Inajá;48.231
+411040;Indianópolis;71.301
+411050;Ipiranga;81.191
+411060;Iporã;76.830
+411065;Iracema do Oeste;114.320
+411070;Irati;63.561
+411080;Iretama;71.520
+411090;Itaguajé;45.760
+411095;Itaipulândia;71.302
+411100;Itambaracá;86.270
+411110;Itambé;68.561
+411120;Itapejara d'Oeste;59.241
+411125;Itaperuçu;48.232
+411130;Itaúna do Sul;102.340
+411140;Ivaí;71.402
+411150;Ivaiporã;70.641
+411155;Ivaté;62.541
+411160;Ivatuba;53.813
+411170;Jaboti;62.740
+411180;Jacarezinho;73.250
+411190;Jaguapitã;62.991
+411200;Jaguariaíva;59.281
+411210;Jandaia do Sul;71.270
+411220;Janiópolis;77.600
+411230;Japira;78.910
+411240;Japurá;55.931
+411250;Jardim Alegre;86.531
+411260;Jardim Olinda;123.180
+411270;Jataizinho;61.551
+411275;Jesuítas;74.730
+411280;Joaquim Távora;64.890
+411290;Jundiaí do Sul;87.441
+411295;Juranda;82.700
+411300;Jussara;66.280
+411310;Kaloré;61.930
+411320;Lapa;62.304
+411325;Laranjal;69.101
+411330;Laranjeiras do Sul;64.241
+411340;Leópolis;57.510
+411342;Lidianópolis;75.690
+411345;Lindoeste;87.510
+411350;Loanda;64.711
+411360;Lobato;59.631
+411370;Londrina;49.942
+411373;Luiziana;80.180
+411375;Lunardelli;82.710
+411380;Lupionópolis;84.900
+411390;Mallet;74.830
+411400;Mamborê;66.673
+411410;Mandaguaçu;64.201
+411420;Mandaguari;54.921
+411430;Mandirituba;44.400
+411435;Manfrinópolis;52.342
+411440;Mangueirinha;69.890
+411450;Manoel Ribas;57.721
+411460;Marechal Cândido Rondon;63.420
+411470;Maria Helena;79.620
+411480;Marialva;65.302
+411490;Marilândia do Sul;64.990
+411500;Marilena;71.541
+411510;Mariluz;69.202
+411520;Maringá;57.943
+411530;Mariópolis;75.670
+411535;Maripá;73.231
+411540;Marmeleiro;66.141
+411545;Marquinho;71.490
+411550;Marumbi;52.923
+411560;Matelândia;62.651
+411570;Matinhos;48.501
+411573;Mato Rico;103.980
+411575;Mauá da Serra;66.802
+411580;Medianeira;49.850
+411585;Mercedes;59.691
+411590;Mirador;61.412
+411600;Miraselva;96.900
+411605;Missal;66.700
+411610;Moreira Sales;67.641
+411620;Morretes;42.120
+411630;Munhoz de Melo;62.801
+411640;Nossa Senhora das Graças;71.481
+411650;Nova Aliança do Ivaí;67.260
+411660;Nova América da Colina;83.781
+411670;Nova Aurora;80.100
+411680;Nova Cantu;54.812
+411690;Nova Esperança;64.902
+411695;Nova Esperança do Sudoeste;41.301
+411700;Nova Fátima;62.412
+411705;Nova Laranjeiras;59.604
+411710;Nova Londrina;62.752
+411720;Nova Olímpia;65.501
+411725;Nova Prata do Iguaçu;75.730
+411721;Nova Santa Bárbara;79.100
+411722;Nova Santa Rosa;64.120
+411727;Nova Tebas;60.710
+411729;Novo Itacolomi;52.860
+411730;Ortigueira;59.203
+411740;Ourizona;67.330
+411745;Ouro Verde do Oeste;73.200
+411750;Paiçandu;58.320
+411760;Palmas;57.292
+411770;Palmeira;68.710
+411780;Palmital;79.480
+411790;Palotina;67.620
+411800;Paraíso do Norte;68.633
+411810;Paranacity;80.210
+411820;Paranaguá;28.780
+411830;Paranapoema;48.902
+411840;Paranavaí;56.811
+411845;Pato Bragado;70.102
+411850;Pato Branco;61.701
+411860;Paula Freitas;83.670
+411870;Paulo Frontin;70.150
+411880;Peabiru;80.181
+411885;Perobal;78.670
+411890;Pérola;76.871
+411900;Pérola d'Oeste;74.360
+411910;Piên;69.480
+411915;Pinhais;58.960
+411925;Pinhal de São Bento;60.880
+411920;Pinhalão;67.701
+411930;Pinhão;54.860
+411940;Piraí do Sul;39.600
+411950;Piraquara;50.201
+411960;Pitanga;66.921
+411965;Pitangueiras;121.540
+411970;Planaltina do Paraná;69.180
+411980;Planalto;90.500
+411990;Ponta Grossa;55.371
+411995;Pontal do Paraná;50.432
+412000;Porecatu;50.881
+412010;Porto Amazonas;91.800
+412015;Porto Barreiro;63.551
+412020;Porto Rico;83.310
+412030;Porto Vitória;76.751
+412033;Prado Ferreira;76.480
+412035;Pranchita;61.840
+412040;Presidente Castelo Branco;95.620
+412050;Primeiro de Maio;63.901
+412060;Prudentópolis;60.881
+412065;Quarto Centenário;91.570
+412070;Quatiguá;57.881
+412080;Quatro Barras;55.840
+412085;Quatro Pontes;94.800
+412090;Quedas do Iguaçu;64.192
+412100;Querência do Norte;64.001
+412110;Quinta do Sol;60.831
+412120;Quitandinha;60.280
+412125;Ramilândia;63.602
+412130;Rancho Alegre;72.661
+412135;Rancho Alegre D'Oeste;60.463
+412140;Realeza;74.303
+412150;Rebouças;69.671
+412160;Renascença;92.850
+412170;Reserva;63.520
+412175;Reserva do Iguaçu;62.430
+412180;Ribeirão Claro;60.592
+412190;Ribeirão do Pinhal;79.940
+412200;Rio Azul;79.120
+412210;Rio Bom;80.761
+412215;Rio Bonito do Iguaçu;60.571
+412217;Rio Branco do Ivaí;68.762
+412220;Rio Branco do Sul;27.880
+412230;Rio Negro;63.440
+412240;Rolândia;67.120
+412250;Roncador;56.552
+412260;Rondon;63.272
+412265;Rosário do Ivaí;79.201
+412270;Sabáudia;71.720
+412280;Salgado Filho;63.393
+412290;Salto do Itararé;79.730
+412300;Salto do Lontra;62.130
+412310;Santa Amélia;66.463
+412320;Santa Cecília do Pavão;61.812
+412330;Santa Cruz de Monte Castelo;51.620
+412340;Santa Fé;76.110
+412350;Santa Helena;72.840
+412360;Santa Inês;90.470
+412370;Santa Isabel do Ivaí;72.920
+412380;Santa Izabel do Oeste;72.540
+412382;Santa Lúcia;85.850
+412385;Santa Maria do Oeste;65.631
+412390;Santa Mariana;49.903
+412395;Santa Mônica;61.392
+412402;Santa Tereza do Oeste;72.810
+412405;Santa Terezinha de Itaipu;53.403
+412400;Santana do Itararé;49.691
+412410;Santo Antônio da Platina;47.981
+412420;Santo Antônio do Caiuá;109.730
+412430;Santo Antônio do Paraíso;92.390
+412440;Santo Antônio do Sudoeste;53.141
+412450;Santo Inácio;59.940
+412460;São Carlos do Ivaí;61.680
+412470;São Jerônimo da Serra;60.721
+412480;São João;75.910
+412490;São João do Caiuá;68.350
+412500;São João do Ivaí;72.931
+412510;São João do Triunfo;67.840
+412520;São Jorge d'Oeste;69.430
+412530;São Jorge do Ivaí;75.131
+412535;São Jorge do Patrocínio;70.971
+412540;São José da Boa Vista;72.600
+412545;São José das Palmeiras;41.930
+412550;São José dos Pinhais;52.441
+412555;São Manoel do Paraná;75.890
+412560;São Mateus do Sul;59.902
+412570;São Miguel do Iguaçu;55.741
+412575;São Pedro do Iguaçu;73.900
+412580;São Pedro do Ivaí;65.332
+412590;São Pedro do Paraná;64.303
+412600;São Sebastião da Amoreira;71.340
+412610;São Tomé;62.207
+412620;Sapopema;62.240
+412625;Sarandi;56.183
+412627;Saudade do Iguaçu;68.331
+412630;Sengés;82.740
+412635;Serranópolis do Iguaçu;86.670
+412640;Sertaneja;52.482
+412650;Sertanópolis;54.764
+412660;Siqueira Campos;67.920
+412665;Sulina;82.450
+412667;Tamarana;70.261
+412670;Tamboara;67.811
+412680;Tapejara;76.101
+412690;Tapira;91.620
+412700;Teixeira Soares;84.230
+412710;Telêmaco Borba;66.660
+412720;Terra Boa;75.740
+412730;Terra Rica;68.691
+412740;Terra Roxa;70.601
+412750;Tibagi;64.290
+412760;Tijucas do Sul;65.903
+412770;Toledo;77.300
+412780;Tomazina;62.370
+412785;Três Barras do Paraná;78.501
+412788;Tunas do Paraná;50.160
+412790;Tuneiras do Oeste;62.113
+412795;Tupãssi;62.910
+412796;Turvo;70.900
+412800;Ubiratã;64.600
+412810;Umuarama;57.150
+412820;União da Vitória;60.004
+412830;Uniflor;90.370
+412840;Uraí;68.130
+412853;Ventania;69.710
+412855;Vera Cruz do Oeste;82.570
+412860;Verê;62.621
+412865;Virmond;98.480
+412870;Vitorino;60.801
+412850;Wenceslau Braz;52.543
+412880;Xambrê;82.860
+420005;Abdon Batista;41.420
+420010;Abelardo Luz;56.921
+420020;Agrolândia;69.410
+420030;Agronômica;111.200
+420040;Água Doce;77.100
+420050;Águas de Chapecó;91.180
+420055;Águas Frias;111.700
+420060;Águas Mornas;89.230
+420070;Alfredo Wagner;64.482
+420075;Alto Bela Vista;173.720
+420080;Anchieta;66.750
+420090;Angelina;96.380
+420100;Anita Garibaldi;97.530
+420110;Anitápolis;72.791
+420120;Antônio Carlos;78.671
+420125;Apiúna;65.251
+420127;Arabutã;52.270
+420130;Araquari;51.302
+420140;Araranguá;71.770
+420150;Armazém;69.240
+420160;Arroio Trinta;89.190
+420165;Arvoredo;47.680
+420170;Ascurra;74.820
+420180;Atalanta;77.760
+420190;Aurora;93.990
+420195;Balneário Arroio do Silva;60.170
+420205;Balneário Barra do Sul;20.960
+420200;Balneário Camboriú;47.661
+420207;Balneário Gaivota;75.402
+421280;Balneário Piçarras;50.630
+422000;Balneário Rincão;52.520
+420208;Bandeirante;94.960
+420209;Barra Bonita;63.202
+420210;Barra Velha;61.903
+420213;Bela Vista do Toldo;47.641
+420215;Belmonte;67.301
+420220;Benedito Novo;69.660
+420230;Biguaçu;36.003
+420240;Blumenau;69.262
+420243;Bocaina do Sul;56.801
+420250;Bom Jardim da Serra;74.550
+420253;Bom Jesus;94.510
+420257;Bom Jesus do Oeste;71.500
+420260;Bom Retiro;60.610
+420245;Bombinhas;42.861
+420270;Botuverá;71.800
+420280;Braço do Norte;64.390
+420285;Braço do Trombudo;94.600
+420287;Brunópolis;80.601
+420290;Brusque;70.320
+420300;Caçador;62.492
+420310;Caibi;74.890
+420315;Calmon;31.630
+420320;Camboriú;41.902
+420330;Campo Alegre;76.760
+420340;Campo Belo do Sul;58.491
+420350;Campo Erê;60.464
+420360;Campos Novos;66.940
+420370;Canelinha;82.820
+420380;Canoinhas;52.810
+420325;Capão Alto;86.101
+420390;Capinzal;67.642
+420395;Capivari de Baixo;66.432
+420400;Catanduvas;70.651
+420410;Caxambu do Sul;65.502
+420415;Celso Ramos;85.910
+420417;Cerro Negro;71.681
+420419;Chapadão do Lageado;70.161
+420420;Chapecó;60.351
+420425;Cocal do Sul;77.860
+420430;Concórdia;60.250
+420435;Cordilheira Alta;64.991
+420440;Coronel Freitas;85.431
+420445;Coronel Martins;49.670
+420455;Correia Pinto;60.271
+420450;Corupá;81.930
+420460;Criciúma;52.191
+420470;Cunha Porã;67.001
+420475;Cunhataí;114.760
+420480;Curitibanos;58.681
+420490;Descanso;71.951
+420500;Dionísio Cerqueira;70.611
+420510;Dona Emma;93.471
+420515;Doutor Pedrinho;90.960
+420517;Entre Rios;81.410
+420519;Ermo;67.902
+420520;Erval Velho;73.760
+420530;Faxinal dos Guedes;76.970
+420535;Flor do Sertão;110.750
+420540;Florianópolis;26.700
+420543;Formosa do Sul;72.120
+420545;Forquilhinha;70.691
+420550;Fraiburgo;67.112
+420555;Frei Rogério;89.100
+420560;Galvão;80.520
+420570;Garopaba;55.581
+420580;Garuva;62.713
+420590;Gaspar;79.470
+420600;Governador Celso Ramos;53.541
+420610;Grão Pará;113.820
+420620;Gravatal;77.351
+420630;Guabiruba;29.410
+420640;Guaraciaba;65.733
+420650;Guaramirim;72.390
+420660;Guarujá do Sul;80.201
+420665;Guatambú;61.740
+420670;Herval d'Oeste;64.531
+420675;Ibiam;61.540
+420680;Ibicaré;117.490
+420690;Ibirama;73.811
+420700;Içara;67.782
+420710;Ilhota;68.881
+420720;Imaruí;67.201
+420730;Imbituba;50.221
+420740;Imbuia;62.450
+420750;Indaial;61.361
+420757;Iomerê;55.282
+420760;Ipira;89.450
+420765;Iporã do Oeste;76.900
+420768;Ipuaçu;64.172
+420770;Ipumirim;65.240
+420775;Iraceminha;82.600
+420780;Irani;99.100
+420785;Irati;61.662
+420790;Irineópolis;73.321
+420800;Itá;136.730
+420810;Itaiópolis;72.862
+420820;Itajaí;60.101
+420830;Itapema;64.221
+420840;Itapiranga;75.560
+420845;Itapoá;57.262
+420850;Ituporanga;68.651
+420860;Jaborá;68.441
+420870;Jacinto Machado;68.442
+420880;Jaguaruna;59.220
+420890;Jaraguá do Sul;72.610
+420895;Jardinópolis;55.870
+420900;Joaçaba;61.890
+420910;Joinville;69.560
+420915;José Boiteux;60.511
+420917;Jupiá;70.191
+420920;Lacerdópolis;77.990
+420930;Lages;46.640
+420940;Laguna;58.990
+420945;Lajeado Grande;62.731
+420950;Laurentino;81.310
+420960;Lauro Muller;70.590
+420970;Lebon Régis;62.150
+420980;Leoberto Leal;78.320
+420985;Lindóia do Sul;63.940
+420990;Lontras;77.410
+421000;Luiz Alves;62.510
+421003;Luzerna;96.890
+421005;Macieira;84.320
+421010;Mafra;60.530
+421020;Major Gercino;82.341
+421030;Major Vieira;77.480
+421040;Maracajá;76.831
+421050;Maravilha;66.271
+421055;Marema;108.360
+421060;Massaranduba;100.410
+421070;Matos Costa;105.300
+421080;Meleiro;70.810
+421085;Mirim Doce;119.240
+421090;Modelo;78.791
+421100;Mondaí;81.110
+421105;Monte Carlo;81.241
+421110;Monte Castelo;64.903
+421120;Morro da Fumaça;54.911
+421125;Morro Grande;72.190
+421130;Navegantes;47.932
+421140;Nova Erechim;42.302
+421145;Nova Itaberaba;109.220
+421150;Nova Trento;96.160
+421160;Nova Veneza;78.001
+421165;Novo Horizonte;80.131
+421170;Orleans;73.180
+421175;Otacílio Costa;57.711
+421180;Ouro;62.782
+421185;Ouro Verde;87.310
+421187;Paial;75.711
+421189;Painel;51.122
+421190;Palhoça;59.591
+421200;Palma Sola;72.250
+421205;Palmeira;83.901
+421210;Palmitos;53.121
+421220;Papanduva;65.734
+421223;Paraíso;67.601
+421225;Passo de Torres;53.604
+421227;Passos Maia;62.820
+421230;Paulo Lopes;62.293
+421240;Pedras Grandes;55.671
+421250;Penha;46.923
+421260;Peritiba;77.901
+421265;Pescaria Brava;78.971
+421270;Petrolândia;62.890
+421290;Pinhalzinho;70.591
+421300;Pinheiro Preto;100.460
+421310;Piratuba;61.702
+421315;Planalto Alegre;96.700
+421320;Pomerode;51.421
+421330;Ponte Alta;83.100
+421335;Ponte Alta do Norte;69.690
+421340;Ponte Serrada;69.543
+421350;Porto Belo;45.300
+421360;Porto União;71.651
+421370;Pouso Redondo;86.160
+421380;Praia Grande;69.241
+421390;Presidente Castello Branco;94.590
+421400;Presidente Getúlio;82.640
+421410;Presidente Nereu;53.605
+421415;Princesa;82.490
+421420;Quilombo;65.720
+421430;Rancho Queimado;59.831
+421440;Rio das Antas;59.903
+421450;Rio do Campo;64.611
+421460;Rio do Oeste;65.680
+421480;Rio do Sul;66.380
+421470;Rio dos Cedros;49.403
+421490;Rio Fortuna;81.752
+421500;Rio Negrinho;52.622
+421505;Rio Rufino;76.670
+421507;Riqueza;91.190
+421510;Rodeio;75.800
+421520;Romelândia;81.830
+421530;Salete;88.310
+421535;Saltinho;62.891
+421540;Salto Veloso;88.590
+421545;Sangão;53.861
+421550;Santa Cecília;66.912
+421555;Santa Helena;95.790
+421560;Santa Rosa de Lima;81.200
+421565;Santa Rosa do Sul;74.391
+421567;Santa Terezinha;93.590
+421568;Santa Terezinha do Progresso;70.840
+421569;Santiago do Sul;87.920
+421570;Santo Amaro da Imperatriz;65.990
+421580;São Bento do Sul;72.520
+421575;São Bernardino;103.500
+421590;São Bonifácio;43.840
+421600;São Carlos;68.150
+421605;São Cristovão do Sul;57.572
+421610;São Domingos;67.202
+421620;São Francisco do Sul;55.141
+421630;São João Batista;70.801
+421635;São João do Itaperiú;101.100
+421625;São João do Oeste;75.570
+421640;São João do Sul;68.230
+421650;São Joaquim;65.620
+421660;São José;47.941
+421670;São José do Cedro;75.121
+421680;São José do Cerrito;54.781
+421690;São Lourenço do Oeste;53.502
+421700;São Ludgero;73.921
+421710;São Martinho;77.001
+421715;São Miguel da Boa Vista;66.171
+421720;São Miguel do Oeste;57.703
+421725;São Pedro de Alcântara;58.941
+421730;Saudades;66.381
+421740;Schroeder;89.511
+421750;Seara;64.801
+421755;Serra Alta;74.392
+421760;Siderópolis;69.203
+421770;Sombrio;66.102
+421775;Sul Brasil;72.690
+421780;Taió;67.173
+421790;Tangará;72.160
+421795;Tigrinhos;98.180
+421800;Tijucas;44.740
+421810;Timbé do Sul;76.381
+421820;Timbó;91.990
+421825;Timbó Grande;54.765
+421830;Três Barras;60.005
+421835;Treviso;136.600
+421840;Treze de Maio;48.742
+421850;Treze Tílias;73.370
+421860;Trombudo Central;71.461
+421870;Tubarão;63.252
+421875;Tunápolis;91.390
+421880;Turvo;63.820
+421885;União do Oeste;70.103
+421890;Urubici;58.672
+421895;Urupema;53.142
+421900;Urussanga;82.202
+421910;Vargeão;70.302
+421915;Vargem;83.860
+421917;Vargem Bonita;78.610
+421920;Vidal Ramos;61.931
+421930;Videira;65.333
+421935;Vitor Meireles;102.821
+421940;Witmarsum;89.570
+421950;Xanxerê;66.103
+421960;Xavantina;77.150
+421970;Xaxim;71.660
+421985;Zortéa;100.550
+430003;Aceguá;77.402
+430005;Água Santa;71.940
+430010;Agudo;70.470
+430020;Ajuricaba;87.810
+430030;Alecrim;65.831
+430040;Alegrete;53.241
+430045;Alegria;96.620
+430047;Almirante Tamandaré do Sul;43.572
+430050;Alpestre;79.240
+430055;Alto Alegre;64.261
+430057;Alto Feliz;65.411
+430060;Alvorada;36.162
+430063;Amaral Ferrador;60.990
+430064;Ametista do Sul;79.800
+430066;André da Rocha;42.250
+430070;Anta Gorda;81.300
+430080;Antônio Prado;71.160
+430085;Arambaré;52.610
+430087;Araricá;16.780
+430090;Aratiba;89.160
+430100;Arroio do Meio;70.471
+430107;Arroio do Padre;82.611
+430105;Arroio do Sal;61.121
+430120;Arroio do Tigre;55.440
+430110;Arroio dos Ratos;58.460
+430130;Arroio Grande;55.603
+430140;Arvorezinha;62.422
+430150;Augusto Pestana;73.740
+430155;Áurea;83.990
+430160;Bagé;50.291
+430163;Balneário Pinhal;61.731
+430165;Barão;91.490
+430170;Barão de Cotegipe;75.403
+430175;Barão do Triunfo;62.294
+430185;Barra do Guarita;67.331
+430187;Barra do Quaraí;24.390
+430190;Barra do Ribeiro;62.704
+430192;Barra do Rio Azul;79.541
+430195;Barra Funda;53.463
+430180;Barracão;94.540
+430200;Barros Cassal;71.403
+430205;Benjamin Constant do Sul;58.330
+430210;Bento Gonçalves;59.670
+430215;Boa Vista das Missões;110.980
+430220;Boa Vista do Buricá;75.880
+430222;Boa Vista do Cadeado;65.460
+430223;Boa Vista do Incra;66.111
+430225;Boa Vista do Sul;118.830
+430230;Bom Jesus;53.661
+430235;Bom Princípio;61.571
+430237;Bom Progresso;51.973
+430240;Bom Retiro do Sul;65.401
+430245;Boqueirão do Leão;63.441
+430250;Bossoroca;70.203
+430258;Bozano;67.241
+430260;Braga;63.751
+430265;Brochier;55.672
+430270;Butiá;53.571
+430280;Caçapava do Sul;60.521
+430290;Cacequi;48.780
+430300;Cachoeira do Sul;59.242
+430310;Cachoeirinha;48.962
+430320;Cacique Doble;78.780
+430330;Caibaté;51.910
+430340;Caiçara;87.511
+430350;Camaquã;55.990
+430355;Camargo;74.340
+430360;Cambará do Sul;88.120
+430367;Campestre da Serra;62.840
+430370;Campina das Missões;77.101
+430380;Campinas do Sul;75.851
+430390;Campo Bom;55.604
+430400;Campo Novo;51.212
+430410;Campos Borges;46.681
+430420;Candelária;59.422
+430430;Cândido Godói;85.600
+430435;Candiota;24.880
+430440;Canela;57.741
+430450;Canguçu;48.781
+430460;Canoas;48.602
+430461;Canudos do Vale;104.610
+430462;Capão Bonito do Sul;65.632
+430463;Capão da Canoa;52.370
+430465;Capão do Cipó;80.602
+430466;Capão do Leão;16.150
+430468;Capela de Santana;57.502
+430469;Capitão;82.540
+430467;Capivari do Sul;84.200
+430471;Caraá;71.721
+430470;Carazinho;53.382
+430480;Carlos Barbosa;82.520
+430485;Carlos Gomes;63.642
+430490;Casca;59.801
+430495;Caseiros;90.220
+430500;Catuípe;62.001
+430510;Caxias do Sul;48.224
+430511;Centenário;77.160
+430512;Cerrito;51.532
+430513;Cerro Branco;50.520
+430515;Cerro Grande;59.882
+430517;Cerro Grande do Sul;66.860
+430520;Cerro Largo;73.701
+430530;Chapada;112.370
+430535;Charqueadas;59.891
+430537;Charrua;31.500
+430540;Chiapetta;53.802
+430543;Chuí;52.642
+430544;Chuvisca;66.941
+430545;Cidreira;27.720
+430550;Ciríaco;56.853
+430558;Colinas;56.752
+430560;Colorado;72.530
+430570;Condor;68.000
+430580;Constantina;74.821
+430583;Coqueiro Baixo;141.500
+430585;Coqueiros do Sul;59.282
+430587;Coronel Barros;53.102
+430590;Coronel Bicaco;67.302
+430593;Coronel Pilar;44.693
+430595;Cotiporã;95.130
+430597;Coxilha;47.403
+430600;Crissiumal;61.592
+430605;Cristal;62.972
+430607;Cristal do Sul;88.600
+430610;Cruz Alta;62.602
+430613;Cruzaltense;105.530
+430620;Cruzeiro do Sul;53.242
+430630;David Canabarro;56.740
+430632;Derrubadas;66.621
+430635;Dezesseis de Novembro;54.306
+430637;Dilermando de Aguiar;58.822
+430640;Dois Irmãos;62.901
+430642;Dois Irmãos das Missões;70.660
+430645;Dois Lajeados;105.880
+430650;Dom Feliciano;61.831
+430660;Dom Pedrito;65.611
+430655;Dom Pedro de Alcântara;85.000
+430670;Dona Francisca;76.590
+430673;Doutor Maurício Cardoso;61.841
+430675;Doutor Ricardo;80.391
+430676;Eldorado do Sul;58.660
+430680;Encantado;58.511
+430690;Encruzilhada do Sul;60.603
+430692;Engenho Velho;74.900
+430695;Entre Rios do Sul;73.940
+430693;Entre-Ijuís;68.443
+430697;Erebango;59.501
+430700;Erechim;35.670
+430705;Ernestina;58.673
+430720;Erval Grande;83.980
+430730;Erval Seco;72.521
+430740;Esmeralda;73.130
+430745;Esperança do Sul;59.692
+430750;Espumoso;57.970
+430755;Estação;73.970
+430760;Estância Velha;53.222
+430770;Esteio;42.303
+430780;Estrela;56.220
+430781;Estrela Velha;94.930
+430783;Eugênio de Castro;86.102
+430786;Fagundes Varela;78.561
+430790;Farroupilha;63.471
+430800;Faxinal do Soturno;83.350
+430805;Faxinalzinho;69.470
+430807;Fazenda Vilanova;66.782
+430810;Feliz;76.360
+430820;Flores da Cunha;63.990
+430825;Floriano Peixoto;75.631
+430830;Fontoura Xavier;77.752
+430840;Formigueiro;68.420
+430843;Forquetinha;65.303
+430845;Fortaleza dos Valos;69.220
+430850;Frederico Westphalen;72.101
+430860;Garibaldi;65.412
+430865;Garruchos;76.630
+430870;Gaurama;63.590
+430880;General Câmara;56.431
+430885;Gentil;46.710
+430890;Getúlio Vargas;55.682
+430900;Giruá;59.961
+430905;Glorinha;64.933
+430910;Gramado;57.704
+430912;Gramado dos Loureiros;86.210
+430915;Gramado Xavier;86.280
+430920;Gravataí;46.993
+430925;Guabiju;51.292
+430930;Guaíba;48.990
+430940;Guaporé;59.770
+430950;Guarani das Missões;55.910
+430955;Harmonia;87.160
+430710;Herval;8.500
+430957;Herveiras;101.230
+430960;Horizontina;59.283
+430965;Hulha Negra;48.302
+430970;Humaitá;47.952
+430975;Ibarama;88.371
+430980;Ibiaçá;97.890
+430990;Ibiraiaras;75.250
+430995;Ibirapuitã;72.621
+431000;Ibirubá;57.800
+431010;Igrejinha;53.760
+431020;Ijuí;58.152
+431030;Ilópolis;61.453
+431033;Imbé;60.711
+431036;Imigrante;69.980
+431040;Independência;41.890
+431041;Inhacorá;67.741
+431043;Ipê;80.360
+431046;Ipiranga do Sul;86.550
+431050;Iraí;71.350
+431053;Itaara;71.610
+431055;Itacurubi;74.711
+431057;Itapuca;81.670
+431060;Itaqui;24.103
+431065;Itati;98.610
+431070;Itatiba do Sul;92.990
+431075;Ivorá;77.561
+431080;Ivoti;52.260
+431085;Jaboticaba;97.600
+431087;Jacuizinho;80.370
+431090;Jacutinga;83.311
+431100;Jaguarão;44.520
+431110;Jaguari;70.391
+431112;Jaquirana;77.530
+431113;Jari;64.592
+431115;Jóia;89.810
+431120;Júlio de Castilhos;59.122
+431123;Lagoa Bonita do Sul;81.400
+431127;Lagoa dos Três Cantos;78.870
+431130;Lagoa Vermelha;60.920
+431125;Lagoão;65.320
+431140;Lajeado;64.904
+431142;Lajeado do Bugre;57.263
+431150;Lavras do Sul;41.390
+431160;Liberato Salzano;63.962
+431162;Lindolfo Collor;66.191
+431164;Linha Nova;128.390
+431171;Maçambará;43.320
+431170;Machadinho;74.741
+431173;Mampituba;98.720
+431175;Manoel Viana;54.692
+431177;Maquiné;41.421
+431179;Maratá;88.500
+431180;Marau;68.391
+431190;Marcelino Ramos;71.251
+431198;Mariana Pimentel;79.930
+431200;Mariano Moro;102.750
+431205;Marques de Souza;83.330
+431210;Mata;82.310
+431213;Mato Castelhano;92.690
+431215;Mato Leitão;63.172
+431217;Mato Queimado;81.760
+431220;Maximiliano de Almeida;69.711
+431225;Minas do Leão;45.452
+431230;Miraguaí;63.752
+431235;Montauri;65.190
+431237;Monte Alegre dos Campos;43.210
+431238;Monte Belo do Sul;146.820
+431240;Montenegro;56.372
+431242;Mormaço;69.861
+431244;Morrinhos do Sul;78.220
+431245;Morro Redondo;21.830
+431247;Morro Reuter;75.203
+431250;Mostardas;66.581
+431260;Muçum;66.240
+431261;Muitos Capões;48.801
+431262;Muliterno;62.722
+431265;Não-Me-Toque;58.140
+431267;Nicolau Vergueiro;58.571
+431270;Nonoai;65.882
+431275;Nova Alvorada;98.310
+431280;Nova Araçá;71.303
+431290;Nova Bassano;71.572
+431295;Nova Boa Vista;108.650
+431300;Nova Bréscia;82.621
+431301;Nova Candelária;87.340
+431303;Nova Esperança do Sul;74.731
+431306;Nova Hartz;57.293
+431308;Nova Pádua;41.261
+431310;Nova Palma;55.750
+431320;Nova Petrópolis;53.702
+431330;Nova Prata;61.500
+431333;Nova Ramada;64.742
+431335;Nova Roma do Sul;77.902
+431337;Nova Santa Rita;54.150
+431349;Novo Barreiro;79.121
+431339;Novo Cabrais;89.950
+431340;Novo Hamburgo;52.203
+431342;Novo Machado;80.410
+431344;Novo Tiradentes;71.252
+431346;Novo Xingu;112.750
+431350;Osório;53.862
+431360;Paim Filho;73.560
+431365;Palmares do Sul;52.611
+431370;Palmeira das Missões;47.870
+431380;Palmitinho;68.830
+431390;Panambi;58.340
+431395;Pantano Grande;49.404
+431400;Paraí;63.430
+431402;Paraíso do Sul;59.502
+431403;Pareci Novo;67.121
+431405;Parobé;62.892
+431406;Passa Sete;79.910
+431407;Passo do Sobrado;70.891
+431410;Passo Fundo;50.440
+431413;Paulo Bento;49.292
+431415;Paverama;102.610
+431417;Pedras Altas;71.703
+431420;Pedro Osório;40.420
+431430;Pejuçara;79.670
+431440;Pelotas;39.370
+431442;Picada Café;72.370
+431445;Pinhal;81.260
+431446;Pinhal da Serra;92.480
+431447;Pinhal Grande;38.551
+431449;Pinheirinho do Vale;71.521
+431450;Pinheiro Machado;49.111
+431454;Pinto Bandeira;58.730
+431455;Pirapó;85.500
+431460;Piratini;45.870
+431470;Planalto;61.371
+431475;Poço das Antas;160.650
+431477;Pontão;63.911
+431478;Ponte Preta;55.400
+431480;Portão;59.550
+431490;Porto Alegre;43.490
+431500;Porto Lucena;60.341
+431505;Porto Mauá;135.210
+431507;Porto Vera Cruz;90.400
+431510;Porto Xavier;77.301
+431513;Pouso Novo;90.210
+431514;Presidente Lucena;62.310
+431515;Progresso;72.301
+431517;Protásio Alves;51.831
+431520;Putinga;80.570
+431530;Quaraí;22.200
+431531;Quatro Irmãos;64.173
+431532;Quevedos;44.620
+431535;Quinze de Novembro;75.891
+431540;Redentora;62.511
+431545;Relvado;71.321
+431550;Restinga Seca;58.242
+431555;Rio dos Índios;71.430
+431560;Rio Grande;40.720
+431570;Rio Pardo;57.511
+431575;Riozinho;11.510
+431580;Roca Sales;75.951
+431590;Rodeio Bonito;66.001
+431595;Rolador;94.980
+431600;Rolante;66.341
+431610;Ronda Alta;72.942
+431620;Rondinha;95.500
+431630;Roque Gonzales;54.482
+431640;Rosário do Sul;20.870
+431642;Sagrada Família;81.270
+431643;Saldanha Marinho;83.920
+431645;Salto do Jacuí;91.460
+431647;Salvador das Missões;78.810
+431650;Salvador do Sul;69.720
+431660;Sananduva;53.553
+431710;Sant'Ana do Livramento;41.830
+431670;Santa Bárbara do Sul;75.721
+431673;Santa Cecília do Sul;77.841
+431675;Santa Clara do Sul;82.420
+431680;Santa Cruz do Sul;54.932
+431697;Santa Margarida do Sul;74.761
+431690;Santa Maria;56.933
+431695;Santa Maria do Herval;21.110
+431720;Santa Rosa;69.320
+431725;Santa Tereza;88.570
+431730;Santa Vitória do Palmar;41.873
+431700;Santana da Boa Vista;14.600
+431740;Santiago;63.621
+431750;Santo Ângelo;59.423
+431760;Santo Antônio da Patrulha;63.521
+431770;Santo Antônio das Missões;65.860
+431755;Santo Antônio do Palma;89.890
+431775;Santo Antônio do Planalto;82.342
+431780;Santo Augusto;54.721
+431790;Santo Cristo;88.740
+431795;Santo Expedito do Sul;35.822
+431800;São Borja;53.452
+431805;São Domingos do Sul;70.140
+431810;São Francisco de Assis;67.672
+431820;São Francisco de Paula;57.390
+431830;São Gabriel;54.230
+431840;São Jerônimo;52.181
+431842;São João da Urtiga;101.400
+431843;São João do Polêsine;63.483
+431844;São Jorge;63.001
+431845;São José das Missões;82.160
+431846;São José do Herval;78.520
+431848;São José do Hortêncio;75.691
+431849;São José do Inhacorá;52.904
+431850;São José do Norte;50.720
+431860;São José do Ouro;60.712
+431861;São José do Sul;103.960
+431862;São José dos Ausentes;59.883
+431870;São Leopoldo;48.843
+431880;São Lourenço do Sul;52.130
+431890;São Luiz Gonzaga;59.661
+431900;São Marcos;63.121
+431910;São Martinho;90.780
+431912;São Martinho da Serra;41.733
+431915;São Miguel das Missões;57.503
+431920;São Nicolau;69.700
+431930;São Paulo das Missões;82.270
+431935;São Pedro da Serra;95.460
+431936;São Pedro das Missões;50.664
+431937;São Pedro do Butiá;89.670
+431940;São Pedro do Sul;63.643
+431950;São Sebastião do Caí;61.152
+431960;São Sepé;55.981
+431970;São Valentim;69.140
+431971;São Valentim do Sul;115.740
+431973;São Valério do Sul;80.901
+431975;São Vendelino;81.900
+431980;São Vicente do Sul;58.760
+431990;Sapiranga;14.470
+432000;Sapucaia do Sul;48.311
+432010;Sarandi;66.701
+432020;Seberi;67.673
+432023;Sede Nova;89.430
+432026;Segredo;94.650
+432030;Selbach;78.680
+432032;Senador Salgado Filho;69.411
+432035;Sentinela do Sul;63.460
+432040;Serafina Corrêa;60.471
+432045;Sério;70.242
+432050;Sertão;71.380
+432055;Sertão Santana;62.592
+432057;Sete de Setembro;65.761
+432060;Severiano de Almeida;70.721
+432065;Silveira Martins;72.880
+432067;Sinimbu;70.162
+432070;Sobradinho;69.120
+432080;Soledade;57.840
+432085;Tabaí;53.143
+432090;Tapejara;68.820
+432100;Tapera;42.242
+432110;Tapes;56.320
+432120;Taquara;50.302
+432130;Taquari;52.671
+432132;Taquaruçu do Sul;65.321
+432135;Tavares;79.830
+432140;Tenente Portela;62.371
+432143;Terra de Areia;74.680
+432145;Teutônia;70.104
+432146;Tio Hugo;87.710
+432147;Tiradentes do Sul;95.100
+432149;Toropi;61.572
+432150;Torres;62.512
+432160;Tramandaí;44.602
+432162;Travesseiro;41.100
+432163;Três Arroios;92.201
+432166;Três Cachoeiras;72.640
+432170;Três Coroas;69.503
+432180;Três de Maio;57.990
+432183;Três Forquilhas;82.100
+432185;Três Palmeiras;58.160
+432190;Três Passos;55.111
+432195;Trindade do Sul;68.551
+432200;Triunfo;62.582
+432210;Tucunduva;69.351
+432215;Tunas;61.771
+432218;Tupanci do Sul;85.480
+432220;Tupanciretã;63.931
+432225;Tupandi;93.210
+432230;Tuparendi;72.943
+432232;Turuçu;52.643
+432234;Ubiretama;59.643
+432235;União da Serra;110.420
+432237;Unistalda;80.440
+432240;Uruguaiana;51.350
+432250;Vacaria;53.523
+432253;Vale do Sol;73.830
+432254;Vale Real;75.310
+432252;Vale Verde;54.121
+432255;Vanini;75.240
+432260;Venâncio Aires;66.980
+432270;Vera Cruz;64.471
+432280;Veranópolis;73.300
+432285;Vespasiano Correa;50.111
+432290;Viadutos;81.481
+432300;Viamão;31.340
+432310;Vicente Dutra;68.920
+432320;Victor Graeff;84.800
+432330;Vila Flores;64.500
+432335;Vila Lângaro;83.861
+432340;Vila Maria;80.001
+432345;Vila Nova do Sul;72.731
+432350;Vista Alegre;85.990
+432360;Vista Alegre do Prata;84.550
+432370;Vista Gaúcha;66.674
+432375;Vitória das Missões;73.840
+432377;Westfalia;71.341
+432380;Xangri-lá;55.751
+500020;Água Clara;51.674
+500025;Alcinópolis;101.640
+500060;Amambai;52.442
+500070;Anastácio;44.443
+500080;Anaurilândia;46.850
+500085;Angélica;61.171
+500090;Antônio João;74.551
+500100;Aparecida do Taboado;12.540
+500110;Aquidauana;58.552
+500124;Aral Moreira;53.511
+500150;Bandeirantes;74.670
+500190;Bataguassu;52.990
+500200;Batayporã;67.362
+500210;Bela Vista;48.173
+500215;Bodoquena;62.361
+500220;Bonito;63.682
+500230;Brasilândia;74.810
+500240;Caarapó;61.690
+500260;Camapuã;53.680
+500270;Campo Grande;55.560
+500280;Caracol;64.961
+500290;Cassilândia;78.490
+500295;Chapadão do Sul;85.420
+500310;Corguinho;39.100
+500315;Coronel Sapucaia;63.581
+500320;Corumbá;39.791
+500325;Costa Rica;68.101
+500330;Coxim;48.253
+500345;Deodápolis;43.850
+500348;Dois Irmãos do Buriti;48.502
+500350;Douradina;87.970
+500370;Dourados;34.330
+500375;Eldorado;70.420
+500380;Fátima do Sul;61.520
+500390;Figueirão;70.680
+500400;Glória de Dourados;63.310
+500410;Guia Lopes da Laguna;70.612
+500430;Iguatemi;63.203
+500440;Inocência;61.792
+500450;Itaporã;52.942
+500460;Itaquiraí;44.521
+500470;Ivinhema;64.543
+500480;Japorã;44.670
+500490;Jaraguari;57.691
+500500;Jardim;48.553
+500510;Jateí;182.600
+500515;Juti;80.870
+500520;Ladário;41.171
+500525;Laguna Carapã;45.522
+500540;Maracaju;47.391
+500560;Miranda;33.281
+500568;Mundo Novo;61.182
+500570;Naviraí;48.963
+500580;Nioaque;64.351
+500600;Nova Alvorada do Sul;43.591
+500620;Nova Andradina;58.781
+500625;Novo Horizonte do Sul;80.430
+500627;Paraíso das Águas;70.440
+500630;Paranaíba;42.781
+500635;Paranhos;77.271
+500640;Pedro Gomes;73.930
+500660;Ponta Porã;45.140
+500690;Porto Murtinho;42.281
+500710;Ribas do Rio Pardo;41.780
+500720;Rio Brilhante;50.210
+500730;Rio Negro;43.172
+500740;Rio Verde de Mato Grosso;59.693
+500750;Rochedo;45.881
+500755;Santa Rita do Pardo;60.911
+500769;São Gabriel do Oeste;59.424
+500780;Selvíria;68.821
+500770;Sete Quedas;77.871
+500790;Sidrolândia;49.990
+500793;Sonora;61.252
+500795;Tacuru;48.951
+500797;Taquarussu;72.270
+500800;Terenos;38.502
+500830;Três Lagoas;50.601
+500840;Vicentina;63.912
+510010;Acorizal;37.301
+510020;Água Boa;60.580
+510025;Alta Floresta;45.730
+510030;Alto Araguaia;62.893
+510035;Alto Boa Vista;48.831
+510040;Alto Garças;71.542
+510050;Alto Paraguai;58.172
+510060;Alto Taquari;67.363
+510080;Apiacás;59.592
+510100;Araguaiana;77.820
+510120;Araguainha;69.510
+510125;Araputanga;62.753
+510130;Arenápolis;52.140
+510140;Aripuanã;57.380
+510160;Barão de Melgaço;42.260
+510170;Barra do Bugres;39.880
+510180;Barra do Garças;40.580
+510185;Bom Jesus do Araguaia;61.140
+510190;Brasnorte;44.450
+510250;Cáceres;44.401
+510260;Campinápolis;27.611
+510263;Campo Novo do Parecis;55.780
+510267;Campo Verde;53.263
+510268;Campos de Júlio;73.401
+510269;Canabrava do Norte;82.203
+510270;Canarana;55.230
+510279;Carlinda;48.630
+510285;Castanheira;60.902
+510300;Chapada dos Guimarães;8.350
+510305;Cláudia;60.503
+510310;Cocalinho;63.260
+510320;Colíder;51.106
+510325;Colniza;57.350
+510330;Comodoro;43.470
+510335;Confresa;56.122
+510336;Conquista D'Oeste;68.670
+510337;Cotriguaçu;73.440
+510340;Cuiabá;35.750
+510343;Curvelândia;61.110
+510345;Denise;57.161
+510350;Diamantino;44.650
+510360;Dom Aquino;43.671
+510370;Feliz Natal;59.512
+510380;Figueirópolis D'Oeste;40.604
+510385;Gaúcha do Norte;46.460
+510390;General Carneiro;47.223
+510395;Glória D'Oeste;51.002
+510410;Guarantã do Norte;60.792
+510420;Guiratinga;39.610
+510450;Indiavaí;55.950
+510452;Ipiranga do Norte;52.561
+510454;Itanhangá;72.632
+510455;Itaúba;82.910
+510460;Itiquira;55.000
+510480;Jaciara;45.611
+510490;Jangada;47.291
+510500;Jauru;57.692
+510510;Juara;72.800
+510515;Juína;63.122
+510517;Juruena;71.841
+510520;Juscimeira;44.451
+510523;Lambari D'Oeste;82.880
+510525;Lucas do Rio Verde;64.951
+510530;Luciara;35.740
+510558;Marcelândia;54.470
+510560;Matupá;62.271
+510562;Mirassol d'Oeste;50.271
+510590;Nobres;50.222
+510600;Nortelândia;45.740
+510610;Nossa Senhora do Livramento;73.181
+510615;Nova Bandeirantes;64.450
+510620;Nova Brasilândia;94.120
+510621;Nova Canaã do Norte;56.841
+510880;Nova Guarita;57.811
+510618;Nova Lacerda;72.601
+510885;Nova Marilândia;59.750
+510890;Nova Maringá;57.332
+510895;Nova Monte Verde;46.982
+510622;Nova Mutum;61.153
+510617;Nova Nazaré;46.550
+510623;Nova Olímpia;44.372
+510619;Nova Santa Helena;72.760
+510624;Nova Ubiratã;62.802
+510625;Nova Xavantina;43.560
+510627;Novo Horizonte do Norte;55.351
+510626;Novo Mundo;72.910
+510631;Novo Santo Antônio;33.150
+510628;Novo São Joaquim;69.102
+510629;Paranaíta;51.441
+510630;Paranatinga;72.170
+510637;Pedra Preta;39.890
+510642;Peixoto de Azevedo;36.520
+510645;Planalto da Serra;63.644
+510650;Poconé;36.821
+510665;Pontal do Araguaia;54.782
+510670;Ponte Branca;58.112
+510675;Pontes e Lacerda;49.283
+510677;Porto Alegre do Norte;85.580
+510680;Porto dos Gaúchos;63.220
+510682;Porto Esperidião;50.830
+510685;Porto Estrela;44.502
+510700;Poxoréo;32.661
+510704;Primavera do Leste;62.723
+510706;Querência;70.983
+510715;Reserva do Cabaçal;84.780
+510718;Ribeirão Cascalheira;46.824
+510719;Ribeirãozinho;64.911
+510720;Rio Branco;70.281
+510757;Rondolândia;37.591
+510760;Rondonópolis;34.570
+510770;Rosário Oeste;38.220
+510775;Salto do Céu;81.600
+510724;Santa Carmem;69.420
+510774;Santa Cruz do Xingu;83.970
+510776;Santa Rita do Trivelato;69.441
+510777;Santa Terezinha;38.490
+510726;Santo Afonso;44.880
+510779;Santo Antônio do Leste;9.660
+510780;Santo Antônio do Leverger;12.270
+510785;São Félix do Araguaia;13.800
+510729;São José do Povo;78.901
+510730;São José do Rio Claro;54.551
+510735;São José do Xingu;76.950
+510710;São José dos Quatro Marcos;64.361
+510740;São Pedro da Cipa;40.891
+510787;Sapezal;63.980
+510788;Serra Nova Dourada;56.442
+510790;Sinop;53.921
+510792;Sorriso;64.870
+510794;Tabaporã;22.150
+510795;Tangará da Serra;51.492
+510800;Tapurah;71.543
+510805;Terra Nova do Norte;65.821
+510810;Tesouro;23.670
+510820;Torixoréu;77.740
+510830;União do Sul;80.850
+510835;Vale de São Domingos;66.803
+510840;Várzea Grande;21.770
+510850;Vera;75.390
+510550;Vila Bela da Santíssima Trindade;50.800
+510860;Vila Rica;61.432
+520005;Abadia de Goiás;44.444
+520010;Abadiânia;37.360
+520013;Acreúna;57.602
+520015;Adelândia;75.852
+520017;Água Fria de Goiás;115.380
+520020;Água Limpa;69.800
+520025;Águas Lindas de Goiás;44.610
+520030;Alexânia;35.330
+520050;Aloândia;47.430
+520055;Alto Horizonte;52.350
+520060;Alto Paraíso de Goiás;43.920
+520080;Alvorada do Norte;58.553
+520082;Amaralina;63.160
+520085;Americano do Brasil;54.971
+520090;Amorinópolis;61.253
+520110;Anápolis;37.870
+520120;Anhanguera;59.123
+520130;Anicuns;54.307
+520140;Aparecida de Goiânia;41.661
+520145;Aparecida do Rio Doce;118.940
+520150;Aporé;43.402
+520160;Araçu;45.523
+520170;Aragarças;47.821
+520180;Aragoiânia;59.252
+520215;Araguapaz;59.131
+520235;Arenópolis;73.000
+520250;Aruanã;45.190
+520260;Aurilândia;66.161
+520280;Avelinópolis;115.300
+520310;Baliza;55.841
+520320;Barro Alto;55.330
+520330;Bela Vista de Goiás;42.560
+520340;Bom Jardim de Goiás;71.304
+520350;Bom Jesus de Goiás;56.842
+520355;Bonfinópolis;69.263
+520357;Bonópolis;75.731
+520360;Brazabrantes;57.241
+520380;Britânia;54.821
+520390;Buriti Alegre;62.305
+520393;Buriti de Goiás;67.643
+520396;Buritinópolis;73.240
+520400;Cabeceiras;62.102
+520410;Cachoeira Alta;73.150
+520420;Cachoeira de Goiás;129.200
+520425;Cachoeira Dourada;56.741
+520430;Caçu;62.431
+520440;Caiapônia;62.171
+520450;Caldas Novas;60.420
+520455;Caldazinha;46.912
+520460;Campestre de Goiás;108.880
+520465;Campinaçu;64.341
+520470;Campinorte;69.190
+520480;Campo Alegre de Goiás;63.123
+520485;Campo Limpo de Goiás;47.942
+520490;Campos Belos;41.571
+520495;Campos Verdes;53.341
+520500;Carmo do Rio Verde;56.661
+520505;Castelândia;87.750
+520510;Catalão;56.530
+520520;Caturaí;70.850
+520530;Cavalcante;49.760
+520540;Ceres;55.861
+520545;Cezarina;48.380
+520547;Chapadão do Céu;62.383
+520549;Cidade Ocidental;55.312
+520551;Cocalzinho de Goiás;79.202
+520552;Colinas do Sul;72.641
+520570;Córrego do Ouro;64.952
+520580;Corumbá de Goiás;74.661
+520590;Corumbaíba;58.341
+520620;Cristalina;63.511
+520630;Cristianópolis;59.950
+520640;Crixás;56.941
+520650;Cromínia;86.110
+520660;Cumari;67.831
+520670;Damianópolis;84.470
+520680;Damolândia;60.903
+520690;Davinópolis;48.570
+520710;Diorama;64.501
+520830;Divinópolis de Goiás;54.702
+520725;Doverlândia;72.650
+520735;Edealina;45.980
+520740;Edéia;52.104
+520750;Estrela do Norte;38.972
+520753;Faina;38.201
+520760;Fazenda Nova;73.561
+520780;Firminópolis;70.231
+520790;Flores de Goiás;32.590
+520800;Formosa;44.420
+520810;Formoso;41.462
+520815;Gameleira de Goiás;48.151
+520840;Goianápolis;57.905
+520850;Goiandira;76.800
+520860;Goianésia;52.451
+520870;Goiânia;38.650
+520880;Goianira;60.882
+520890;Goiás;49.242
+520910;Goiatuba;58.702
+520915;Gouvelândia;73.241
+520920;Guapó;45.470
+520929;Guaraíta;45.112
+520940;Guarani de Goiás;86.800
+520945;Guarinos;99.750
+520960;Heitoraí;91.420
+520970;Hidrolândia;65.570
+520980;Hidrolina;45.541
+520990;Iaciara;48.782
+520993;Inaciolândia;89.101
+520995;Indiara;52.261
+521000;Inhumas;55.911
+521010;Ipameri;53.203
+521015;Ipiranga de Goiás;87.580
+521020;Iporá;50.112
+521030;Israelândia;56.880
+521040;Itaberaí;53.962
+521056;Itaguari;60.102
+521060;Itaguaru;57.540
+521080;Itajá;100.830
+521090;Itapaci;53.990
+521100;Itapirapuã;37.180
+521120;Itapuranga;61.131
+521130;Itarumã;95.691
+521140;Itauçu;62.212
+521150;Itumbiara;45.532
+521160;Ivolândia;85.841
+521170;Jandaia;56.281
+521180;Jaraguá;44.100
+521190;Jataí;54.001
+521200;Jaupaci;65.211
+521205;Jesúpolis;89.550
+521210;Joviânia;40.291
+521220;Jussara;56.501
+521225;Lagoa Santa;50.770
+521230;Leopoldo de Bulhões;72.501
+521250;Luziânia;41.803
+521260;Mairipotaba;52.651
+521270;Mambaí;66.541
+521280;Mara Rosa;61.101
+521290;Marzagão;60.883
+521295;Matrinchã;82.360
+521300;Maurilândia;46.343
+521305;Mimoso de Goiás;71.661
+521308;Minaçu;46.860
+521310;Mineiros;50.904
+521340;Moiporá;104.900
+521350;Monte Alegre de Goiás;61.820
+521370;Montes Claros de Goiás;61.470
+521375;Montividiu;62.732
+521377;Montividiu do Norte;48.911
+521380;Morrinhos;57.663
+521385;Morro Agudo de Goiás;77.903
+521390;Mossâmedes;64.330
+521400;Mozarlândia;56.560
+521405;Mundo Novo;70.243
+521410;Mutunópolis;58.650
+521440;Nazário;60.930
+521450;Nerópolis;45.902
+521460;Niquelândia;54.601
+521470;Nova América;90.501
+521480;Nova Aurora;30.200
+521483;Nova Crixás;64.451
+521486;Nova Glória;53.211
+521487;Nova Iguaçu de Goiás;71.850
+521490;Nova Roma;68.310
+521500;Nova Veneza;50.951
+521520;Novo Brasil;88.580
+521523;Novo Gama;39.760
+521525;Novo Planalto;21.610
+521530;Orizona;43.561
+521540;Ouro Verde de Goiás;65.222
+521550;Ouvidor;71.970
+521560;Padre Bernardo;35.160
+521565;Palestina de Goiás;40.260
+521570;Palmeiras de Goiás;60.103
+521580;Palmelo;103.330
+521590;Palminópolis;71.310
+521600;Panamá;86.590
+521630;Paranaiguara;68.301
+521640;Paraúna;53.980
+521645;Perolândia;68.562
+521680;Petrolina de Goiás;73.780
+521690;Pilar de Goiás;38.542
+521710;Piracanjuba;66.880
+521720;Piranhas;64.512
+521730;Pirenópolis;53.942
+521740;Pires do Rio;66.661
+521760;Planaltina;41.950
+521770;Pontalina;56.212
+521800;Porangatu;48.254
+521805;Porteirão;74.982
+521810;Portelândia;55.394
+521830;Posse;49.970
+521839;Professor Jamil;38.780
+521850;Quirinópolis;58.791
+521860;Rialma;49.380
+521870;Rianápolis;77.251
+521878;Rio Quente;77.161
+521880;Rio Verde;55.340
+521890;Rubiataba;65.121
+521900;Sanclerlândia;66.523
+521910;Santa Bárbara de Goiás;52.905
+521920;Santa Cruz de Goiás;70.431
+521925;Santa Fé de Goiás;55.270
+521930;Santa Helena de Goiás;52.981
+521935;Santa Isabel;57.830
+521940;Santa Rita do Araguaia;35.260
+521945;Santa Rita do Novo Destino;61.703
+521950;Santa Rosa de Goiás;73.801
+521960;Santa Tereza de Goiás;94.000
+521970;Santa Terezinha de Goiás;56.802
+521971;Santo Antônio da Barra;68.750
+521973;Santo Antônio de Goiás;57.882
+521975;Santo Antônio do Descoberto;46.840
+521980;São Domingos;56.891
+521990;São Francisco de Goiás;58.321
+522000;São João d'Aliança;70.402
+522005;São João da Paraúna;79.580
+522010;São Luís de Montes Belos;52.691
+522015;São Luíz do Norte;70.180
+522020;São Miguel do Araguaia;43.421
+522026;São Miguel do Passa Quatro;85.301
+522028;São Patrício;52.731
+522040;São Simão;55.790
+522045;Senador Canedo;40.411
+522050;Serranópolis;85.450
+522060;Silvânia;52.503
+522068;Simolândia;68.490
+522070;Sítio d'Abadia;90.340
+522100;Taquaral de Goiás;78.290
+522108;Teresina de Goiás;44.300
+522119;Terezópolis de Goiás;52.890
+522130;Três Ranchos;59.551
+522140;Trindade;56.713
+522145;Trombas;46.503
+522150;Turvânia;57.281
+522155;Turvelândia;64.491
+522157;Uirapuru;50.272
+522160;Uruaçu;49.991
+522170;Uruana;62.833
+522180;Urutaí;79.110
+522185;Valparaíso de Goiás;42.831
+522190;Varjão;56.481
+522200;Vianópolis;67.540
+522205;Vicentinópolis;48.110
+522220;Vila Boa;48.881
+522230;Vila Propício;39.950
+530010;Brasília;49.581
